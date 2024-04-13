@@ -1,0 +1,1835 @@
+OPTIONS_LANGUAGE_ENGLISH,"한국어
+",,,,English
+ACTION_ENTER,탑승,,,,Enter
+ACTION_PICKUP,줍기,,,,Pick Up
+ACTION_SWITCH,스위치,,,,Switch
+ACTION_USE,사용,,,,Use
+BANK_GUI_HEADER,오래된 글렌 은행,,,,Old Glenn Bank
+BANK_GUI_LOAN_BUTTON,대출,,,,Loans
+BANK_GUI_LOAN_CURRENT_LOAN,만기금액,,,,Total Due
+BANK_GUI_LOAN_DAILY_CHANGE,일불,,,,Daily Payment
+BANK_GUI_LOAN_INTEREST_RATE,총 이자,,,,Total Interest
+BANK_GUI_LOAN_LOAN_BALANCE,잔액,,,,Balance Due
+BANK_GUI_LOAN_TAKE_LOAN,대출 받기,,,,Take out a loan
+BANK_GUI_LOAN_WHEEL_INSTALLMENTS,할부,,,,Installments
+BANK_GUI_LOAN_WHEEL_LOAN_AMOUNT,대출 금액,,,,Loan Amount
+BANK_GUI_LOCATION,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+BANK_GUI_MINED_GOLD_OER,돈,,,,Money
+BANK_GUI_PARCELS_BUTTON,토지,,,,Parcels
+BANK_GUI_PARCELS_BUY,구매,,,,Buy
+BANK_GUI_PARCELS_CHOOSE_A_PARCEL,토지 선택,,,,Choose a parcel
+BANK_GUI_PARCELS_DATA,1평당 가격:@추가 임대 제공:@영역 넓이:@예상되는 금의 양:@토지의 오염도:@물이 흘러나오는 곳:@소유자:,,,,Price per sq ft:@Additional provision of rent:@Area:@Expected amount of gold:@Dirtiness of the parcel:@Water source:@Owner:
+BANK_GUI_PARCELS_OWNED,소유중,,,,Owned
+BANK_GUI_PARCELS_PRICE,매입 가격,,,,Buyout
+BANK_GUI_PARCELS_RENT,임대,,,,Lease
+BANK_GUI_PARCELS_RENTED,임대함,,,,Leased
+BANK_GUI_STOCK_BUTTON,주식,,,,Stock
+BANK_GUI_STOCK_DAY,1일,,,,1 Day
+BANK_GUI_STOCK_GOLD_US,골드 USD,,,,Gold USD
+BANK_GUI_STOCK_MONTH,1개월,,,,1 Month
+BANK_GUI_STOCK_MONTHS_3,3개월,,,,3 Months
+BANK_GUI_STOCK_MONTHS_6,6개월,,,,6 Months
+BANK_GUI_STOCK_WEEK,1주,,,,1 Week
+BANK_GUI_STOCK_YEAR,1년,,,,1 Year
+BLACKSMITH_CRAFT_BUTTON,제련,,,,Smelt
+BLACKSMITH_GOLD_CRAFT_AMOUNT_OF_GOLD,온스(oz) 제련,,,,Gold Amount Smelted
+BLACKSMITH_GOLD_CRAFT_COST,비용,,,,Cost
+BLACKSMITH_GOLD_CRAFT_GOLD_LOSS,손실량,,,,Gold Losses
+BLACKSMITH_GOLD_CRAFT_TIME,시간,,,,Time
+BLACKSMITH_GOLD_ORE_SALE_BUTTON_SUBMIT,판매,,,,Sell
+BLACKSMITH_GOLD_ORE_SALE_MARKET_PRICE,금괴 가격,,,,Bars Price
+BLACKSMITH_GOLD_ORE_SALE_PER_OZ,온스(oz) 당,,,,per oz
+BLACKSMITH_GOLD_ORE_SALE_SALE_TEXT,광석 세일 (-20%),,,,Ore Sale (-20%)
+BLACKSMITH_GOLD_ORE_SELLING,금 광석 판매,,,,Gold Ore Selling
+BLACKSMITH_GOLD_SMELTING,금 제련,,,,Gold Smelting
+BLACKSMITH_HEADER,대장장이,,,,Blacksmith
+BLACKSMITH_INFO_LOSS_OF_GOLD,금 손실,,,,Loss Of Gold
+BLACKSMITH_INFO_MELTING_TIME,제련에 걸리는 시간 (1온스 당),,,,Smelting Time (1 oz)
+BLACKSMITH_INFO_PRICE_PER_OZ,제련에 드는 비용 (1온스 당),,,,Smelting Price (1 oz)
+BLACKSMITH_INFO_SUM_OF_MELTED_GOLD,제련된 금 합계,,,,Smelted Gold Total
+BLACKSMITH_MINED_GOLD_ORE,채광한 금 광석,,,,Mined Gold Ore
+BLACKSMITH_ORE_INFO_BUTTON,정보,,,,Info
+BLACKSMITH_ORE_SALE_BUTTON,금 광석 판매,,,,Sell Gold Ore
+BLACKSMITH_ORE_UPGRADE_BUTTON,업그레이드,,,,Upgrade
+BLACKSMITH_PLACE_NAME,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+BUY_GUI_QUANTITY,수량,,,,Quantity
+BUY_GUI_STORAGE_SLOTS,저장고 슬롯,,,,Storage Slots
+BUY_GUI_TOTAL_COST,총 비용,,,,Money Received
+BUY_GUI_TRAILER_SLOTS,트레일러 슬롯,,,,Trailer Slots
+CASH_GUI_BUY,구매,,,,Buy
+CASH_GUI_ITEM,아이템,,,,Item
+CASH_GUI_LOCATION,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+CASH_GUI_POS,계산대,,,,Pos.
+CASH_GUI_PRICE,가격,,,,Price
+CASH_GUI_QUANTITY,수량,,,,Quantity
+CASH_GUI_SLOTS,슬롯,,,,Slots
+CASH_GUI_TOTAL_COST,총 가격,,,,Total Cost
+CASH_GUI_USED_SLOTS,사용이 된 슬롯,,,,Used Slots
+CONTROLS_DOZER_BLADE_DOWN,블레이드 내리기,,,,Blade Down
+CONTROLS_DOZER_BLADE_UP,블레이드 올리기,,,,Blade Up
+CONTROLS_DOZER_RIPPER_DOWN,리퍼 내리기,,,,Lower Ripper
+CONTROLS_DOZER_RIPPER_UP,리퍼 올리기,,,,Raise Ripper
+CONTROLS_EXCAVATOR_ARM_DOWN,굴삭기 큰 팔 내리기,,,,Lower Boom
+CONTROLS_EXCAVATOR_ARM_UP,굴삭기 큰 팔 올리기,,,,Raise Boom
+CONTROLS_EXCAVATOR_ARM2_DOWN,굴삭기 작은 팔 뒤로 이동,,,,Stick Backward
+CONTROLS_EXCAVATOR_ARM2_UP,굴삭기 작은 팔 앞으로 이동,,,,Stick Forward
+CONTROLS_EXCAVATOR_BUCKET_CLOSE,버킷 닫기,,,,Close Thumb
+CONTROLS_EXCAVATOR_BUCKET_DOWN,버킷 내리기,,,,Bucket Down
+CONTROLS_EXCAVATOR_BUCKET_OPEN,버킷 열기,,,,Open Thumb
+CONTROLS_EXCAVATOR_BUCKET_UP,버킷 올리기,,,,Bucket Up
+CONTROLS_GOLD_PANNING_CHANGE_MODE_GOLD_TAKE,금 채취 모드,,,,Gold picking mode
+CONTROLS_GOLD_PANNING_CHANGE_MODE_PANNING,금 패닝선별 모드,,,,Gold panning mode
+CONTROLS_GOLD_PANNING_EXIT_PANNING,패닝선별 모드에서 나가기,,,,Exit panning mode
+CONTROLS_GOLD_PANNING_MOVE_BACK,뒤로 움직이기,,,,Move Back
+CONTROLS_GOLD_PANNING_MOVE_DOWN,아래로 움직이기,,,,Move Down
+CONTROLS_GOLD_PANNING_MOVE_FORWARD,앞으로 움직이기,,,,Move Forward
+CONTROLS_GOLD_PANNING_MOVE_LEFT,왼쪽으로 움직이기,,,,Move Left
+CONTROLS_GOLD_PANNING_MOVE_RIGHT,오른쪽으로 움직이기,,,,Move Right
+CONTROLS_GOLD_PANNING_MOVE_UP,위로 움직이기,,,,Move Up
+CONTROLS_GOLD_PANNING_PICKUP_GOLD,금 집어올리기,,,,Pick up gold
+CONTROLS_GOLD_PANNING_ROTATE_BACK,뒤로 회전시키기,,,,Rotate Back
+CONTROLS_GOLD_PANNING_ROTATE_FORWARD,앞으로 회전시키기,,,,Rotate Forward
+CONTROLS_GOLD_PANNING_ROTATE_LEFT,왼쪽으로 회전시키기,,,,Rotate Left
+CONTROLS_GOLD_PANNING_ROTATE_RIGHT,오른쪽으로 회전시키기,,,,Rotate Right
+CONTROLS_LOADER_ARM_DOWN,로더 팔 내리기,,,,Arm Down
+CONTROLS_LOADER_ARM_UP,로더 팔 올리기,,,,Arm Up
+CONTROLS_LOADER_STERING_MODE,프론트-엔드 로더,,,,Front-End Loader
+CONTROLS_MACHINE_BRAKE,브레이크/후진,,,,Brake/Reverse
+CONTROLS_MACHINE_BUCKET_CAMERA,버킷 시점,,,,Thumb Camera
+CONTROLS_MACHINE_CAMERA,다음 시점,,,,Next Camera
+CONTROLS_MACHINE_CAMERA_AXIS_X_NEG,카메라 왼쪽으로 회전,,,,Rotate Camera Left
+CONTROLS_MACHINE_CAMERA_AXIS_X_POS,카메라 오른쪽으로 회전,,,,Rotate Camera Right
+CONTROLS_MACHINE_CAMERA_AXIS_Y_NEG,카메라 아래로 회전,,,,Rotate Camera Down
+CONTROLS_MACHINE_CAMERA_AXIS_Y_POS,카메라 위로 회전,,,,Rotate Camera Up
+CONTROLS_MACHINE_CAMERA_CABIN,캐빈 시점,,,,Cabin Camera
+CONTROLS_MACHINE_CAMERA_DRIVE,운전석 시점,,,,Drive Camera
+CONTROLS_MACHINE_CAMERA_ORBIT,자유 시점,,,,Rotatable Camera
+CONTROLS_MACHINE_ENGINE,시동,,,,Engine
+CONTROLS_MACHINE_EXIT,나가기,,,,Exit
+CONTROLS_MACHINE_HANDBRAKE,핸드브레이크,,,,Handbrake
+CONTROLS_MACHINE_HEADLIGHTS,헤드라이트,,,,Headlights
+CONTROLS_MACHINE_LOCK_DIFF,차동 잠금 장치,,,,Differential Lock
+CONTROLS_MACHINE_MODE_DRIVER,운전자 모드,,,,Driver Mode
+CONTROLS_MACHINE_MODE_OPERATOR,기계 제어 모드,,,,Operator Mode
+CONTROLS_MACHINE_ROTATE_LEFT,왼쪽으로 회전,,,,Rotate Left
+CONTROLS_MACHINE_ROTATE_RIGHT,오른쪽으로 회전,,,,Rotate Right
+CONTROLS_MACHINE_THROTTLE,가속,,,,Throttle
+CONTROLS_MACHINE_TURN_LEFT,좌측으로 돌기,,,,Turn Left
+CONTROLS_MACHINE_TURN_RIGHT,우측으로 돌기,,,,Turn Right
+CONTROLS_MAP,배낭,,,,Backpack
+CONTROLS_MENU,인게임/일시중지,,,,In-Game/Pause Menu
+CONTROLS_PANEL_HIDE,조작법 숨기기,,,,Hide Controls
+CONTROLS_PANEL_SHOW,조작법 보기,,,,Show Controls
+CONTROLS_PANNING_STERING_MODE,금 패닝선별,,,,Gold Panning
+CONTROLS_PICKING_STERING_MODE,금 집기,,,,Gold Picking
+CONTROLS_PICKUP_STERING_MODE,픽업 트럭,,,,Pickup Truck
+CONTROLS_PLAYER_ACTION,행동,,,,Action
+CONTROLS_PLAYER_CROUCH,앉기,,,,Crouch
+CONTROLS_PLAYER_JUMP,점프,,,,Jump
+CONTROLS_PLAYER_MOVE_BACKWARD,앞으로 움직이기,,,,Move Backward
+CONTROLS_PLAYER_MOVE_FORWARD,뒤로 움직이기,,,,Move Forward
+CONTROLS_PLAYER_MOVE_LEFT,좌측으로 움직이기,,,,Move Left
+CONTROLS_PLAYER_MOVE_RIGHT,우측으로 움직이기,,,,Move Right
+CONTROLS_PLAYER_MOVEMENT,움직임,,,,Movement
+CONTROLS_PLAYER_RUN,달리기,,,,Run
+CONTROLS_SHOVEL_DIG_MODE,굴삭기 채굴,,,,Excavator Digging
+CONTROLS_SHOVEL_STERING_MODE,굴삭기 운전,,,,Excavator Drive
+CONTROLS_WALK_MODE,걷기,,,,Walk
+FUEL_STATION_DIESEL_NO2,디젤 No. 2,,,,Diesel No. 2
+FUEL_STATION_GALLONS,갤런,,,,Gallons
+FUEL_STATION_HEADER,주유소,,,,Gas Station
+FUEL_STATION_PRICE_PRE_GALLON,갤런 당 가격,,,,Price per gallon
+FUEL_STATION_REFUEL,충전,,,,Refuel
+FUEL_STATION_SALE,가격,,,,Price $
+FUEL_STATION_SELFSERVICE,주유소,,,,Gas Station
+GOLD_PANNING,금 패닝선별,,,,Gold Panning
+GOLD_PANNING_TAKE_GOLD,금 집기,,,,Gold Picking
+GUI_ADD,추가,,,,Add
+GUI_BACK,뒤로가기,,,,Back
+GUI_CANCEL,취소,,,,Cancel
+HINT_DIFF_OFF,아스팔트 위에 주행 시에는 차동잠금장치를 비활성화 해야 합니다!,,,,You should disable the differential lock when you drive on asphalt!
+HINT_HANDBRAKE,핸드브레이크를 해제하십시오!,,,,Release the handbrake to move the machine!
+HINT_MACHINE_MOVING,기계가 움직이는 동안에는 내릴 수 없습니다!,,,,The machine cannot be exited while it is moving!
+HINT_NEW_WORKER,누군가 당신을 위해 일하기를 원합니다. 자세한 내용은 태블릿을 확인하세요!,,,,Somebody wants to work for you. Check your tablet for more information!
+HINT_NEW_WORKER_HEADER,새로운 이력서가 있습니다!,,,,You have a new resume!
+HUD_BROKEN,부서진 부품:,,,,Broken parts:
+HUD_COLLECTED_GOLD,금,,,,Gold
+HUD_DAY,일,,,,Day
+HUD_GEAR,기어,,,,Gear
+HUD_NOTIFICATION_ADD_TO_DIARY,일지에 추가 된 정보가 있습니다!,,,,Info added to Journal!
+HUD_OIL_PRESSURE,유압,,,,Oil Pressure
+HUD_REPAIRING,수리:,,,,Repairing:
+HUD_SLIDER_FUEL,연료,,,,Fuel
+HUD_SPEED,속도,,,,Speed
+HUD_TEMPERATURE,온도,,,,Temp
+HUD_TOREPAIR,수리:,,,,To Repair:
+INGAME_MENU_BACK_TO_OLD,다시...,,,,Back to...
+INGAME_MENU_BACK_TO_2_OLD,게임 불러오기,,,,Load Game
+INGAME_MENU_CONTINUE_DIGGING_OLD,채굴 계속하기,,,,Continue Digging
+INGAME_MENU_CONTINUE_DIGGING_2_OLD,광산으로 돌아가기,,,,Back To Mine
+INGAME_MENU_DIARY,일지,,,,Journal
+INGAME_MENU_GO_HOME_OLD,홈으로 가기,,,,Go Home
+INGAME_MENU_GO_HOME_2_OLD,메인메뉴로 가기,,,,Go to Main Menu
+INGAME_MENU_MAP,지도,,,,Map
+INGAME_MENU_NOTEBOOK,태블릿,,,,Tablet
+INGAME_MENU_SAVE_SEASON_OLD,시즌,,,,Save season
+INGAME_MENU_SAVE_SEASON_2_OLD,게임 저장,,,,Save Game
+MACHINE_DOZER,불도저,,,,Bulldozer
+MACHINE_EXCAVATOR,굴삭기,,,,Excavator
+MACHINE_EXCAVATOR_DIGGING,굴삭기 채굴,,,,Excavator Digging
+MACHINE_EXCAVATOR_DRIVE,굴삭기 운전,,,,Excavator Driving
+MACHINE_PICKUP,픽업 트럭,,,,Pickup Truck
+MACHINE_WHEEL_LOADER,프론트-엔드 로더,,,,Front-End Loader
+MENU_BUTTON_APPLY,적용,,,,Apply
+MENU_BUTTON_BACK,뒤로가기,,,,Back
+MENU_BUTTON_NO,아니요,,,,No
+MENU_BUTTON_PLAY,시작,,,,Play
+MENU_BUTTON_SUBMIT,선택,,,,Select
+MENU_BUTTON_YES,예,,,,Yes
+MENU_DELETE_GAME,삭제,,,,Delete
+MENU_LABEL_GOLD,금,,,,Gold
+MENU_LABEL_MONEY,들어온 돈,,,,Earned Money
+MENU_LABEL_PARCELS,토지,,,,Parcels
+MENU_LABEL_TIME,시간,,,,Time
+MENU_LOAD_GAME,게임 불러오기,,,,Load Game
+MENU_OPTIONS,설정,,,,Settings
+MENU_OPTIONS_CONTROL,컨트롤,,,,Controls
+MENU_OPTIONS_CONTROL_2_OLD,설정 및 제어,,,,Setup & Controls
+MENU_OPTIONS_GAME,게임,,,,Game
+MENU_OPTIONS_GAME_2,언어 및 게임 설정,,,,Language & Game Settings
+MENU_OPTIONS_GRAPHICS,그래픽,,,,Graphics
+MENU_OPTIONS_GRAPHICS_2_OLD,퍼포먼스 설정,,,,Performance & Settings
+MENU_OPTIONS_SOUND,소리,,,,Sound
+MENU_OPTIONS_SOUND_2,음향 설정,,,,Volume Settings
+MENU_SAVE_GAME,게임 저장,,,,Save Game
+MENU_SURE_BACK_TO_DEFAULT,변경사항을 취소하고 기본값으로 설정하시겠습니까?,,,,Do you want to discard changes and set to default?
+MENU_SURE_DISCARD_CHANGES,변경사항을 취소하고 나가시겠습니까?,,,,Do you want to discard changes and exit?
+MENU_SURE_DISCARD_CHANGES_BACK,뒤로가기,,,,Back
+OPTIONS_ANTIALIASIG_QUALITY_1,비활성화,,,,Disabled
+OPTIONS_ANTIALIASIG_QUALITY_2,중간,,,,Med
+OPTIONS_ANTIALIASIG_QUALITY_3,높음,,,,High
+OPTIONS_ANTIALIASIG_QUALITY_4,울트라,,,,Ultra
+OPTIONS_CONTROL_MAP,컨트롤 대상,,,,Controls For
+OPTIONS_CONTROL_PAD_CUSTOM_MODE,커스텀,,,,Custom
+OPTIONS_CONTROL_PAD_EXCAVATOR_FIRST_MODE,ISO,,,,ISO
+OPTIONS_CONTROL_PAD_EXCAVATOR_SECOND_MODE,SAE,,,,SAE
+OPTIONS_CONTROL_PAD_FIRST_MODE,스탠다드,,,,Standard
+OPTIONS_CONTROL_RESTORE_DEFAULTS_WINDOW_TITLE,기본값,,,,Defaults
+OPTIONS_DISABLED,비활성화,,,,Disabled
+OPTIONS_ENABLED,활성화,,,,Enabled
+OPTIONS_GRAPHICS_ANISOTROPICFILTERING,이방성 필터링,,,,Anisotropic Filtering
+OPTIONS_GRAPHICS_ANISOTROPICFILTERING_1,끄기,,,,Off
+OPTIONS_GRAPHICS_ANISOTROPICFILTERING_2,텍스쳐 설정,,,,Texture Settings
+OPTIONS_GRAPHICS_ANISOTROPICFILTERING_3,다 켜기,,,,Enabled For All
+OPTIONS_GRAPHICS_ANTIALIASING,안티앨러이싱,,,,Antialiasing
+OPTIONS_GRAPHICS_FOLIAGE,잎 밀도,,,,Foliage Density
+OPTIONS_GRAPHICS_MODELQUALITY,디테일 품질,,,,Detail Quality
+OPTIONS_GRAPHICS_OTHER,효과 이펙트 및 반사 효과,,,,Particles and Reflections
+OPTIONS_GRAPHICS_OTHER_1,낮음,,,,Low
+OPTIONS_GRAPHICS_OTHER_2,보통,,,,Med
+OPTIONS_GRAPHICS_OTHER_3,높음,,,,High
+OPTIONS_GRAPHICS_OTHER_4,울트라,,,,Ultra
+OPTIONS_GRAPHICS_QUALITY_1,낮음,,,,Low
+OPTIONS_GRAPHICS_QUALITY_2,보통,,,,Med
+OPTIONS_GRAPHICS_QUALITY_3,높음,,,,High
+OPTIONS_GRAPHICS_QUALITY_4,울트라,,,,Ultra
+OPTIONS_GRAPHICS_QUALITY_CUSTOM,커스텀,,,,Custom
+OPTIONS_GRAPHICS_RESOLUTION,해상도,,,,Resolution
+OPTIONS_GRAPHICS_SHADOWDISTANCE,그림자 거리,,,,Shadow Distance
+OPTIONS_GRAPHICS_SHADOWDISTANCE_1,낮음,,,,Low
+OPTIONS_GRAPHICS_SHADOWDISTANCE_2,보통,,,,Med
+OPTIONS_GRAPHICS_SHADOWDISTANCE_3,높음,,,,High
+OPTIONS_GRAPHICS_SHADOWDISTANCE_4,울트라,,,,Ultra
+OPTIONS_GRAPHICS_SHADOWQUALITY,그림자 품질,,,,Shadow Quality
+OPTIONS_GRAPHICS_SSAO,SSAO,,,,SSAO
+OPTIONS_GRAPHICS_TEXTURE_1,낮음,,,,Low
+OPTIONS_GRAPHICS_TEXTURE_2,보통,,,,Med
+OPTIONS_GRAPHICS_TEXTURE_3,높음,,,,High
+OPTIONS_GRAPHICS_TEXTURE_4,울트라,,,,Ultra
+OPTIONS_GRAPHICS_TEXTUREQUALITY,텍스쳐 품질,,,,Texture Quality
+OPTIONS_GRAPHICS_VSYNC,수직 동기화,,,,VSync
+OPTIONS_GRAPHICS_WATER,물 품질,,,,Water Quality
+OPTIONS_GRAPHICS_WINDOW_TYPE,윈도우 타입,,,,Window Type
+OPTIONS_GRAPHICS_WINDOW_TYPE_1,윈도우,,,,Window
+OPTIONS_GRAPHICS_WINDOW_TYPE_2,전체화면,,,,Fullscreen
+OPTIONS_INVERT_X,컨트롤러 X축 반전,,,,Invert Controller X-axis
+OPTIONS_INVERT_Y,컨트롤러 Y축 반전,,,,Invert Controller Y-axis
+OPTIONS_KEYBOARD_CONTROLL,키보드 조작법,,,,Keyboard Control
+OPTIONS_LANGUAGE,언어,,,,Language
+OPTIONS_LODBIAS_QUALITY_1,낮음,,,,Low
+OPTIONS_LODBIAS_QUALITY_2,보통,,,,Med
+OPTIONS_LODBIAS_QUALITY_3,높음,,,,High
+OPTIONS_LODBIAS_QUALITY_4,울트라,,,,Ultra
+OPTIONS_MOUSE_SENSIVITY,마우스 감도,,,,Mouse Sensitivity
+OPTIONS_PAD_CONTROLL,컨트롤러,,,,Controller
+OPTIONS_PAD_CUSTOM_CONTROLL,컨트롤러 커스터마이즈,,,,Customize Controller
+OPTIONS_PAD_SENSIVITY,패드 감도,,,,Pad Sensitivity
+OPTIONS_PRESS_KEY,키를 누르세요,,,,Press Button
+OPTIONS_QUALITY,품질,,,,Quality
+OPTIONS_SOUND_MASTER,마스터,,,,Master
+OPTIONS_SOUND_MUSIC,음악,,,,Music
+OPTIONS_SOUND_SFX,효과 볼륨,,,,Effects Volume
+OPTIONS_SOUND_VO,데일로그 볼륨,,,,Dialogue Volume
+OPTIONS_VSYNC_1,비활성화,,,,Disabled
+OPTIONS_VSYNC_2,활성화,,,,Enabled
+OPTIONS_WALKING,걷기,,,,Walking
+PRE_BUY_GUI_COST,가격,,,,Cost
+PRE_BUY_GUI_ITEM,아이템,,,,Item
+PRE_BUY_GUI_PRESS,누르기,,,,Press
+PRE_BUY_GUI_PRESS_TO_ORDER,주문하기,,,,To Order
+SHOP_ITEM_EQUIPMENT_BUCKET_DESC,양동이를 발명한 사람에게 신의 축복을... 많이 사는 것에 대해 두려워 하지 마세요. 많이 사도 지나치지 않습니다.,,,,God bless the person who invented the bucket. Don't be afraid of buying lots of them. You can never have too many.
+SHOP_ITEM_EQUIPMENT_BUCKET_NAME,양동이,,,,Bucket
+SHOP_ITEM_EQUIPMENT_CARJACK_DESC,"맨손으로 픽업 트럭을 올리려고 한다면 참 바보같은 짓입니다. 자동차 잭을 이용하여 쉽게 올리세요. 이건 정말로, 정말로 쌉니다.",,,,"Don't try to lift your Pickup Truck with your bare hands. A Car Jack will do it more easily and it's really, really cheap."
+SHOP_ITEM_EQUIPMENT_CARJACK_NAME,자동차 잭,,,,Car Jack
+SHOP_ITEM_EQUIPMENT_GOLDPAN_DESC,"만약 누군가가 광부에게 금괴를 위한 가장 기본적인 도구는 무엇인지 물어본다면, 답은 명확합니다. - 금 냄비",,,,If anyone asks a miner what is the most basic tool for gold panning. The answer is clear ? a gold pan.
+SHOP_ITEM_EQUIPMENT_GOLDPAN_NAME,금 냄비,,,,Gold Pan
+SHOP_ITEM_EQUIPMENT_HOGPANMUD_DESC,"호그 팬을 위한 고급 먼지 호퍼, 물 펌프를 가져 와서 연결하세요! 당신은 광맥만 공급하면 됩니다.",,,,Advanced dirt hopper for the Hog Pan. Take a water pump and plug it in! You'll only have to supply the pay dirt.
+SHOP_ITEM_EQUIPMENT_HOGPANMUD_NAME,호그 팬 펌프,,,,Hog Pan Pump
+SHOP_ITEM_EQUIPMENT_HOGPANMUDNOWATERPUMP_DESC,"호그 팬을 위한 기본 먼지 호퍼, 당신은 광맥을 행구기 위해 물로 채워진 양동이를 사용해야 합니다.",,,,Basic dirt Hopper for the Hog Pan. You have to use buckets filled with water to rinse the pay dirt.
+SHOP_ITEM_EQUIPMENT_HOGPANMUDNOWATERPUMP_NAME,호그 팬 펌프 없음,,,,Hog Pan No Pump
+SHOP_ITEM_EQUIPMENT_HOGPANSLUICE1_DESC,광업 일지를 시작하실껀가요? 호그 팬 시스템이 핵심부분입니다. 초보자에게 권장됩니다.,,,,Do you want to start your mining journey? This one is the core part of the Hog Pan System. Recommended for greenhorns.
+SHOP_ITEM_EQUIPMENT_HOGPANSLUICE1_NAME,호그 팬 슬루이스박스 코어,,,,Hog Pan Sluicebox Core
+SHOP_ITEM_EQUIPMENT_HOGPANSLUICE2_DESC,호그 팬 슬루이스를 확장하세요. 매트가 2개 더 있으면 금을 두배를 더 모을 수 있습니다.,,,,Extension for the Hog Pan basic sluice. With two additional Mats you will be able of gathering twice as much gold.
+SHOP_ITEM_EQUIPMENT_HOGPANSLUICE2_NAME,호그 팬 슬루이스 확장,,,,Hog Pan Sluicebox Extension
+SHOP_ITEM_EQUIPMENT_HOOKROPE5_DESC,스틸 케이블은 강철로 되어있어 튼튼합니다. 설마 이것을 깨뜨렸다구요? 정말 자랑스럽네요.,,,,"The strongest Steel Cable out there. It's not that easy to break them, so if you break it - that's something to be proud of."
+SHOP_ITEM_EQUIPMENT_HOOKROPE5_NAME,5미터 스틸 케이블,,,,5m Steel Cable
+SHOP_ITEM_EQUIPMENT_JERRYCAN_DESC,"주유소에서 제가 믹에게 ""안녕!"" 이라고 말했습니다. 그 사람한테 연락을 해보세요. 두 분은 자주 만나실 겁니다.",,,,"Tell Mick from the Gas Station I said ""Hi!"". You should get in touch with him. Two of you will often see each other."
+SHOP_ITEM_EQUIPMENT_JERRYCAN_NAME,연료통,,,,Jerrycan
+SHOP_ITEM_EQUIPMENT_MAGNETITESEPARATOR_DESC,광업으로 돈을 좀 더 벌고 싶으신가요? 자철석 선별기를 구입하세요. 추출된 자철석은 공장에 판매 될 수 있습니다.,,,,Do you want to earn a bit more money from your mining? Buy a magnetite separator - extracted magnetite can be sold to the Blacksmith.
+SHOP_ITEM_EQUIPMENT_MAGNETITESEPARATOR_NAME,자철석 선별기,,,,Magnetite Separator
+SHOP_ITEM_EQUIPMENT_MINERSGRILLE_DESC,광부의 모스를 그릴로 고정하는 것을 잊지 마세요. 그렇지 않으면 모스가 느슨해져 금을 잃게 될 것입니다.,,,,"Don't forget to secure your Miner's Moss with Miner's Grille, otherwise it'll get loose and you'll lose gold."
+SHOP_ITEM_EQUIPMENT_MINERSGRILLE_NAME,광부 그릴,,,,Miner's Grille
+SHOP_ITEM_EQUIPMENT_MINERSMOSS_DESC,워시 플랜트 시스템 용 매트가 있습니다. 이것들을 적절한 슬루이스박스에 놓고 금광석을 추가로 수집하세요!,,,,Big Mats for Wash Plant System. Put them on the proper Sluiceboxes and gather additional gold ore!
+SHOP_ITEM_EQUIPMENT_MINERSMOSS_NAME,광부 모스,,,,Miner's Moss
+SHOP_ITEM_EQUIPMENT_MOBILEGENERATOR_DESC,발전기의 기본 모델. 모든 작은 기계 들에게 전력을 공급할 수 있습니다. 큰 것을 위해서는 더 나은 것을 찾아야 해요!,,,,"The basic model of the Generator. It can power all smaller machines. For bigger ones, you have to find something better!"
+SHOP_ITEM_EQUIPMENT_MOBILEGENERATOR_NAME,휴대용 발전기,,,,Mobile Generator
+SHOP_ITEM_EQUIPMENT_PANNINGSYSTEM_DESC,"그냥 단지 그릇이에요. 커다란 빈 그릇, 여기에 물을 채우고 금을 위해 팬에 올리세요?",,,,It's just a bowl. A big empty bowl. Fill it with water and pan for gold!
+SHOP_ITEM_EQUIPMENT_PANNINGSYSTEM_NAME,패닝선별 시스템,,,,Big Bowl
+SHOP_ITEM_EQUIPMENT_POWERROPEFAT_DESC,고전압 케이블은 큰 기계에 사용됩니다. 플러그의 색을 보면 플러그가 그 중 하나인지 알 수 있을거예요!,,,,A high voltage cable used in big machines. Take a look at the color of the plug and you will know if it's the one!
+SHOP_ITEM_EQUIPMENT_POWERROPEFAT_NAME,고전압 케이블,,,,High Voltage Power Cable
+SHOP_ITEM_EQUIPMENT_POWERROPETHIN_DESC,저전압 케이블은 소형 기계에 사용됩니다. 플러그의 색을 보면 플러그가 그 중 하나인지 알 수 있을거예요!,,,,A low voltage cable used in smaller machines. Take a look at the color of the plug and you will know if it's the one!
+SHOP_ITEM_EQUIPMENT_POWERROPETHIN_NAME,저전압 케이블,,,,Low Voltage Power Cable
+SHOP_ITEM_EQUIPMENT_WATERPUMP_SMALL_DESC,가장 기본적인 물 펌프입니다. 단거리 및 높은 수압의 낮은 필요성에도 유용합니다!,,,,A basic water pump. Useful for short distances and low necessity of high water pressure!
+SHOP_ITEM_EQUIPMENT_WATERPUMP_SMALL_NAME,소형 물 펌프,,,,Small Diesel Water Pump
+SHOP_ITEM_EQUIPMENT_WATERROPEFAT_DESC,먼 거리에서도 물을 퍼올리고 싶으신가요? 새로운 빨간 물 호스를 사서 펌프질을 하세요!,,,,Do you want to pump a lot of water over long distances? Buy our brand new Fat Water Hose and pump it!
+SHOP_ITEM_EQUIPMENT_WATERROPEFAT_NAME,굵은 물 호스,,,,Fat Water Hose
+SHOP_ITEM_EQUIPMENT_WATERROPETHIN_DESC,새로운 정원 물 호스가 당신을 찾고 있는 건가요? 주저하기 말고 바로 사세요. 기계들은 분명히 좋아 할겁니다.,,,,Is our new garden water hose what you're looking for? Don't hesitate and buy it. Your machinery will be thankful!
+SHOP_ITEM_EQUIPMENT_WATERROPETHIN_NAME,얇은 물 호스,,,,Thin Water Hose
+SHOP_ITEM_EQUIPMENT_WAVETABLE_DESC,직접 손으로 금을 캐는 것이 지치셨나요? 웨이브 테이블을 추천드립니다! 흙을 안에 붓고 그냥 구경만 하세요! 저절로 여러분의 병은 금으로 가득 차 있을겁니다!,,,,Are you tired of panning gold manually? Buy a Wave Table! Pour the soil inside and look how your jars are filling with gold!
+SHOP_ITEM_EQUIPMENT_WAVETABLE_NAME,웨이브 테이블,,,,Wave Table
+SHOP_ITEM_PARTS_BATTERY_DESC,"거의 모든 채광기를 위한 범용 배터리입니다. 다음 번에, 잊지 말고 불을 끄세요!",,,,"Universal battery for almost every mining machine. Next time, don't forget to turn off your lights!"
+SHOP_ITEM_PARTS_BATTERY_NAME,배터리,,,,Battery
+SHOP_ITEM_PARTS_BULLDOZER_TRACK_DESC,당신은 그것이 어떻게 생겼는지 상상할 필요가 없습니다. 불도저 트랙을 파괴하는 것은 흔한 일이 아닙니다!,,,,I don't have to imagine what that claim looked like. It's not common to destroy the Bulldozer Track!
+SHOP_ITEM_PARTS_BULLDOZER_TRACK_NAME,불도저 트랙,,,,Bulldozer Track
+SHOP_ITEM_PARTS_COG_INNER_DESC,오직 한 개의 톱니바퀴로 기계를 수리할 수 있는 굴삭기는 없습니다. 똑똑해지셨다면 그냥 한 세트를 사세요.,,,,"There is no Excavator operator who would dare to fix the machine with only one Cog. Be smarter, buy the full set."
+SHOP_ITEM_PARTS_COG_INNER_NAME,내부 톱니,,,,Inner Cog
+SHOP_ITEM_PARTS_COG_OUTER_DESC,굴삭기 구동 시스템의 일부입니다. 가운데 슬롯에 넣지 마세요.,,,,It's a part of the Excavator's drive system. Just try not to put it in the middle slot.
+SHOP_ITEM_PARTS_COG_OUTER_NAME,외부 톱니,,,,Outer Cog
+SHOP_ITEM_PARTS_EXCAVATOR_TRACK_DESC,당신은 임금의 오점을 운반하기 위해 무언가를 사는 것을 고려해야 합니다. 그렇지 않으면 당신은 항상 트랙을 교체해야 합니다!,,,,You should consider buying something to transport your pay dirt or you'll have to replace the tracks all the time!
+SHOP_ITEM_PARTS_EXCAVATOR_TRACK_NAME,굴삭기 트랙,,,,Excavator Track
+SHOP_ITEM_PARTS_FUELFILTER_DESC,"이런, 또 기름이 떨어지셨군요? 필터를 한....두 개..? 아니, 그냥 세 개를 사세요! 다음에 또 오지 않으셔도 됩니다!",,,,Have you run out of the gas again? Buy a filter or three. You wouldn't have to come here again next time!
+SHOP_ITEM_PARTS_FUELFILTER_NAME,연료 필터,,,,Fuel Filter
+SHOP_ITEM_PARTS_HYDRAULICHOSE_DESC_OLD,"굴삭기 부셨지? 어? 그럼 이 호스를 가지고 다시 청구하세요. 기억하세요, 시간은 돈입니다!",,,,"Broke the Excavator, huh? Take this hose and go back to your claim. Remember, time is money!"
+SHOP_ITEM_PARTS_HYDRAULICHOSE_NAME,유압 호스,,,,Hydraulic Hose
+SHOP_ITEM_PARTS_TROMMEL_CHAIN_DESC,엔진 출력을 트롬멜로 전달하여 구동합니다. 교체하기는 매우 매우 쉽겠지만 구입하는데 비용이 조금 많이 들겁니다!,,,,It transfers the engine power to the Trommel and drives it. It's easy to replace but expensive to buy!
+SHOP_ITEM_PARTS_TROMMEL_CHAIN_NAME,트롬멜 체인,,,,Trommel Chain
+SHOP_ITEM_PARTS_WATERFILTER_DESC,"우리의 강은 오염되었습니다. 정부들은 이를 청소해야 하는 것을 생각해야 합니다. 그 때까지, 펌프를 막지 않도록 워터 필터를 구입하세요!",,,,"Our rivers are filled with pollution. The government ought to think about cleaning them. Until then, buy a water filter to not clog your pump!"
+SHOP_ITEM_PARTS_WATERFILTER_NAME,워터 필터,,,,Water Filter
+SHOP_ITEM_PARTS_WAVETABLE_JETS_DESC,우리는 웨이브 테이블이 없는 금 패닝이 반복적이라는 것을 알고 있습니다.. 그래서 우리는 항상 여러분의 웨이브 테이블을 위한 예비 부품을 보유하고 있습니다!,,,,We know gold panning without a Wave Table is repetitive. That's why we always have spare parts for your Wave Table!
+SHOP_ITEM_PARTS_WAVETABLE_JETS_NAME,웨이브 테이블 제트,,,,Wave Table Jets
+SHOP_ITEM_PARTS_WHEEL_PICKUP_DESC,저런.. 타이어가 펑크나셨나요? 스페어 휠을 구입해서 교체해보세요. 자동차 잭도 잊지마세요! 그거 무조건 필요할 거야!,,,,Did you get a flat tire in the middle of the road? Buy a spare Wheel and replace it. Don't forget about a Car Jack. You're going to need it!
+SHOP_ITEM_PARTS_WHEEL_PICKUP_NAME,픽업 트럭 휠,,,,Pickup Truck Wheel
+SHOP_ITEM_PARTS_WHEEL_TRAILER_WASHPLANT_DESC,모바일 워시 플랜트가 더이상 가동되지 않나요? 개선된 고무로 새 휠을 구매하고 고장난 바퀴를 교체하세요!,,,,The Mobile Wash Plant isn't mobile anymore? Buy a new Wheel with improved rubber and replace the broken one!
+SHOP_ITEM_PARTS_WHEEL_TRAILER_WASHPLANT_NAME,휴대용 워시 플랜트 휠,,,,Mobile Wash Plant Wheel
+SHOP_ITEM_TRAILER_BIG_DESC,이제 왔다갔다 하지 마세요! 우리의 특별한 트레일러를 하나 사서 즉시 모든 물건을 가져하세요!,,,,Don’t waste your time driving to the Equipment Store multiple times! Buy one of our extraordinary trailers and take all your goods with you at once!
+SHOP_ITEM_TRAILER_BIG_NAME,큰 트레일러,,,,Big Trailer
+SHOP_ITEM_TRAILER_FUELTANK_DESC,연료통을 재충전 하는 것도 지치셨나요? 연료 탱크를 구입하시고 모든 기계를 한 번에 충전하세요!,,,,Are you tired of refilling Jerrycans all day long? Buy a fuel tank and refill all your machines at once!
+SHOP_ITEM_TRAILER_FUELTANK_NAME,휴대용 연료 탱크,,,,Mobile Fuel Tank
+SHOP_ITEM_TRAILER_SMALL_DESC,헉..큰 트레일러를 살 돈이 충분하지 않은가요? 더 작은 것을 사세요. 거의 똑같지만 이건 반값이에요!,,,,"You don't have enough money for a Big Trailer? Buy a smaller one. It's almost the same, but half the price!"
+SHOP_ITEM_TRAILER_SMALL_NAME,작은 트레일러,,,,Small Trailer
+SHOP_ITEM_TRAILER_WASHPLANT_DESC,"만약 전문적인 광부가 되고 싶지만 당신의 지갑이 ""아니야"" 라고 말하면, 이 워시 플랜트를 사세요. 그건 그 가격에 가장 효율적인 기계입니다!",,,,"If you want to be a professional miner but your wallet says no, buy this Wash Plant. It's the most efficient machine for that price!"
+SHOP_ITEM_TRAILER_WASHPLANT_NAME,휴대용 워시 플랜트,,,,Mobile Wash Plant
+SHOP_MACHINES_EQUIPMENT_DUPLEX_JIG_DESC,그것은 중력을 사용하여 자갈과 수당을 분리합니다. 금을 세척하기 전에 거치게되는 마지막 단계에요!,,,,It uses gravity to separate the gravel from the pay dirt. It’s the final step before rinsing the gold!
+SHOP_MACHINES_EQUIPMENT_DUPLEX_JIG_NAME,듀플렉스 지그,,,,Duplex Jig
+SHOP_MACHINES_EQUIPMENT_FUELTANK_STATIONARY_DESC,당신의 기계에 연료가 필요합니다! 알래스카에서는 주유소가 당신의 집에서 멀리 떨어져 있습니다! 광부들이 정말 행복해 하겠는걸요!,,,,"Your machines require fuel! In Alaska, gas stations are far away from the claims! It will make every miner happy!"
+SHOP_MACHINES_EQUIPMENT_FUELTANK_STATIONARY_NAME,큰 연료 탱크,,,,Big Fuel Tank
+SHOP_MACHINES_EQUIPMENT_POWERGENERATOR_STATIONARY_DESC,큰 힘이 있으면 큰 책임이 생기죠. 이 괴물은 여러분 집에 있는 모든 기계를 작동 시킬수 있습니다!,,,,With great power comes great responsibility. This monster is capable of juicing up all your machines on the claim!
+SHOP_MACHINES_EQUIPMENT_POWERGENERATOR_STATIONARY_NAME,전기 발전기,,,,Big Power Generator
+SHOP_MACHINES_EQUIPMENT_SHAKER_DESC,셰이커는 큰 바위들로부터 유급 찌꺼기를 분리하는 기계입니다. 그것은 모든 금광의 기본적인 장비입니다!,,,,A Shaker is a machine that separates the pay dirt from larger rocks. It’s a fundamental piece of equipment of every gold mine!
+SHOP_MACHINES_EQUIPMENT_SHAKER_NAME,셰이커,,,,Shaker
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX1_DESC,셰이커에서 가장 큰 바위를 제거하는 슬루이스 박스!,,,,A Sluicebox that takes away the biggest boulders from the Shaker!
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX1_NAME,S 볼더스 슬루이스박스,,,,S Boulders Sluicebox
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX2_DESC,셰이커에서 작은 돌들을 제거하는 슬루이스 박스!,,,,A Sluicebox that takes away the smaller rocks from the Shaker!
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX2_NAME,S 돌맹이 슬루이스박스,,,,S-Rocks Sluicebox
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX3_DESC,셰이커와 트롬멜을 연결하는 슬루이스 박스!,,,,A Sluicebox that connects the Shaker with the Trommel!
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX3_NAME,ST 슬루이스 박스,,,,S-T Sluicebox
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX4_1_DESC,트롬멜에서 돌을 없애는 슬루이스 박스!,,,,A Sluicebox that takes away undesirable rocks from the Trommel!
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX4_1_NAME,T 돌맹이 슬루이스 박스,,,,T Rocks Sluicebox
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX4_DESC,트롬멜과 듀플렉스 지그를 연결하는 슬루이스 박스!,,,,A Sluicebox that connects the Trommel with the Duplex Jig!
+SHOP_MACHINES_EQUIPMENT_SLUICEBOX4_NAME,T-DJ 슬루이스 박스,,,,T-DJ Sluicebox
+SHOP_MACHINES_EQUIPMENT_TROMMEL_DESC,작은 돌과 흙을 분리하는 기계입니다. 금광 채굴 과정에 중간 단계에 입니다!,,,,A machine that separates small rocks from the rest of pay dirt. It’s the middle step in the gold mining process!
+SHOP_MACHINES_EQUIPMENT_TROMMEL_NAME,트롬멜,,,,Trommel
+SHOP_MACHINES_VEHICLE_980B_DESC,굴삭기를 굴착장에서 워시 플랜트까지 운전하는데 많은 시간이 걸리나요? 그러면 당신은 로더가 필요한겁니다!,,,,Does driving an Excavator from the digging area to the Wash Plant take most of your work time? A Loader is what you need!
+SHOP_MACHINES_VEHICLE_980B_NAME,프론트-엔드 로더,,,,Front-End Loader
+SHOP_MACHINES_VEHICLE_D6H_DESC,여러분은 풍경 조각가처럼 느끼고 싶나요? 불도저에 들어가서 하늘에서 사람들이 볼 수 있는 무늬를 만들어 보세요! 얼마나 예술인가요!,,,,Do you want to feel like a landscape sculptor? Get into the Bulldozer and create patterns people will see from the sky!
+SHOP_MACHINES_VEHICLE_D6H_NAME,불도저,,,,Bulldozer
+SHOP_MACHINES_VEHICLE_DUMPTRUCK_DESC,로더 조차 당신의 땅을 파는걸 따라가지 못한다고요? 흠...그럼.. 이 거대한 덤프 트럭을 사서 가득 채우세요!,,,,Even the Loader can't keep up with your digging pace? Buy a Dump Truck and load it up!
+SHOP_MACHINES_VEHICLE_DUMPTRUCK_NAME,덤프 트럭,,,,Dump Truck
+SHOP_MACHINES_VEHICLE_EX270_DESC,계속 일일히 구멍을 파야하나요? 삽으로 시간낭비를 하지 마세요! 굴삭기에 들어가서 아주 땅을 박살을 내서 금을 발견하세요!,,,,Do you have to dig a hole in your garden? Don't waste your time with a shovel! Get into the Excavator and dig for gold!
+SHOP_MACHINES_VEHICLE_EX270_NAME,소형 굴삭기,,,,Small Excavator
+SHOP_MACHINES_VEHICLE_EX400_DESC,"큰 소년들을 위한 큰 기계, 좋은 생각이야! 작은것 보단 내구성이 좋으니까 긁어도 걱정하지마세요. 이건 모든 것을 뚫어버립니다!",,,,A big machine for big boys. Great idea! It's more durable than the small one so don't worry if you scratch it. It can go through a lot!
+SHOP_MACHINES_VEHICLE_EX400_NAME,대형 굴삭기,,,,Big Excavator
+ToothSHOP_ITEM_PARTS_TOOTH_DESC,우리는 알래스카에서 최고의 치아를 가지고 있죠! 하나사서 사용해 보세요. 하지만 제발 바위에선 사용하지 마세요!,,,,We've got the best teeth in Alaska. Buy one and check yourself. But please - don't use it on the rocks!
+ToothSHOP_ITEM_PARTS_TOOTH_NAME,투스,,,,Tooth
+TRANSPORT_GUI_CANCEL,취소,,,,Cancel
+TRANSPORT_GUI_CONFIRM,확인,,,,Confirm
+TRANSPORT_GUI_HEADER_BIG,중장비 운송,,,,Machine Store Transport
+TRANSPORT_GUI_MACHINE_STORE_NAME,저장 공간,,,,Storage Space
+TRANSPORT_GUI_PLACE,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+TRANSPORT_GUI_TOTAL_COST,운송 비용,,,,Transport Cost
+UI_CASH,현금,,,,Cash
+UI_DESTROYED,파괴되었습니다!,,,,has been destroyed!
+UI_EXIT,나가기,,,,Exit
+UI_GOLD,금,,,,Gold
+UI_GOLD_BARS,금괴:,,,,Gold Bars:
+UI_OWNED,소유,,,,Owned
+UI_PICKUP_WHEEL_OLD,픽업 휠,,,,Pickup Wheel
+UI_RENT,렌트,,,,Lease
+WORKERS_GUI_AWATING_BUTTON,기다림,,,,Awaiting
+WORKERS_GUI_CARD_PRICE,가격,,,,Price
+WORKERS_GUI_CARD_TIME,티어,,,,Tier
+WORKERS_GUI_CARD_WORK,일,,,,Work
+WORKERS_GUI_HIRE_COST_OF_HIRED_WORKERS,고용 된 근로자 비용,,,,Cost of hired workers
+WORKERS_GUI_HIRE_HIRE_BUTTON,고용,,,,Hire
+WORKERS_GUI_HIRE_MONEY,돈,,,,Money
+WORKERS_GUI_HIRED,고용함,,,,Hired
+WORKERS_GUI_HIRED_BUTTON,고용함,,,,Hired
+WORKERS_GUI_MANAGE_ASSIGN,지정,,,,Assign
+WORKERS_GUI_NEW,새로운 근로자,,,,New
+WORKERS_GUI_PLACE_NAME,근로자,,,,Workers
+WORKERS_EMPTY_CLAIM,없음,,,,Empty
+WORKERS_EMPTY_MACHINE,없음,,,,Empty
+CLAIM_OWNER_YOU,당신,,,,You
+ALLOTMENT_1_NAME,올드 아놀드 토지,,,,Old Arnold Parcel
+ALLOTMENT_2_NAME,리버 타운,,,,River Town
+WORKERS_GUI_STATS_BUTTON,통계,,,,Statistics
+UI_PICKUP_OLD,집기,,,,Pick Up
+UI_TROMMEL,트롬멜,,,,Trommel
+ALLOTMENT_1_STORY_OLD,임시 스토리,,,,Temporary story
+ALLOTMENT_1_EXPECTED_GOLD_OLD,15,,,,15
+ALLOTMENT_1_DIRTNESS_OLD,10,,,,10
+ALLOTMENT_1_WATER_SOURCE,대형 크릭,,,,Large Creek
+ALLOTMENT_1_OWNER,알래스카 주,,,,Old Arnold
+ALLOTMENT_2_STORY_OLD,임시 스토리,,,,Temporary story
+ALLOTMENT_2_EXPECTED_GOLD_OLD,20,,,,20
+ALLOTMENT_2_DIRTNESS_OLD,15,,,,15
+ALLOTMENT_2_WATER_SOURCE,리버,,,,River
+ALLOTMENT_2_OWNER,코드호라이즌,,,,CodeHorizon
+ACTION_OPEN,열기,,,,Open
+Walking,걷기,,,,Walking
+MENU_CREDITS,제작자 크레딧,,,,Credits
+MENU_EXIT,게임 종료,,,,Exit
+MENU_NEW_GAME,새로운 게임,,,,New Game
+MENU_NEW_GAME_2,새로운 시즌,,,,New Season
+MENU_LOAD_GAME_2,계속하기,,,,Continue Your Journey
+OPTIONS_CONTROL_PAD_EXCAVATOR_CUSTOM_MODE,커스텀,,,,Custom
+MENU_SURE_EXIT,확실 합니까?,,,,Are you sure?
+MENU_SURE_EXIT_UP,게임 종료하기,,,,Exit the game
+HINT_CANT_ATTACH_ROPE,스틸 케이블이 너무 짧습니다!,,,,Steel Cable is too short!
+MENU_LOADING_TIPS_1,역사적으로 통틀어 보면 금보단 철이 시간당 많이 만들어집니다.,,,,More steel is created per hour than there has been gold dug up throughout history.
+MENU_LOADING_TIPS_2,"약 161,000 톤의 금이 사람들에 의해 채굴되었습니다.",,,,"Around 161,000 tons of gold have been mined by humans."
+MENU_LOADING_TIPS_3,금은 7개 대륙에서 지구 아래에 발견될 수 있습니다.,,,,Gold can be found beneath the earth on all seven continents.
+MENU_LOADING_TIPS_4,금의 약 80%가 여전히 지하에 매장되어 있다고 전해지고 있습니다.,,,,It is believed that around 80% of the earth's gold is still buried underground.
+MENU_LOADING_TIPS_5,"지구의 바다에는 약 100억 톤의 금이있습니다. 즉, 바다 1마일 당 25톤의 금이 숨겨져 있습니다.",,,,There is about 10 billion tons of gold in the world's oceans. That is 25 tons of gold for every cubic mile of seawater.
+MENU_LOADING_TIPS_6,1971년까지 서부 경제의 대부분의 통화는 금으로 이루어져 있었습니다.,,,,Most currencies of western economies were on the gold standard until 1971.
+MENU_LOADING_TIPS_7,"스위스는 금으로 된 통화를 가진 마지막 나라였습니다. 1999년 스위스가 국제통화기금에 가입할 때 까지, 스위스의 화폐단위인 프랑의 40%가 금의 지원을 받았습니다.",,,,Switzerland was the last country whose currency was tied to gold. 40% of the Swiss Franc was backed by gold until Switzerland joined the IMF in 1999.
+MENU_LOADING_TIPS_8,"금괴의 표준 크기는 7"" x 3및 5/8"" x 1및 3/4"" 입니다.",,,,"The size of a standard gold bar is 7"" by 3 and 5/8"" by 1 and 3/4"""
+MENU_LOADING_TIPS_9,많은 연금술사들은 납과 같은 평범한 물질로 금으로 바꿀수 있다고 믿는다고 합니다.,,,,"Alchemists believe they can change ordinary materials, such as lead, into gold."
+MENU_LOADING_TIPS_10,캐럿은 고대 상인들이 사용했던 카롭 씨에 기초한 질량 단위 였습니다.,,,,A karat was originally a unit of mass based on the carob seed used by ancient merchants.
+MENU_LOADING_TIPS_11,금은 고귀한 금속입니다. 금은 녹슬거나 변색되지 않고 공기와 접촉할 때 표면에 산화물 필름을 형성하지 않습니다.,,,,"As a noble metal, gold is prone neither to rust nor tarnish and forms no oxide film on its surface when coming into contact with air."
+MENU_LOADING_TIPS_12,순금은 너무 부드러워서 손으로 만들 수도 있습니다.,,,,Pure gold is so soft it can be molded with the hands.
+MENU_LOADING_TIPS_13,금은 훌륭한 전기 전도체 입니다.,,,,Gold is a great conductor of electricity.
+MENU_LOADING_TIPS_14,금은 인간에게 알려진 광물 중 가장 유연하며 연성이 있는 순수한 금속입니다.,,,,Gold is the most malleable and ductile pure metal known to man.
+MENU_LOADING_TIPS_15,1온스(oz)의 금은 100평방피트를 덮고 있는 시트에 맞을 수 있습니다.,,,,An ounce of gold can be beaten into a sheet covering 100 square feet.
+MENU_LOADING_TIPS_16,"1869년, 두 명의 호주인들은 세계에서 가장 큰 금덩어리를 발견했는데, 이 금은 녹기 전에 10인치에서 25인치로 측정되었습니다.",,,,"In 1869, two Australians unearthed the world's largest nugget of gold, the ""Welcome Stranger"" which measured 10 by 25 inches before it was melted down."
+MENU_LOADING_TIPS_17,"현존하는 가장 큰 덩어리는 1980년 호주에서 발견된 ""믿음의 손"" 입니다. 믿음의 손은 빌록시의 골든 너겟 카지노 호텔에 전시되어 있습니다.",,,,"The largest nugget found by metal detector still in existence is the ""Hand of Faith"" found in 1980 in Australia. It is on display at the Golden Nugget Casino Hotel in Biloxi."
+MENU_LOADING_TIPS_18,지구에서 발견되는 금 덩어리는 희귀하기 때문에 일반 금보다 3~4배 더 가치가 있습니다.,,,,A gold nugget found in the earth can be three to four times as valuable as the gold it contains because of its rareness.
+MENU_LOADING_TIPS_19,"2007년에 캐나다는 100kg (3,217 트로이 온스) 0.99999 금화를 만들었고 가치는 1,000,000 달러였습니다.",,,,"In 2007, Canada made a 100 kilogram (3,217 troy ounce) 0.99999 gold coin with a face value of $1,000,000."
+MENU_LOADING_TIPS_20,류마티스 관절염 환자들은 통증을 완화 시키기위해 액체로 된 금이 들어있는 주사를 맞습니다.,,,,Some sufferers of rheumatoid arthritis receive injections of liquid gold to relieve pain.
+MENU_LOADING_TIPS_21,1온스의 금을 60마일 길이의 철사에 그릴 수 있습니다.,,,,An ounce of gold can be drawn into a wire 60 miles long.
+MENU_LOADING_TIPS_22,인도는 현존하는 세계 최대의 금 소비국입니다.,,,,India is the world's largest consumer of gold today.
+MENU_LOADING_TIPS_23,"남아시아 보석들은 서양 보석보다 더 검고, 14캐럿이 아닌 22캐럿 금으로 구성되어 있습니다.",,,,"South Asian jewelry is purer than western jewelry, comprised of 22 karat gold, rather than 14 karat."
+MENU_LOADING_TIPS_24,전세계 금광의 90%는 1848년 캘리포니아의 소터즈 밀에서 금이 발견된 이후 이루어졌습니다.,,,,90% of the world's gold mining has been done since the discovery of gold at Sutter's Mill in California in 1848.
+MENU_LOADING_TIPS_25,"캘리포니아 골드 러쉬 동안에는, 일부 투기꾼들이 1온스의 금보다 1온스의 물을 더 지불했습니다.",,,,"During the California gold rush, some speculators paid more for an ounce of water than they received for an ounce of gold."
+MENU_LOADING_TIPS_26,사우스 다코타와 네바다 주는 다른 주들보다 더 많은 금을 생산합니다.,,,,South Dakota and Nevada produce more gold than any other states.
+MENU_LOADING_TIPS_27,"엘도라도 전설에 따르면, 금가루로 뒤덮인 안데스 족장이 금을 산호수로 제공할 것이라고 합니다.",,,,"According to the legend of El Dorado (the gilded one), an Andean chief covered in gold dust would make offerings of gold into a mountain lake."
+MENU_LOADING_TIPS_28,기원전 5000년경에 금과 구리가 인간이 발견한 최초의 금속이였다고 합니다.,,,,"Evidence suggests, around 5,000 B.C., gold and copper became the first metals to be discovered by man."
+MENU_LOADING_TIPS_29,프랭클린 루즈벨트 대통령당 1934년 금 보유법은 금조항을 시행 불가능하게 만들었고 금의 가치를 온스당 20.67달러에서 35달러로 바꾸면서 금값이 미국 달러만큼 평가절하되었습니다.,,,,"Per President Franklin Roosevelt The Gold Reserve Act of 1934 made gold clauses unenforceable, and changed the value of gold from $20.67 to $35 per ounce, devaluing the U.S. dollar, as the dollar was gold-based."
+CASH_GUI_HEADER,창고,,,,Equipment Store
+FUEL_STATION_PLACE_NAME,"알래스카 주, 헤인즈.씨워드 에이브",,,,"Seward Av. Haines, Alaska"
+FUEL_STATION_GAL,갤런,,,,Gal
+MACHINE_SHOP_HEADER,중장비 상점,,,,Machine Store
+MACHINE_SHOP_PLACE,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+MACHINE_SHOP_POS,계산대.,,,,Pos.
+MACHINE_SHOP_ITEM,기계,,,,Machine
+MACHINE_SHOP_PRICE,가격,,,,Price
+MACHINE_SHOP_QUANTITY,수량,,,,Quantity
+MACHINE_SHOP_ORDER,주문,,,,Order
+MACHINE_SHOP_TOTAL_COST,총 가격,,,,Total Cost
+BLACKSMITH_GOLD_CRAFT_SALE_BUTTON_SUBMIT,금 제련,,,,Smelt The Gold
+HUD_MONEY,돈,,,,Money
+WORKERS_GUI_FIRE_WORKER,해고,,,,Fire
+LAPTOP_MENU_SHUT_DOWN,종료,,,,Shutdown
+LAPTOP_MENU_TRANSPORT_UP,수송,,,,Transport
+LAPTOP_MENU_TRANSPORT_DOWN,기계 이동,,,,Move Your Machines
+LAPTOP_MENU_BANK_UP,오래된 글렌 은행,,,,Old Glenn Bank
+LAPTOP_MENU_BANK_DOWN,금융 & 재정,,,,Banking & Finances
+LAPTOP_MENU_WORKERS_UP,근로자,,,,Workers
+LAPTOP_MENU_WORKERS_DOWN,승무원 고용,,,,Hire Your Crew
+LAPTOP_MENU_REPAIRS_UP,실패,,,,Failures
+LAPTOP_MENU_REPAIRS_DOWN,고장 및 수리,,,,Breakdowns & Repairs
+LAPTOP_MENU_IN_GOLD_ASSISTANCE_REPAIR,GOLD Assistance V7.0 에서,,,,IN GOLD ASSISTANCE V7.0
+LAPTOP_MENU_COMING_SOON_REPAIR,곧 출시 예정@,,,,COMING SOON@
+LAPTOP_MENU_BUY_EQUIPMENT_UP,장비 상점,,,,Equipment Store
+LAPTOP_MENU_BUY_EQUIPMENT_DOWN,장비 주문,,,,Order Equipment
+LAPTOP_MENU_IN_GOLD_ASSISTANCE_BUY_EQUIPMENT,GOLD Assistance V7.0 에서,,,,IN GOLD ASSISTANCE V7.0
+LAPTOP_MENU_COMING_SOON_BUY_EQUIPMENT,곧 출시 예정@,,,,COMING SOON@
+LAPTOP_MENU_BUY_MACHINES_UP,기계 상점,,,,Machine Store
+LAPTOP_MENU_BUY_MACHINES_DOWN,대형 채굴 기계 주문,,,,Order Heavy Mining Machines
+LAPTOP_MENU_COMING_SOON_BUY_MACHINES,곧 출시 예정@,,,,COMING SOON@
+LAPTOP_MENU_IN_GOLD_ASSISTANCE_BUY_MACHINES,GOLD Assistance V7.0 에서,,,,IN GOLD ASSISTANCE V7.0
+WORKER_CARD_NOT_ASSIGN,할당되지 않음,,,,Unassigned
+WORKER_CARD_NEW_WORKER,새로운 근로자,,,,New Worker
+CONTROLS_DOZER_STERING_MODE,불도저,,,,Bulldozer
+CONTROLS_PREV_TOOL,이전 도구,,,,Prev Tool
+CONTROLS_NEXT_TOOL,다음 도구,,,,Next Tool
+CONTROLS_PLAYER_LIGHTS,헤드라이트,,,,Headlights
+ACTION_DETACH,해체,,,,Detach
+ACTION_SCREW,돌려서 꽂기,,,,Screw
+ACTION_UNSCREW,돌려서 빼기,,,,Unscrew
+UI_TROMMEL_CHAIN,트롬멜 체인,,,,Trommel Chain
+UI_FUEL_FILTER,연료 필터,,,,Fuel Filter
+UI_BATTERY,배터리,,,,Battery
+UI_TOOTH,투스,,,,Tooth
+UI_COG,톱니,,,,Cog
+UI_TRACK,트랙,,,,Track
+SHOP_ITEM_PARTS_WORKLIGHT,"발전기로 자동하는 작업등은, 캄캄한 밤에 채광할 때 쓰이는 매우 중요한 장비입니다!",,,,"Powered by a Generator, a Worklight is a priceless piece of equipment for late-night mining!"
+SHOP_ITEM_PARTS_WORKLIGHT_NAME,작업등,,,,Worklight
+SHOP_ITEM_PARTS_HOGPAN_MINERSMOSS,이 매트를 호그 팬에 넣고 금이 모이는 것을 보세요. 호그 팬은 이 매트가 없으면 전혀 쓸모가 없답니다!,,,,Put these Mats in the Hog Pan and look as gold gathers on them. A Hog Pan is useless without them!
+SHOP_ITEM_PARTS_HOGPAN_MINERSMOSS_NAME,호그 팬 매트,,,,Hog Pan Mat
+SHOP_ITEM_PARTS_WASHPLANT_SPRING_NAME,워시 플랜트 스프링,,,,Wash Plant Spring
+SHOP_ITEM_PARTS_WASHPLANT_SPRING_DESC,"여러분의 스프링이 제대로 작동하였으면 합니다. 만약 하나라도 부서지면, 셰이커는 불안정해지고 다른 사람들에게도 위험할 수도 있어요!",,,,"You need all your Springs working properly. If any of them breaks, the Shaker will become unstable and may be dangerous for others!"
+MENU_SURE_DELETE_TEXT,확실합니까?,,,,Are You Sure?
+MENU_SURE_DELETE_HEADER,세이브 삭제,,,,Delete Save
+HINT_CANT_SAVE,지금은 저장할 수 없습니다!,,,,You can't save at the moment!
+SHOP_ITEM_EQUIPMENT_HOOKROPE7_NAME,7m 스틸 케이블,,,,7m Steel Cable
+SHOP_ITEM_EQUIPMENT_HOOKROPE7_DESC,스틸 케이블 중 가장 긴 케이블입니다. 이건 셰이커와 다른 큰 물건들을 운반할 때 유용합니다!,,,,The longest of Steel Cables. They prove useful while transporting Shakers and other big stuff!
+OPTIONS_GRAPHICS_ADVANCED,고급 설정,,,,Advanced
+FUELTANK_EMPTY,연료 탱크가 비었습니다!,,,,The fuel tank is empty!
+FUEL_FULL,연료 탱크가 꽉찼습니다!,,,,The tank is fully refilled!
+CONTROLS_TOOL_ACTION_1,도구 기본 작업,,,,Tool Main Action
+CONTROLS_TOOL_ACTION_2,도구 대체 작업,,,,Tool Alternate Action
+UI_LIFT_DOWN_CAR_JACK,낮은 자동차 잭!,,,,Lower Car Jack!
+PLACE_TO_FILL_IS_FULL,이미 꽉 찼습니다! 금들을 잃었습니다!,,,,It's already full! You're losing the pay dirt!
+TOO_FAR,거리가 너무 멉니다!,,,,It's too far!
+UI_REPAIR_PICKUP_WHEEL_DETACH_NO_CAR_JACK,자동차 잭을 사용하세요! 바퀴를 돌리기 전에 트럭을 먼저 들어 올려야 합니다!,,,,Use a Car Jack! You have to lift the Truck before changing the Wheel!
+ROPE_REKT,스틸 케이블이 끊어졌습니다!,,,,The Steel Cable snapped!
+CANT_RINSE_MINERMOSS,광부들의 이끼를 씻으려면 깨끗한 물이 필요해요!,,,,You need clean water to rinse the Miner's Moss!
+HINT_REMOVE_HOSE_BEFORE_DETACH,호스를 분리하기 전에 제거하세요!,,,,Remove the hose before detaching!
+HINT_MAGNETITE_SEPARATOR_DONE,자철석 선별기의 사금작업이 끝났습니다!,,,,The Magnetite Separator has finished processing the pay dirt!
+FUELTANK_PISTOL_CONNECT_TO_FILL_FUELTANK,왜 연료 탱크 피스톨을 연료 탱크에 연결하려고 하나요?,,,,Why do you even want to connect the fuel tank pistol to the fuel tank?
+TRAILER_DISCONNECTED,트레일러가 분리되었습니다!,,,,The trailer has been disconnected!
+CANT_DIG_OWNER,여기에서 땅을 파면 안됩니다! 여긴 당신의 토지가 아니에요!,,,,You can't dig here! It's not your parcel!
+CANT_DIG_RIPPER,여기에서 땅을 파면 안됩니다! 리퍼를 사용해야 합니다!,,,,You can't dig here! You need to use a ripper to cultivate the earth!
+HINT_BATTERY_LOW,배터리가 부족합니다!,,,,The Battery is low!
+HINT_CANT_ENTER_REPAIR,차에 타기 전에 수리를 끝내세요!,,,,Finish repairs before entering your vehicle!
+HINT_FUEL_LOW,연료가 부족합니다!,,,,The fuel is low!
+HINT_BATTERY_DOWN,배터리가 방전 되었습니다!,,,,The Battery is discharged!
+HINT_FUEL_EMPTY,연료 탱크가 비었습니다!,,,,The fuel tank is empty!
+HINT_DIFF_ON,차동잠금장치를 키세요!,,,,Turn on your differential lock!
+MENU_SURE_CHANGE_GRAPHICS_SETTINGS,이 설정을 적용하시겠습니까?,,,,Are You Sure?
+MENU_SURE_DISCARD_CHANGES_UP,새로운 설정을 유지하겠습니까?,,,,Keep New Settings?
+MENU_DISCARD_CHANGES_IN_SECONDS,변경 내용은 삭제됩니다.,,,,Changes will be discarded in
+MENU_NDA_CANCEL,취소,,,,Cancel
+MENU_NDA_ACCEPT,확인,,,,Accept
+MENU_RUN_BY_STEAM,스팀 클라이언트가 발견되지 않았습니다! 게임이 종료됩니다! 스팀 클라이언트에 로그인하면 게임이 자동으로 다시 시작됩니다!,,,,We haven't detected your Steam client! The game will now close! Please login to your Steam client and the game will restart automatically!
+MENU_RUN_BY_STEAM_UP,스팀 클라이언트 발견 되지 않음!,,,,No Steam Client Detected!
+MENU_RUN_BY_STEAM_OK,예,,,,Ok
+MENU_RUN_BY_STEAM_CANCEL,나가기,,,,Exit
+WORKER_LEFT_YOU,돈이 부족해서 그만 뒀습니다!,,,,has quit because you don't have enough money!
+ACTION_CLOSE,닫디,,,,Close
+STOCK_DAYNAME_0,월요일,,,,Mon
+STOCK_DAYNAME_1,화요일,,,,Tue
+STOCK_DAYNAME_2,수요일,,,,Wed
+STOCK_DAYNAME_3,목요일,,,,Thu
+STOCK_DAYNAME_4,금요일,,,,Fri
+STOCK_DAYNAME_5,토요일,,,,Sat
+STOCK_DAYNAME_6,일요일,,,,Sun
+STOCK_MONTHNAME_0,1월,,,,Jan
+STOCK_MONTHNAME_1,2월,,,,Feb
+STOCK_MONTHNAME_2,3월,,,,Mar
+STOCK_MONTHNAME_3,4월,,,,Apr
+STOCK_MONTHNAME_4,5월,,,,May
+STOCK_MONTHNAME_5,6월,,,,June
+STOCK_MONTHNAME_6,7월,,,,July
+STOCK_MONTHNAME_7,8월,,,,Aug
+STOCK_MONTHNAME_8,9월,,,,Sept
+STOCK_MONTHNAME_9,10월,,,,Oct
+STOCK_MONTHNAME_10,11월,,,,Nov
+STOCK_MONTHNAME_11,12월,,,,Dec
+STOCK_WEEK,주,,,,Week
+ALLOTMENT_4_STORY_OLD,임시 스토리,,,,Temporary story
+ALLOTMENT_4_EXPECTED_GOLD_OLD,15,,,,15
+ALLOTMENT_4_DIRTNESS_OLD,10,,,,10
+ALLOTMENT_4_WATER_SOURCE,대형 크릭,,,,Large Creek
+ALLOTMENT_4_OWNER,알래스카 주,,,,State of Alaska
+ALLOTMENT_4_NAME,파인 밸리,,,,Pine Valley
+BANK_GUI_SELL_GOLD_BAR,금괴 판매,,,,Sell Gold Bars
+BANK_GUI_SELL_GOLD_BAR_MY_BARS,당신의 금괴,,,,Your Bars
+BANK_GUI_SELL_GOLD_BAR_SELL,판ㅁ내,,,,Sell
+HUD_REFUELING,연료 재충전,,,,Refueling
+GUI_ITEM_SHOP_PROMPT_TRAILER_HAS_OBJECT,트레일러 슬롯에서 물건을 제거하세요!,,,,Remove objects from the trailer slot!
+GUI_ITEM_SHOP_PROMPT_NO_MONEY,돈이 충분하지 않습니다!,,,,You don't have enough money!
+GUI_ITEM_SHOP_PROMPT_TRAILER_HAS_OBJECT_UP,트레일러 슬롯이 꽉찼습니다!,,,,The trailer slot is not empty!
+GUI_ITEM_SHOP_PROMPT_NO_MONEY_UP,지불 문제!,,,,Payment problem!
+SHOP_ITEM_PARTS_WHEEL_TRAILER_DESC,타이어가 펑크난 적이 없는 세상을 상상해 보세요. 그때까지 트레일러에 타이어가 펑크 나면 저희 매장에서 스페어 휠을 구입하실 수 있습니다!,,,,"Just imagine a world, where no never have a flat tire. Until then, when your trailer gets a flat tire, you can buy a spare wheel in our store!"
+SHOP_ITEM_PARTS_WHEEL_TRAILER_NAME,트레일러 휠,,,,Trailer Wheel
+OPTIONS_FOV,시야각,,,,Field Of View
+SHOP_ITEM_TRAILER_MAGNETITE_NAME,자철석 트레일러,,,,Magnetite Trailer
+SHOP_ITEM_TRAILER_MAGNETITE_DESC,자철석을 저장할 수 있는 트레일러입니다. 수집된 재료는 나중에 공장에서 판매될 수 있습니다!,,,,A trailer where you can store magnetite. The collected material can be later sold at the factory!
+GUI_GO_TO_SLEEP_UP,휴식을 취하겠습니까?,,,,Go to sleep?
+GUI_GO_TO_SLEEP_DOWN,확실합니까?,,,,Are you sure?
+GUI_GO_TO_SLEEP_HOUR,1시간,,,,Sleep
+GUI_GO_TO_SLEEP_MORNING,하루,,,,Dawn
+GUI_BANK_LOAN_TAKEN,이자,,,,Loan Taken
+GUI_STATIONARY_FUEL_TANK_UP,연료 탱크 다시 채우기,,,,Refill the fuel tank
+GUI_STATIONARY_FUEL_TANK,연료는 새벽에 배달 될 것 입니다!,,,,The fuel will be delivered at midnight!
+GUI_STATIONARY_FULE_TANK_FUEL_DELIVERY,연료 배달,,,,Fuel Delivery
+GUI_LAPTOP_BUY_TAB_CANCEL,예,,,,Ok
+GUI_LAPTOP_BUY_TAB_OK,취소,,,,Cancel
+GUI_LAPTOP_BUY_TAB_LOCKED,잠김,,,,LOCKED
+GUI_LAPTOP_BUY_TAB_UNLOCK_TRANSPORT,운송,,,,Transport
+GUI_LAPTOP_BUY_TAB_UNLOCK_WORKERS,직원,,,,Workers
+GUI_LAPTOP_BUY_TAB_UNLOCK_COST,해금하기 위해서,,,,UNLOCK FOR
+HINT_TUTORIAL_INFO_HEADER,지식 얻기,,,,Gain some knowledge
+HINT_TUTORIAL_INFO_BODY,"길을 잃었거나 어떻게 해야 하는지 모를 경우, 키보드의 TAB 키를 누르고 일지로 들어간 후에 DIGTube 에서 정보를 확인하세요!",,,,"If you ever feel lost or you don't know what to do, open Backpack and check the Journal and DIGtube for additional info!"
+PRESS_ANY_KEY,아무 키나 누르세요!,,,,Press Any Button!
+MENU_MAP_RESET_OLD,초기화,,,,Reset
+SHOP_ITEM_ELECTRIC_EXTEND_SMALL_DESC,더 긴 전원 코드를 원한다면 두 개를 새로운 익스텐더와 함께 연결할 수 있습니다!,,,,"If you want longer power cords, you can connect two of them together with our brand new extender!"
+SHOP_ITEM_ELECTRIC_EXTEND_SMALL_NAME,얇은 전원 익스텐션 코드,,,,Low Voltage Power Cable Extension Cord
+SHOP_ITEM_ELECTRIC_EXTEND_BIG_DESC,"만약 세이커를 발전기에서 조금 떨어 진 곳에 둔다면, 익스텐더를 사시고, 두개의 전원 코드를 함께 연결하세요!",,,,"If you've placed your Shaker a bit too far from the Generator, buy our extender, and connect two power cords together!"
+SHOP_ITEM_ELECTRIC_EXTEND_BIG_NAME,두꺼운 전원 익스텐션 코드,,,,High Voltage Power Cable Extension Cord
+UI_WAVE_TABLE,웨이브 테이블,,,,Wave Table
+MENU_MAP_MACHINE_PARK,중장비 상점,,,,Shed
+MENU_MAP_TENT,텐트,,,,Tent
+MENU_MAP_CAMPER,야영지,,,,Caravan
+MENU_MAP_PLAYER,플레이어,,,,Player
+MENU_MAP_LEGEND,아이콘,,,,Legend
+MENU_LEGEND_DRILL,채굴 기계,,,,Drilling Machine
+CLAIM_BORDER,토지 구역,,,,Claim Border
+ALLOTMENT_1_STORY,"올드 아놀드라는 사람은 새로운 그린혼 광부들이 마을에 올 때 항상 행복해 했습니다. 그는 거의 40년 동안 광부일을 하였고, 지금은 배우고 싶은 모든 사람들을 가르치고 있습니다. 그는 거의 공짜로 청구서를 빌립니다. 와서 직접 보세요.",,,,"Old Arnold is always happy when new greenhorn miners are coming to town. He was a miner for almost forty years, and now he teaches everyone who wants to learn. He rents his claim almost for free. Come and take a look yourself."
+ALLOTMENT_2_STORY,옛날에 큰 강이 있었습니다. 지금은 물이 말라 흙과 바위만 있습니다. 하지만 강이 말라서 광부들이 그것에 대해 알게 되었습니다. 자연에 의해 만들어진 새 도로는 그들에게 새로운 금 매장지를 접근할 수 있게 해주었습니다. 어떤 사람들은 이 지역 전체에서 가장 많은 금이 있다고 말합니다.,,,,"Once, there was a big river. Now, there is only soil and rocks. The river dried and miners learned about it. The new road that was created by nature gave them access to the new gold deposit. Some say there is the most gold here in the whole area."
+ALLOTMENT_4_STORY,"새들은 노래하고, 바람의 속삭임, 침묵, 평화. 1년 전 파인 밸리는 어땠나요? 가장 최근의 측지 측정 결과 이 근처에서 가장 큰 황금알이 검출 되었습니다. 사람들은 그곳에 얼마나 많은 금이 있는지는 모르지만, 파낼 곳은 어마어마합니다.",,,,"Birds singing, the whispering of the wind, silence, peace. That's how Pine Valley was like a year ago. Now, after the newest geodetic measurements, it was discovered that it's the biggest golden claim around here. They don't know how much gold there is, but the area to dig is enormous."
+SHOP_ITEM_EQUIPMENT_HOOKROPE4_DESC,"상점에서 팔고 있는 스틸 케이블 중 가장 짧습니다. 작은 굴착기를 사용하면, 그보다 더 오래 사용하는 것이 어려울 수 있습니다. 우리는 환불을 하지 않기 때문에 현명하게 선택하세요!",,,,"The shortest Steel Cable in the store. If you use a Small Excavator on the claim, then using anything longer than that might be difficult. Choose wisely, because we don't give refunds!"
+SHOP_ITEM_EQUIPMENT_HOOKROPE4_NAME,4m 스틸 케이블,,,,4m Steel Cable
+HINT_FUEL_ATTACHED,엔진 시동을 걸기전에 연료 펌프 노즐을 분리하세요!,,,,Detach the fuel pump nozzle before you start the engine!
+UI_PICKUP_WHEEL,픽업 트럭 휠,,,,Pickup Truck Wheel
+UI_PICKUP,픽업 트럭,,,,Pickup Truck
+MENU_OPTIONS_CONTROL_2,키보드 & 컨트롤러,,,,Keyboard & Controller
+MENU_OPTIONS_GRAPHICS_2,퍼포먼스 설정,,,,Performance Settings
+INGAME_MENU_CONTINUE_DIGGING,이어서 하기,,,,Continue
+INGAME_MENU_CONTINUE_DIGGING_2,다시 금을 찾아봅시다,,,,Keep Digging
+INGAME_MENU_SAVE_SEASON,게임 저장,,,,Save Game
+INGAME_MENU_SAVE_SEASON_2,시즌 저장,,,,Save Season
+INGAME_MENU_BACK_TO,게임 불러오기,,,,Load Game
+INGAME_MENU_BACK_TO_2,다시 일하자,,,,Back To Mine
+INGAME_MENU_GO_HOME,메인 메뉴,,,,Main Menu
+INGAME_MENU_GO_HOME_2,이제 조금 쉽시다,,,,Have a rest
+WORKERS_GUI_PLACE_NAME_2,인사 관리,,,,Human Resources Management
+PARCELS_EVENT_MONEY,"이런건 본적이 없어! 이건 광부로써 40년동안 보았던 것 중 가장 큰 금덩어리입니다. 초보자만의 행운이 아니길 바랍니다. 그리고 이걸 현명하게 사용하고, 삽을 내려놓고 기계를 사용하기 시작할 것입니다. 워시 플랜트를 가동하는데 필요한 사항을 확인하고 굴삭기를 잊지 마십시오. 작은 것도 충분할겁니다.",,,,"I've never seen anything like that! It's the biggest gold nugget I've seen in forty years of my experience as a miner. I hope it's not just beginner’s luck, and you'll use it wisely, to stop shoveling and start using proper machines. Check what you need to run the Mobile Wash Plant and don't forget about an Excavator. Even the smaller one should be enough for you."
+PARCELS_EVENT_MONEY_OK,수락,,,,OK
+PARCELS_EVENT_MONEY_UP_TEXT,운이 좋았군요!,,,,You're lucky!
+PARCELS_EVENT_MONEY_REJECT,거절,,,,Reject
+DIG_TUBE_HELP_MENU,도움 사항,,,,Help Menu
+HINT_WAVE_TABLE_DONE,웨이브 테이블의 작업이 완료되었습니다!,,,,The wave table has finished processing the concentrate!
+TOGGLE_WINDOW_ACCEPT,예,,,,OK
+TOGGLE_WINDOW_DONT_SHOW_AGAIN,이 메시지를 표시하지 않습니다,,,,Don't show this message again
+TOGGLE_WINDOW_DIGTUBE_HEADER,도움을 찾고 계시나요?,,,,Looking For Help?
+TOGGLE_WINDOW_DIGTUBE_BODY,게임 내 시스템에 대한 정보를 얻는 두 가지 방법이 있습니다. 첫번째는 TAB 키를 눌러 볼 수 있는 일지가 있습니다. 두번째는 DIGTube 입니다. 게임에 관한 우리의 튜토리얼 영상입니다. 거의 모든 정보들이 담겨있죠. 설명되지 않은 내용이 있다면 사용 가능한 소셜 미디어에 메시지를 보내주세요.,,,,"There are two ways to get info about our in-game systems. The first is the Journal you can access by opening the Backpack. The second one is the DIGtube - our library of movies about the game. Every in-game mechanic is explained there. If you find anything that is not explained, please send us a message on any available social media."
+TOGGLE_WINDOW_SHOP_HEADER,주문 준비 완료!,,,,Your order has been prepared!
+TOGGLE_WINDOW_SHOP_BODY,주문한 장비는 매장 바로 밖에서 지정된 장소에 배치되어 있습니다. 이 지역은 저장 공간이 제한되어 있으니 큰 주문을 하기 전에 미리 치워주세요!,,,,You will find all your ordered equipment just outside the store in the designated area. This area has limited storage space so make sure you clean it before making a big order!
+TOGGLE_WINDOW_MACHINE_SHOP_HEADER,당신의 기계가 운송 준비가 되었습니다!,,,,Your machine is ready to transport!
+TOGGLE_WINDOW_MACHINE_SHOP_BODY_OLD,기계는 우리의 가장 가까운 보관 공간으로 자동 운송되었습니다. 당신은 당신의 옆에 있는 운송 창고에서 당신의 채굴 공간으로 옮길 수 있습니다. 채굴 공간 당 한 가지 유형의 기계에 제한이 있습니다!,,,,The machines have been automatically transported to our nearest storage space. You can move them to your claim from the transport window next to you. There is a limitation to one type of machine per claim!
+USE_TRANSPORT,기계 상점에서 운송을 이용하세요.,,,,Please use Transport in the Machine Shop
+CONTROLS_ROPE_COIL,케이블 감기,,,,Wind the Cable
+OPTIONS_HEAD_BLOB,헤드 보빙,,,,Head Bobbing
+PRE_BUY_GUI_MACHINE,기계,,,,Machine
+GUI_LAPTOP_BUY_TAB_UNLOCK,해금할건가요?,,,,Unlock?
+CANT_RINSE_MINERMOSS_NO_GOLD,광부 모스에는 금이 없습니다.,,,,There is no gold in the Miner's Moss
+GUI_RAM_ERROR,당신은 최소한의 요구조건을 충족시키지 못합니다. PC를 업그레이드 하지 않으면 게임이 제대로 작동하지 않을 수 있습니다. 충족되지 않는 요구 사항:,,,,You don't meet the minimum requirements. Game may not work properly unless you upgrade your PC. Requirements you don't meet:
+GUI_RAM_ERROR_HEADER,당신은 최소한의 요구조건을 충족시키기 못합니다.,,,,You don't meet the minimum requirements
+MENU_SURE_BACK_TO_MAIN_MENU_HEADER,메뉴로 돌아가기,,,,Back To Menu
+MENU_SURE_BACK_TO_MAIN_MENU,정말로 나가시겠습니까?,,,,Are you sure you want to quit?
+CONTROLS_PLAYER_WALK,걷기,,,,Walk
+OPTIONS_CONTROLS_WALK_RUN,기본 플레이어 이동 방식,,,,Default Player Movement
+OPTIONS_CONTROLS_WALK_RUN_ENABLED_WALK,걷기,,,,Walk
+OPTIONS_CONTROLS_WALK_RUN_ENABLED_RUN,뛰기,,,,Run
+GUI_BANK_OZ_COUNT,온스:,,,,oz:
+GUI_BANK_GOLD_BAR_VALUE,값:,,,,Value:
+ROPE_FIXED,로프가 고쳐졌습니다!,,,,The line is fixed!
+MOXY_CONTROLS_NAME,덤프 트럭,,,,Dump Truck
+CONTROLS_MOXY_BED_UP,베드 올리기,,,,Bed Up
+CONTROLS_MOXY_BED_DOWN,베드 내리기,,,,Bed Down
+CONTROLS_MOXY_STERING_MODE,덤프 트럭,,,,Dump Truck
+SHOP_MACHINES_EQUIPMENT_CONVEYOR_NAME,컨베이어 벨트,,,,Conveyor Belt
+SHOP_MACHINES_EQUIPMENT_CONVEYOR_DESC,당신의 땅파기의 마지막 업그레이드 입니다. 호퍼에서 쉐이크로 먼지를 운반하는 반자동 벨트!,,,,It’s the final upgrade of your digging claim. A semi-automated belt with buckets that will transport pay dirt from the Hopper to the Shaker!
+SHOP_MACHINES_EQUIPMENT_C_CONTAINER_NAME,컨베이어 벨트 호퍼,,,,Conveyor Belt's Hopper
+SHOP_MACHINES_EQUIPMENT_C_CONTAINER_DESC,굴착기를 가지고 덤프트럭의 돈더미를 쉐이커에 쏟아 부으며 시간을 낭비하지 마세요. 컨베이어 벨트의 호퍼에 직접 부은 후 벨트를 켜면 작업이 자동으로 완료된답니다.,,,,"Don’t waste your time pouring the pay dirt from the Dump Truck to the Shaker with the Excavator. If you pour it directly on the Conveyor Belt’s Hopper and turn the belt on, the work will be done automatically!"
+SHOP_ITEM_EQUIPMENT_HOSE_CONNECTOR_NAME,두꺼운 호스 커넥터,,,,Fat Water Hose Connector
+SHOP_ITEM_EQUIPMENT_HOSE_CONNECTOR_DESC,새 호스 커넥터로 호스를 늘리십시오. 100% 압력 보장!,,,,Lengthen your fat hoses with our brand new  Fat Water Hose Connector. 100% pressure guaranteed!
+SHOP_ITEM_EQUIPMENT_POWER_SPLITTER_NAME,파워 스플리터,,,,Power Splitter
+SHOP_ITEM_EQUIPMENT_POWER_SPLITTER_DESC,"모든 구역에 전력을 공급하고 싶지만 휴대용 발전기를 구입할 만한 충분한 돈이 없으십니까? 파워 스플리터를 구입하되 주의하세요. 만약 당신이 약한 발전기에서 너무 많은 전력을 얻으려고 한다면, 손상을 시킬 수 있습니다!",,,,"You want to power up your whole claim but don’t have enough money to buy the Mobile Generators? Buy the Power Splitter but be careful. If you try to get too much power from a weak Generator, you may damage it!"
+SHOP_ITEM_EQUIPMENT_TOPO_MAPS_NAME,지형도,,,,Topographic Maps
+SHOP_ITEM_EQUIPMENT_TOPO_MAPS_DESC,맹목적으로 파헤치지 마세요! 합리적인 가격으로 당신은 특정 클레임에 대한 지형도를 살 수 있습니다. 여러분은 금으로 된 퇴적물이 있는 파아설을 조감하게 볼 수 있을것 입니다!,,,,Stop digging blindly! For a reasonable price you can buy a topographic map of a specific claim. You will get a bird’s eye view of the parcel marked with gold deposits!
+SHOP_MACHINES_EQUIPMENT_TROMMEL_NEW_NAME,신형 트롬멜,,,,Trommel New
+SHOP_MACHINES_EQUIPMENT_TROMMEL_NEW_DESC,저희 새 트롬멜을 확인해 보세요! 강화된 프레임과 우리의 시제품 재료로 이전보다 더 나은 성능을 얻을 수 있을 것입니다!,,,,Check out our brand new Trommel! With a reinforced frame and our prototypical material you will get better performance than ever before!
+SHOP_MACHINES_EQUIPMENT_TROMMEL_OLD_NAME,구형 트롬멜,,,,Trommel Old
+SHOP_MACHINES_EQUIPMENT_TROMMEL_OLD_DESC,오래된 것도 예쁠 수 있습니다. 이 트롬멜을 보세요. 녹이 슬었을지도 모릅니다. 이것은 다른 것들보다 당신을 더 실패하게 할 수도 있겠지만 오래된 것은 영혼을 가지고 있습니다!,,,,Old things can be pretty too. Just look at this Trommel. It may be rusty. It may fail you more than the others but old things have a soul!
+SHOP_MACHINES_EQUIPMENT_PLANTER_NAME,플랜터,,,,Planter
+SHOP_MACHINES_EQUIPMENT_PLANTER_DESC,이건 기술적으로 진보된 기계처럼 보이지 않을 수는 있지만 이것은 일을 완성하고 듀플렉스 지그의 좋은 대용품입니다!,,,,Don’t let it fool you. It may not look like a technologically advanced machine but it gets the job done and it’s a good substitute for a Duplex Jig at a bit higher price!
+SHOP_MACHINES_EQUIPMENT_GRAVEL_PUMP_NAME,자갈 펌프,,,,Gravel Pump
+SHOP_MACHINES_EQUIPMENT_GRAVEL_PUMP_DESC,"자갈 펌프와 듀플렉스 지그는 크게 다르지 않습니다. 하지만, 이 둘의 구조 차이는 자갈 펌프를 선호하는 사람이 더욱 많답니다! ",,,,"At first sight the Gravel Pump doesn’t differ much from a Duplex Jig. However, the differences in their structure have a huge impact on their efficiency favoring the Gravel Pump!"
+SHOP_MACHINES_EQUIPMENT_GLACIER_CREEK_NAME,글레이셔 크릭,,,,Glacier Creek
+SHOP_MACHINES_EQUIPMENT_GLACIER_CREEK_DESC,"시장에서 가장 큰 셰이커, 한 번 가져보세요. 한 번 사용한지 며칠이 지나면 당신은 또 다른 어떤 것도 원하지 않을 것입니다! 1입방 미터에 있는 가장 많은 금은 보장됩니다!",,,,The biggest Shaker on the market. Get it and after a few days of using it you’ll never want anything else. The most gold from a cubic meter of pay dirt guaranteed!
+SHOP_MACHINES_EQUIPMENT_DROCKER_NAME,디로커,,,,Derocker
+SHOP_MACHINES_EQUIPMENT_DROCKER_DESC,"예전 녹슨 셰이커를 새것으로 바꾸고 싶으시나요? 디로커는 최고의 기계입니다. 합리적인 가격이지만, 여전히 수입 오염에서 모은 금의 양이 증가하는 것은 분명합니다.",,,,Do you want to exchange your old rusty Shaker for a brand new one? The Derocker is your go-to machine. It’s reasonably priced and yet the increase in the amount of gold gathered from the pay dirt is evident!
+GAME_OPTIONS_AUTOSAVE,자동 저장,,,,Autosave
+GAME_OPTIONS_AUTOSAVE_6_HOURS,6시간,,,,6 Hours
+GAME_OPTIONS_AUTOSAVE_12_HOURS,12시간,,,,12 Hours
+GAME_OPTIONS_AUTOSAVE_18_HOURS,18시간,,,,18 Hours
+GAME_OPTIONS_AUTOSAVE_24_HOURS,24시간,,,,24 Hours
+BANK_LOANS_PAY_OFF_THE_LOAN,대출 상환,,,,Pay Off The Loan
+BANK_LOANS_PAY_OFF_THE_LOAN_PROMPT,얼마를 지불하시겠습니까?,,,,How much money would you like to pay?
+BANK_LOANS_PAY_OFF_THE_LOAN_AREYOUSURE,정말 이렇게 많은 돈을 내시겠습니까?,,,,Are you sure you want to pay this much money?
+BANK_LOANS_LOAN_PAID_OFF_PARTIALLY,대출이 부분적으로 상환되었습니다!,,,,Your loan has been partially paid off!
+BANK_LOANS_LOAN_PAID_OFF,대출을 다 갚으셨습니다!,,,,Your loan has been paid off!
+GAME_ISSAVING,저장!,,,,Saving!
+GAME_ISLOADING,로딩중!,,,,Loading!
+SHOP_ITEM_EQUIPMENT_WATER_SPLITTER_NAME,물 분할기,,,,Water Splitter
+SHOP_ITEM_EQUIPMENT_WATER_SPLITTER_DESC,작은 기계마다 물 펌프를 사는데 돈과 시간을 낭비 하지 마세요. 물 분리기를 구입하여 두꺼운 호스의 큰 압력을 여러 개의 얇은 호스로 변환하십시오!,,,,Don't waste your money and time on buying a Water Pump for each small machine. Buy a Water Splitter and convert big pressure in a Fat Water Hose to multiple Thin Water Hoses!
+SELL_PLACE_HEADER,판매,,,,Selling
+SELL_PLACE_PLACE,"알래스카 주, 헤인즈",,,,"Haines, Alaska"
+SELL_PLACE_SELL_BUTTON,판매,,,,Sell
+SELL_PLACE_TOTAL_EARN_MONEY,총 소득:,,,,Total Income:
+SELL_PLACE_ITEM,아이템:,,,,Items:
+OPTIONS_SOUND_MACHINES,머신 볼륨,,,,Machines Volume
+OPTIONS_SOUND_ENVIRO,환경 볼륨,,,,Environment Volume
+MENU_LOADING_TIPS_30,"새 토지를 사거나 빌리고 싶다면, 시내 중심가에 있는 지역 은행을 방문하세요. 당신은 무료로 토지를 빌릴 수 있지만, 당신이 주인에게 지불해야 한다는 것을 잊지마세요.",,,,"If you want to Buy or Rent a new parcel, visit a local bank in the city center. You can rent a parcel for free, but don't forget about the provision from the gold found that you have to pay to the owner."
+MENU_LOADING_TIPS_31,"만약 당신이 충분한 돈을 가지고 있지 않다면, 당신은 항상 지역 은행에서 대출을 받을 수 있습니다. 동시에 하나 이상의 대출을 받을 수는 없습니다. 당신은 언제든지 상환할 수 있습니다.",,,,"If you don't have enough money, you can always take a loan at the local bank. You can't have more than one loan at the same time. You can repay the loan at any moment."
+MENU_LOADING_TIPS_32,태블릿에서 직원 탭을 열었기 때문에 새로운 잠재력 있는 노동자들이 하루에 한 두 번 이력서를 당신에게 보낼 것입니다.,,,,New potential workers will send their resume to you once or twice a day when you unlock the Workers Tab in your tablet.
+MENU_LOADING_TIPS_33,상점에서 구입한 모든 장비는 매장 바로 밖에서 적재 구역에서 대기할 것입니다. 중장비 가게에서 온 기계는 어디에서도 나오지 않을 것입니다. 당신은 그 장비들을 클레임으로 옮겨야 합니다.,,,,All your purchased equipment from the store will be waiting on the loading area just outside the store. Machines from the heavy machinery shop won't be waiting anywhere. You need to transport them to the claim.
+MENU_LOADING_TIPS_34_OLD,상점에서 구입한 모든 장비는 매장 바로 밖에서 적재 구역에서 대기할 것입니다. 중장비 가게에서 온 기계는 어디에서도 나오지 않을 것입니다. 당신은 그 장비들을 클레임으로 옮겨야 합니다.,,,,All your purchased equipment from the store will be waiting on the loading area just outside the store. Machines from the heavy machinery shop won't be waiting anywhere. You need to transport them to the claim.
+MENU_LOADING_TIPS_35,만약 돈이 필요하다면 대장장이가 여러분의 원광석을 살 수 있습니다.,,,,The Blacksmith will always smelt your gold ore. He can also buy raw ore from you if you need money right now.
+MENU_LOADING_TIPS_36,"마을 바로 밖에서 주유소를 찾을 수 있습니다. 주유소에서 연료통, 차량, 이동식 연료 탱크에 연료를 주입할 수 있습니다. ",,,,"You can find the Gas Station just outside the town. It will allow you to refuel Jerrycans, a Pickup Truck and a Mobile Fuel Tank. You need to use these to refuel other machinery."
+MENU_LOADING_TIPS_37,"땅을 파는데에 두 가지 구역이 있습니다. 작은 것은 호그팬을 위한 것이고, 큰 것은 굴삭기로 파는 것을 위한 것입니다.",,,,"There are two areas for digging on each parcel. A smaller one for a Hog Pan and the other big one for regular digging. If you feel lost, look for signs that will give you direction."
+MENU_LOADING_TIPS_38,컨베이어 벨트는 티어3의 워시 플랜트를 셋업할 때에 쓰이는 부속품입니다.,,,,The Conveyor Belt is an attachment to the Tier 3 Wash Plant Setup. With it you can semi-automate the process of delivering earth to the Shaker.
+MENU_LOADING_TIPS_39,자철석 트레일러에 넣어 자철석을 판매 한 뒤 공장에 납품할 수 있습니다. 트레일러를 지정된 구역에 놓고 뒤쪽에 있는 레버를 당깁니다.,,,,You can sell magnetite by putting it in the magnetite trailer and then deliver it to the factory. Put your trailer over the designated area and pull the lever on its back.
+MENU_LOADING_TIPS_40,"F5를 누르면 게임 도중에 빠른 저장이 됩니다. 또, F9를 누르면 게임 도중에 빠르게 세이브파일을 불러 올 수 있습니다.",,,,Press F5 during the game to QuickSave the game. Press F9 at any time to QuickLoad the game.
+MENU_LOADING_TIPS_41,"만약에 HUD를 숨기고 싶다면 F10를 누릅니다. 예를 들어, 이 기능은 멋진 스크린샷을 찍거나 멋있는 시네마틱 영상 등을 녹화할 수 있게 해줄 것 입니다.",,,,"If you want to completely hide your HUD press F10. It will allow you, for example, to create great screenshots or record fabulous clips from the game."
+MENU_LOADING_TIPS_42,"기계를 더 빨리 바꾸고 싶다면 키보드의 [ 와 ] 키를 사용하세요. 이 키를 사용하면 빠르게 다음 기계, 또는 이전 기계로 텔레포트 할 것입니다.",,,,"If you want to swap between machines quicker, use the [ and ] buttons. They will teleport you to Previous/Next Machine at the same parcel you are on right now."
+MENU_LOADING_TIPS_43,큰 연료 탱크의 재급유는 오래걸립니다. 인내심을 갖고 기다리거나 만약 기다릴 수 없다면 자러 가야 합니다.,,,,"The refueling of the big stationary tank will be done at midnight . You have to order it and wait patiently, or just go to sleep, if you can't wait anymore."
+MENU_LOADING_TIPS_44,"만약 차량이 막혔다면, 지도를 켜고 적절한 아이콘을 클릭하고 복원 버튼을 사용합니다. 당신의 토지나 마을 중심지의 기본 위치로 재설정 될 것 입니다.",,,,"If you or any of your vehicles ever get stuck, open the map, select the appropriate icon and use the restore button. It will be reset to its default position on the current parcel or in the town center."
+MENU_LOADING_TIPS_45,"어떻게 해야 할지 모르겠다면, 일지를 한번 보세요. 일지는 현재 게임에 있는 모든 시스템에 대한 정보들이 매우 많이 있습니다.",,,,"If you don't know what to do, take a look at the Journal. It is a source of information about all the systems that are currently in the game."
+MENU_LOADING_TIPS_46,만약에 게임에서 좀 더 자세한 방법을 알고 싶다면 DigTube 를 활용하세요.,,,,"If you want to check how you should perform specific actions in the game, turn on the Digtube and watch how it should be done."
+MENU_LOADING_TIPS_47,"이미 금으로 가득 찬 양동이를 가지고 있으면, 그것을 금을 만든 팬에 가져가서 치우기를 시작하세요. 그 과정에서 금을 잃지 않도록 조심하세요.",,,,"When you already have a bucket full of gold, take it to the gold pan and start cleaning it up. Just be careful not to lose everything in the process."
+MENU_LOADING_TIPS_48,웨이브 테이블을 구입하면 사금을 반자동화 할 수 있습니다. 테이블에 오물을 붓고 금이 나올때 까지 기다립니다.,,,,You can semi-automate the panning by buying a wave table. Pour the pay dirt into the table and wait for your gold gathered in the jar.
+MENU_LOADING_TIPS_49,강한 자철석을 사용하는 것 외에는 자성을 얻는 다른 방법이 없습니다. 그래서 다른 자철석을 다른 물질에서 분리해 두 개의 별도 양동이에 넣기 위해 자철석 분리기가 필요합니다.,,,,There is no other way of getting magnetite than to use strong magnets. That's why you need magnetite separator to split the magnetite from other materials and put them in two separate buckets
+MENU_LOADING_TIPS_50,"만약 당신이 동시에 많은 장비를 가지고 운전해야 한다면, 트레일러에 투자를 해야 합니다. 그것들은 장비 가게에서 구매할 수 있습니다.",,,,"If you need to drive with lots of equipment at the same time, you may want to invest in trailers. You can buy them at the Equipment Store."
+ALLOTMENT_1_EXPECTED_GOLD,낮음,,,,Low
+ALLOTMENT_1_DIRTNESS,없음,,,,None
+ALLOTMENT_2_EXPECTED_GOLD,중간,,,,Medium
+ALLOTMENT_2_DIRTNESS,없음,,,,None
+ALLOTMENT_4_EXPECTED_GOLD,높음,,,,High
+ALLOTMENT_4_DIRTNESS,없음,,,,None
+GLOBAL_CONTROLS_MAP,글로벌 컨트롤,,,,Global Controls
+CONTROLS_TELEPORT_NEXT,다음 기계,,,,Next Machine
+CONTROLS_TELEPORT_PREV,이전 기계,,,,Previous Machine
+CONTROLS_QUICK_LOAD,빠른 불러오기,,,,Quickload
+CONTROLS_QUICK_SAVE,빠른 저장,,,,Quicksave
+CONTROLS_TOGGLE_HUD,HUD 토글,,,,Toggle HUD
+CONTROLS_LAST_EXCAVATOR_CAMERA,굴착기의 팔 시점,,,,Arm Camera
+SHOP_ITEM_EQUIPMENT_THIN_HOSE_CONNECTOR_NAME,얇은 호스 커넥터,,,,Thin Water Hose Connector
+SHOP_ITEM_EQUIPMENT_THIN_HOSE_CONNECTOR_DESC,"거의 다 왔습니다! 몇 피트만 가면 연결됩니다. 창피해... 호스는 충분히 길지 않습니다. 그러나, 걱정 마세요! 얇은 호스 커넥터를 구입하고 두 개의 호스를 함께 연결하면 됩니다!",,,,You're almost there! Just a few feet more and you'll connect it. Shame... hose isn't long enough. But don't worry! Buy our Thin Water Hose Connector and connect two hoses together!
+CANT_CONNECT_MUST_FLAT,이 물체는 평평한 표면에 있어야 합니다!,,,,Object must be on a flat surface!
+OPTIONS_ONE_DOLLAR_PROMO,모든 것이 1$ 입니다,,,,Everything Costs $1
+HINT_NO_MINERS_GRILLE_ON_MINERS_MOSS,마이너 그릴을 잊었구나! 당신의 금은 모스를 입을 때까지 씻겨질 것입니다!,,,,You forgot about the Miner's Grille! Your gold will be washed from the Miner's Mosses until you put it on!
+DAYILY_STATS_HEADER,하루 요약,,,,Day Summary
+DAYILY_STATS_EARNED_GOLD_BY_WORKERS,직원들이 모은 금,,,,Gold Gathered By Workers
+DAYILY_STATS_EARNED_MONEY_BY_WORKERS,직원들의 급여,,,,Workers Salary
+DAYILY_STATS_MUD,광맥 진행량,,,,Processed Pay Dirt
+DAYILY_STATS_GOLD,이익,,,,Earned Gold
+DAYILY_STATS_CREDIT_PART,유상 대출,,,,Paid Loan
+MENU_OPTIONS_GAMEPLAY_SHOW_FPS,FPS 표시,,,,Show FPS
+MENU_OPTIONS_WIND_QUALITY,바람 품질,,,,Wind Quality
+WORKERS_NOT_ASSIGN_PROMPT,아직 직원을 배정하지 않았군요! 거스름 돈이 없어질 것입니다!,,,,You haven't assigned your worker! Your changes will be lost!
+GUI_HELP,도움,,,,Help
+MENU_DIG_TUBE,DIGTube,,,,DIGtube
+MENU_BROCHURE,안내 책자,,,,Brochures
+MENU_QUIK_GUIDE,퀵 가이드,,,,Quick Guide
+MENU_DISCORD,디스코드,,,,Discord
+MENU_DIG_TUBE_2,비디오 가이드,,,,Video Guides
+MENU_BROCHURE_2,광업 기본 사항,,,,Mining Basics
+MENU_QUIK_GUIDE_2,공식 게임 가이드,,,,Official Game Guide
+MENU_DISCORD_2,공식 디스코드 서버,,,,Official Discord server
+MAP_WATER,쿼드,,,,Water Source
+MAP_HOG_PAN,헬멧을 착용하는 것을 잊지 마세요. 이 작은 녀석은 꽤 빠릅니다,,,,Hog Pan Area
+MENU_CREDITS_SPEED_UP,부정 행위 및 익스플로잇 악용 현황 업데이트,,,,Hold to Fast Forward Credits
+HINT_BUCKET_IS_FULL,순위표 모드에서는 다른 플레이어와 상위 10위 안에 들기 위해 경쟁하게 됩니다. 순위표 모드에 들어가면 다른 플레이어보다 불공정한 이득을 얻을 수 있는 익스플로잇이나 치팅 소프트웨어를 사용하지 않을 것에 동의하는 것입니다. 저희는 이제 부정행위를 적극적으로 제거하여 모든 플레이어에게 공정한 환경을 보장할 것입니다.,,,,Bucket is full!
+FUEL_STATION_LITERS,미니 드릴링 머신,,,,Liter
+FUEL_STATION_PRICE_PER_LITER,더 작고 저렴한 우물을 사용하면 풍부한 지점에 바로 도달하여 다음을 찾을 수 있습니다.,,,,Price per liter
+SETTINGS_UNIT_TYPE_EUROPA,미니 프론트 로더,,,,Metric
+SETTINGS_UNIT_TYPE_AMERICA,페이로드를 더욱 빠르고 효율적으로 로드하세요.,,,,Imperial
+SETTINGS_UNIT_TYPE,미니 세탁 설치,,,,Units Type
+HUD_KMH,더 이상 트레이가 자동으로 자료를 선별하지 않습니다.,,,,kph
+HUD_MPH,미니 굴삭기,,,,mph
+BLACKSMITH_INFO_PRICE_PER_G,삽이 너무 지치셨나요? 이제 미니 굴삭기를 타고 호그 팬 지역에서 훨씬 더 빨리 금을 파헤칠 시간입니다!,,,,Per g
+SHOP_MACHINES_VEHICLE_D6H_DRILL_NAME,,,,,Drilling Machine
+SHOP_MACHINES_VEHICLE_D6H_DRILL_DESC,,,,,Stop digging blindly! Don't waste your time and money. With our brand new Drilling Machine you can check where the gold is and you will never get an empty bucket again.
+MACHINE_DOZER_DRILL,,,,,Drilling Machine
+CONTROLS_DOZER_DRILL_DOWN,,,,,Lower Drill
+CONTROLS_DOZER_DRILL_UP,,,,,Raise Drill
+SET_DRILL_IN_SAFE_POSITION,,,,,Set the Drill to safe position before releasing handbrake!
+HANDBRAKE_ON_TO_DRILL,,,,,Set handbrake before drilling!
+TROMMEL_NEW_NAME,,,,,Reinforced Trommel
+TROMMEL_NEW_DESCRIPTION,,,,,"The most powerful Trommel of this season. Thanks to the reinforced frame and the use of prototype material, unprecedented performance has been achieved!"
+TROMMEL_OLD_NAME,,,,,Old Arnold's Trommel
+TROMMEL_OLD_DESCRIPTION,,,,,"Old Arnold may not be in his prime age, but his machines are still working good. This Trommel may not look the most attractive, but its performance far exceeds the basic models!"
+GRAVEL_PUMP_NAME,,,,,Gravel Pump
+GRAVEL_PUMP_DESCRIPTION,,,,,"At first glance, the gravel pump does not differ much from the jig. However, the differences in their structure have a huge impact on performance, which is better in the pump!"
+PLANTER_NAME,,,,,Planter
+PLANTER_DESCRIPTION,,,,,"Do not let her appearance deceive you. It may not look like a technologically advanced machine, but it does its job well and is a suitable jig replacement for a bit higher price!"
+GALCIER_CREEK_NAME,,,,,Glacier Creek
+GALCIER_CREEK_DESCRIPTION,,,,,"It has never been possible to sift gold particles so thoroughly before. Using the latest technology, we managed to obtain almost 100% of the gold extraction from the processed earth!"
+DE_ROCKER_NAME,,,,,Derocker
+DE_ROCKER_DESCRIPTION,,,,,Is your old Shaker only suitable for scrap? Go to the next level of sifting and buy Derocker now. We guarantee a lot more profits.
+MENU_MAP_ZOOM_IN,,,,,Zoom In
+MENU_MAP_ZOOM_OUT,,,,,Zoom Out
+MENU_MAP_GOLD,,,,,Toggle Square
+INGAME_MENU_GOLDMAP,,,,,Gold Map
+SHOP_MACHINES_VEHICLE_FRANKENSTEIN_NAME,,DLC1,,,Frankenstein
+SHOP_MACHINES_VEHICLE_FRANKENSTEIN_DESCRIPTION,,DLC1,,,The biggest breakthrough in gold mining since the invention of the wash plant! This mobile conveyor belt will save you a lot of time and fuel!
+MENU_PARCEL,,,,,Parcel
+MENU_DRILL_NO,,,,,Drill no.
+MENU_SQUARE,,,,,Square
+MENU_TIME,,,,,Time:
+MENU_TOTAL_GOLD,,,,,Total gold:
+MENU_DAY,,,,,Day:
+MENU_AVERAGE,,,,,Rich spot part:
+MENU_DEPTH,,,,,Drilling depth:
+MENU_AMOUNT,,,,,Amount of gold in the ground
+MENU_NONE,,,,,Small
+MENU_PLENTY,,,,,Plenty
+MENU_DIG_BORDER,,,,,Dig site border
+MENU_FOREST,,,,,Forest
+MENU_BUILDINGS,,,,,Buildings
+MENU_GLEVELS,,,,,Ground Levels
+CONTROLS_EXCAVATOR_FRANK_ARM_UP,,,,,Raise Belt
+CONTROLS_EXCAVATOR_FRANK_ARM_DOWN,,,,,Lower Belt
+CONTROLS_EXCAVATOR_FRANK_ARM2_FORWARD,,,,,Extend Belt
+CONTROLS_EXCAVATOR_FRANK_ARM2_BACKWARD,,,,,Retract Belt
+MACHINE_EXCAVATOR_FRANK_DRIVE,,,,,Frankenstein Drive
+MACHINE_EXCAVATOR_FRANK_ARMS_MOVING,,,,,Frankenstein Conveyor
+CONTROLS_EXCAVATOR_FRANK_ENABLE_BELT,,,,,Activate Belt
+CONTROLS_EXCAVATOR_FRANK_DISABLE_BELT,,,,,Deactivate Belt
+MENU_ALLOTMENT1,,,,,Parcel I
+MENU_ALLOTMENT2,,,,,Parcel II
+MENU_ALLOTMENT3,,,,,Parcel III
+MENU_ALLOTMENT4,,,,,Parcel IV
+BANK_MAX_MACHINES_ON_PARCEL,,,,,Maximum machines on parcel:
+BANK_UPGRADE,,,,,UPGRADE +1
+ALLOTMENT_3_NAME,,,,,Nighthawk Parcel
+ALLOTMENT_1_NAME_SHORT,,,,,Old Arnold
+HUD_SEASON_SHORT,,,,,S
+HUD_DAY_SHORT,,,,,D
+HINT_DRILLING_IN_HARD,,,,,Drill only in mineable terrain!
+ALLOTMENT_3_EXPECTED_GOLD,,,,,Very High
+ALLOTMENT_3_DIRTNESS,,,,,None
+ALLOTMENT_3_WATER_SOURCE,,,,,Lakes
+ALLOTMENT_3_OWNER,,,,,State of Alaska
+ALLOTMENT_3_STORY,,,,,"The Nighthawk Parcel gets its name as a tribute to the birds. It may sound silly, but this area has the most concentrated flock of common nighthawk in the whole Alaska!"
+MENU_MAP_RESET,,,,,Restore
+HOTEL_HEAD,,,,,Hotel
+HOTEL_BODY,,,,,"Would you like to start season 2?@@Season 2 brings season only machines you can buy and use: Drilling Machine and Derocker.@@You have two options:@@You can start with a fresh new game without money nor gold, or keep your money from previous season.@@Either way your game will be reset to the default state. We have to reset your claims and workers, to implement the new features like Random Rich Spots followed by Drilling Machines. With reset we will also get rid of old bugs, that may happen to a bunch of players."
+SHOP_FRANKENSTEINDLCONLY_TEXT_BOTTOM,,DLC1,,,Would you like to add it to wishlist now?
+SHOP_FRANKENSTEINDLCONLY_TEXT_YES,,DLC1,,,Yes
+SHOP_FRANKENSTEINDLCONLY_TEXT_NO,,DLC1,,,No
+MENU_WRONG_DLC_TITLE,,,,,Wrong DLC
+MENU_WRONG_DLC_OLD,,,,,This save has content from not installed DLC
+SHOP_SEASONSONLY_TEXT,,,,,"This machine is available only in Season 2. Go to the Hotel and use it, to advance to season 2."
+HOTEL_SEASON3_INPROGRESS,,,,,"Season 3 is not available yet. Visit us again, when it'll be released."
+MENU_SHOP_SEASON_PROBLEM,,,,,"This machine is available only in Season 2. Go to the Hotel and use it, to advance to season 2."
+TOGGLE_WINDOW_MACHINE_SHOP_BODY,,,,,"The machines have been automatically transported to our nearest Storage Space. You can move them to your claim from the Transport Window next to you. There is a limit to how many vehicles from Machine Store you can have on your claim at the same time, so you may have to sacrifice one for another. You can increase this limit at Bank or Transport Window for a price.@@Remember, that every vehicle counts as one, so make sure there is enough space before you spend all your money on one of them."
+MENU_SAVE_CORRUPTED_TITLE,,,,,Load Error
+MENU_SAVE_CORRUPTED_BODY,,,,,Error during loading save
+TRANSPORT_MACHINES_COUNTER,,,,,Machines on claim
+DAYILY_STATS_RENT_GOLD,,,,,Provision of rent in gold:
+DAYILY_STATS_RENT_MONEY,,,,,Provision of rent in money:
+MENU_LOADING_TIPS_34,,,,,All your purchased equipment from the store will be waiting on the loading area just outside the store. Machines from the heavy machinery shop won't be waiting anywhere. You need to transport them to the claim!
+"TRANSPORT_GUI_NO_SPACE
+",,,,,There is not enough space on the claim to complete transport!
+"TRANSPORT_GUI_NO_SPACE_HEADER
+",,,,,Transport Problem
+WASHPLANT_IS_INCOMPLETE,,,,,Wash Plant is incomplete!
+WAHSPLANT_NO_WATER,,,,,There is no water in some Wash Plant Parts. Check:
+WASHPLANT_NO_POWER,,,,,Some Wash Plant Parts are not powered properly. Check:
+GAME_OPTIONS_AUTOSAVE_1_HOUR,,,,,1 Hour
+HOTEL_SEASON_SAVE_MONEY,,,,,Keep your money
+HOTEL_SEASON_GET_RID_OF_MONEY,,,,,Start fresh game
+HOTEL_SEASON_STAY_AT_SEASON_1,,,,,Stay at season 1
+GOLD_RECOVER_FROM_SEASON_1,,,,,"One time request!@@When season 2 has started, we've taken all your money and gold. Some of you were mad about it and would like to get it back. We've got a one time request for you. @@Would you like to get all your season 1 money back as gold and transfer it to season 2?"
+GOLD_RECOVER_FROM_SEASON_1_HEADER,,,,,Season 1 gold recovery
+GOLD_NUGGET_INFO,,,,,Lucky you! You've just found a big nugget!
+GOLD_NUGGET_INFO_LONG,,,,,"You're lucky! @@You've found the gold nugget! @@They exist so the beginning of the game would be easier and progress would be faster. If you don't want to use any help (that's the option we recommend for best gameplay), then reject this nugget. You'll never find one again. @@If you change your mind at any time you can change it in game settings."
+GOLD_NUGGET_INFO_MENU,,,,,Gold Nugget
+GOLD_NUGGET_KEEP,,,,,Keep it
+GOLD_NUGGET_REJECT,,,,,Reject
+SLOT_REWORK_INFO,,,,,"We've reworked slot systems. We gave you all your spent money back, so you will be able to buy it on new rules once again without losing any dollar."
+MENU_PROMPT_HIDE,,,,,Prompts
+MENU_WRONG_DLC,,,,,This save state has been saved with enabled DLC! Please re-enable it to load.
+SHOP_FRANKENSTEINDLCONLY_TEXT_TOP,,DLC1,,,"This machine is available in Frankenstein Machinery DLC. By clicking Yes below, you will be redirected to our Steam page to buy this DLC right away."
+OPTIONS_GRAPHICS_BLOOM,,,,,Bloom
+HINT_CANT_CLOSE,,,,,Can't close sideboard
+HINT_CANT_OPEN,,,,,Can't open sideboard
+MENU_GAMESETTINGS_VIEWFINDER,,,,,Digging Helper
+BANK_GUI_PARCELS_RESET,,,,,Reset?
+OPTIONS_GRAPHICS_STREAMINGQUALITY,,,,,Streaming Texture Quality
+LOW_FPS_WARNING_TITLE,,,,,Low FPS
+LOW_FPS_WARNING_CONTENT,,,,,"Consider switching graphic settings to ""Low""."
+CONTROLS_MACHINE_FRANK_DISENA_BELT,,,,,On/Off Belt
+NO_BUCKET_IN_SLUICEBOX,,,,,Bucket is not attached to Sluicebox
+SLUICEBOX_IS_EMPTY,,,,,Sluicebox is empty
+BUCKET_IS_FULL,,,,,Bucket is full
+SHOP_ITEM_EQUIPMENT_MATSCRUBBER_NAME,,,,,Gold Nuggetator
+SHOP_ITEM_EQUIPMENT_MATSCRUBBER_DESCRIPTION,,,,,"If you don't want to grab another bucket full of water to clean the Miner's Moss, buy the gold nuggetator and clean most of them at the same time. Full cleanup without a need to swap the bucket!!"
+OPTIONS_OFF,,,,,Off
+MENU_OPTIONS_PARTICLE_QUALITY,,,,,Particle Quality
+OPTIONS_GRAPHICS_REFLECTIONS,,,,,Reflections Quality
+SLUICE_TURN_OF_WATER,,,,,Turn off the water before lifting the grate
+SHOVEL_IS_FULL,,,,,Shovel is full
+SHOP_ITEM_EQUIPMENT_SLUICECRATE_NAME,,,,,Sluicebox Grate
+SHOP_ITEM_EQUIPMENT_SLUICECRATE_DESC,,,,,"If you want to get even more gold, attach up to 4 Sluicebox Grates on the S-T Sluicebox. When it is filled with gold concentrate mix clean it out with your small shovel."
+BANK_GUI_RESET_DESCRIPTION,,,,,Reset Parcel to default
+LAPTOP_GUI_NOTIFICATION_TITLE,,,,,Notification
+SHOP_ITEM_EQUIPMENT_WATERPUMP_BIG_ELECTRIC_NAME,,,,,Big Electric Water Pump
+SHOP_ITEM_EQUIPMENT_WATERPUMP_BIG_NAME,,,,,Big Diesel Water Pump
+LAPTOP_GUI_NOTIFICATION_LIST_OF_ALERTS,,,,,List of alerts
+LAPTOP_GUI_NOTIFICATION_NEW,,,,,new
+LAPTOP_GUI_BUTTON_SELECT_ALL,,,,,Select all
+PAINT_GUI_MAIN_NAME,,,,,Bob Custom Paint Job
+PAINT_GUI_MAIN_PLACE,,,,,"Machine Store Haines, Alaska"
+PAINT_GUI_MACHINE,,,,,Machine
+PAINT_GUI_PAINTING,,,,,Lacquer
+PAINT_GUI_COST,,,,,Cost
+PAINT_GUI_PAINT,,,,,Paint
+PAINT_GUI_TOTAL_COST,,,,,Total Cost
+LAPTOP_GUI_NOTIFICATION_TRANSPORT_COMPLETED,,,,,Transport completed
+LAPTOP_GUI_NOTIFICATION_MACHINE_BOUGHT,,,,,Machine has been bought
+LAPTOP_GUI_NOTIFICATION_ARRIVED_ON_PARCEL,,,,,arrived on your Parcel
+LAPTOP_GUI_NOTIFICATION_REFUELING_NEEDED,,,,,needs refueling
+LAPTOP_GUI_NOTIFICATION_WAITING_FOR_TRANSPORT,,,,,is waiting for transport
+LAPTOP_GUI_WAREHOUSE_BUTTON_SHOW_CASH,,,,,Checkout
+LAPTOP_GUI_WAREHOUSE_MENU_EQUIPMENT,,,,,Equipment
+LAPTOP_GUI_WAREHOUSE_MENU_PARTS,,,,,Parts
+LAPTOP_GUI_WAREHOUSE_MENU_TRAILERS,,,,,Trailers
+LAPTOP_GUI_WAREHOUSE_MENU_ACCESSORIES,,,,,Accessories
+LAPTOP_GUI_HEAVY_EQ_STORE_MENU_VEHICLES,,,,,Vehicles
+LAPTOP_GUI_HEAVY_EQ_STORE_MENU_MINING_MACHINES,,,,,Mining machines
+PAINT_BASE,,,,,Base paint
+PAINT_CAMO,,,,,Camo
+PAINT_PINK_CAMO,,,,,Pink Camo
+PAINT_GOLD,,,,,Golden
+PAINT_LEOPARD_PRINT,,,,,Leopard
+UI_POWER_CONSUMPTION,,,,,Power Consumption
+UI_WATER_CONSUMPTION,,,,,Water Consumption
+UI_POWER_PRODUCTION,,,,,Power Production
+UI_WATER_PRODUCTION,,,,,Water Production
+LAPTOP_GUI_BUTTON_ADD,,,,,Add
+BANK_GUI_SLOTS_UPGRADE_INFORMATION,,,,,machine slot on parcel
+SHOP_ITEM_EQUIPMENT_WATERROPEENOURMOUS_NAME,,,,,Huge Water Hose
+SHOP_ITEM_EQUIPMENT_WATERROPEENOURMOUS_DESC,,,,,Biggest water hose available on the market. For biggest pumps only.
+SHOP_ITEM_EQUIPMENT_WATER_SPLITTER_ENORMOUS_NAME,,,,,Huge Water Splitter
+SHOP_ITEM_EQUIPMENT_WATER_SPLITTER_ENORMOUS_DESC,,,,,No one need that much pressure in one machine. Use our enormous Water Splitter to attach multiple machines to one big pump.
+SHOP_ITEM_EQUIPMENT_ENORMOUS_HOSE_CONNECTOR_NAME,,,,,Huge Water Hose Connector
+SHOP_ITEM_EQUIPMENT_ENORMOUS_HOSE_CONNECTOR_DESC,,,,,Biggest among hose connectors. It's strong and durable. It should keep the enormous hose pressure without any leaks.
+IN_GAME_MENU_HYBRID_DIGGING_MODE,,,,,Mouse digging mode
+BANK_GUI_PARCELS_RESET_DESCRIPTION,,,,,Warning!@@You can't undo this action! Your digging ground will be completely reset! Big machinery will be moved to the Storage Space. Trailers and Big Water Pumps will be reset to their default places on the claim. Small items will be sold.@@Do you want to proceed?
+SHOP_ITEM_EQUIPMENT_WATERPUMP_BIG_DESC,,,,,"There will be time, when you reach the limit on the small water pumps. Whenever that happens, don't panic! Just buy the big water pump with 6 inch hose."
+SHOP_ITEM_EQUIPMENT_WATERPUMP_BIG_ELECTRIC_DESC,,,,,"The big brother of ""green"" small water pump. More advanced technology lets you pump much more water. Don't forget you need more power to juice it up."
+SHOP_ITEM_EQUIPMENT_WATERPUMP_SMALL_ELECTRIC_NAME,,,,,Small Electric Water Pump
+SHOP_ITEM_EQUIPMENT_WATERPUMP_SMALL_ELECTRIC_DESC,,,,,"To be a bit more eco-friendly, invest in our electric waterpumps. You won't need to refuel them all the time. Just fuel the Generator to provide some power."
+MENU_SAVE_CANT_LOAD_FROM_OPEN_BETA,,,,,You can't load a save from the open beta in the live version of the game.
+MENU_SAVE_CANT_LOAD_FROM_OPEN_BETA_TITLE,,,,,Can't load save
+MENU_BETA_POPUP,,,,,"This is a beta version of the game!@@It may be unstable and have some serious bugs. We can't assure you that everything is going to work well.We won't take responsibility for the loss of your game progress while on beta sever.@@If you still want to play then we are thankful for your devotion. There are two special channels where you can send us your feedback: Beta Steam Forum and Discord Channel.@@Please send us all your suggestions, bugs and comments about the state of the game there.@@SAVE SYSTEM WARNING: You won't be able to load the beta version save in the live version although you can load your regular save in the beta versions."
+CONTROLS_EXCAVATOR_BUCKET_UP_DOWN,,,,,Thumb up/down
+CONTROLS_EXCAVATOR_ARM_UP_DOWN,,,,,Boom up/down
+CONTROLS_EXCAVATOR_ARM2_UP_DOWN,,,,,Stick up/down
+HINT_MAT_SCRUBBER_DONE,,,,,The Gold Nuggetator has finished processing the pay dirt!
+CONTROLS_EXCAVATOR_BUCKET_OPEN_CLOSE,,,,,Thumb open/close
+LAPTOP_MENU_TRANSPORT_MOVE,,,,,Move
+TOGGLE_WINDOW_GOTO_SEASON2_HEADER,,,,,Season 2 - Reminder
+TOGGLE_WINDOW_GOTO_SEASON2_BODY,,,,,You're still playing season 1? It's time to go to the Hotel and change to season 2. Lots of stuff is waiting for you.
+PAINT_SHOP_CONFIRM_PAY,,,,,Paint
+WORKERS_GUI_FIRE_WORKER_PROMPT_HEADER,,,,,Fire the employee
+SELL_PROMPT,,,,,Confirm sell
+WORKERS_GUI_FIRE_WORKER_PROMPT_MAIN,,,,,Are you sure you want to fire this employee?@@You will lose him forever!
+BANK_GUI_SELL_GOLD_BAR_PROMPT,,,,,Are you sure you want to sell these gold bars?
+DRILL_DESTROYED,,,,,Drill destroyed.
+CHANGE_DRILL,,,,,Change the Drill.
+MAP_LEGEND_ROAD,,,,,Road
+MAP_LEGEND_UNPAVED_ROAD,,,,,Unpaved road
+MAP_LEGEND_WATER,,,,,Water
+OPTIONS_REPAIR,,,,,Machine Failures
+TOGGLE_WINDOW_REPAIRS_HEADER,,,,,Machine Failures
+TOGGLE_WINDOW_REPAIRS_BODY,,,,,"We've partially implemented the Machine Failures into the game!@@It's disabled by default, however you can change it with ease in Settings -> Game.@@We highly recommended setting it to on, but we know there may be players who like the current status quo and don't want to let their machines break."
+ACTION_LIFTDOWN,,,,,Lower it with the jack!
+DUMP_TRACK_PISTONE,,,,,Piston
+UI_DRILL,,,,,Drill
+UI_DRILL_DESC,,,,,It can drill through the soil with ease. Buy it to replace the used and broken one in your current Drilling Machine.
+SHOP_ITEM_PARTS_HYDRAULICHOSE_DESC,,,,,"Broke the hydraulic hose, huh? Get this and swap for your old one. Your machine will operate as it should."
+UI_COG_COVER,,,,,Cog Cover
+UI_COG_COVER_DESC,,,,,"Don't you ever leave your cogs without a proper cover. Buy this cheap one to protect them from dust, soil and rain."
+DUMP_TRACK_PISTONE_DESC,,,,,"You can't dump the soil without a properly working piston. Don't waste your money on cheaper alternatives, buy our piston and use it until it breaks."
+HINT_DIGGING_IN_HARD,,,,,You're digging in hard soil! You will break your teeth really fast! Find a better place to dig!
+HUD_VERSION,,,,,Ver.
+MENU_OPTIONS_GPU_CULLING,,,,,GPU Culling
+TUTORIAL_LEASE_CLAIM,,,,,Drive to the Old Glenn Bank and lease Old Arnold Parcel
+TUTORIALS_ENABLED,,,,,Tutorial Prompts
+TUTORIAL_BUY_HOGPAN_NO PUMP,,,,,Buy Hog Pan No Pump
+TUTORIAL_BUY_HOGPAN_SLUICEBOX_CORE,,,,,Buy Hog Pan Sluicebox Core
+TUTORIAL_BUY_TWO_HOGPAN_MATS,,,,,Buy two Hog Pan Mats
+TUTORIAL_BUY_BUCKET,,,,,Buy a Bucket
+TUTORIAL_GOTO_CHECKOUT_FINALIZE,,,,,Go to Checkout and buy your stuff
+TUTORIAL_PACK_TIER1STUFF_ON_PICKUP,,,,,Pack your purchased Tier 1 equipment onto the Pickup bed
+TUTORIAL_DRIVETO_OACLAIM,,,,,Now continue driving to the Old Arnold Parcel
+TUTORIAL_SETUP_HOGPAN_SLUICEBOX_CORE,,,,,Take the Hog Pan Sluicebox Core and put it on the wooden base.
+TUTORIAL_SETUP_HOGPAN_NOPUMP,,,,,Take the Hog Pan No Pump and attach it to the Hog Pan Sluicebox Core
+TUTORIAL_SETUP_HOGPAN_FIRSTMAT,,,,,Take the first Hog Pan Mat and attach it to the Hog Pan Sluicebox Core
+TUTORIAL_SETUP_HOGPAN_SECONDMAT,,,,,Take the second Hog Pan Mat and attach it to the Hog Pan Sluicebox Core
+TUTORIAL_BEGINNING,,,,,"Hello Greenhorn! @@I'll give you some tips at the beginning of your journey. After that you'll have to watch a lot of <b>DIGtube</b> - that's the name of our local miners video service - and read our <b>Journal</b> a lot. There is all the information you need to become the wealthiest miner in Alaska. You can make it!@@Let's start by restoring the Pickup! Someone parked it that way, that we can't drive off the hill. We need to use the <b>Restore System</b>.@@P.S. If at any point of my long and possibly repetitive tasks you'll feel that you're fine on your own and you think you know what you're doing, just go to menu and select ""End Tutorial"""
+TUTORIAL_END,,,,,"That's all.@@Now you know some basics and should be able to go on from this to next tiers.@@If you ever feel stuck or confused, check Digtube and the Journal.@@Right now, you should focus to buy and set Tier 2 Equipment as fast as possible. To check what is needed in this tier, you can read brochures at the beginning of the Journal."
+UI_HAND,,tool from toolbar,,,Free Hand
+UI_SHOVEL,,tool from toolbar,,,Shovel
+UI_FLASHLIGHT,,tool from toolbar,,,Flashlight
+UI_BLADE,,tool from toolbar,,,Small Shovel
+UI_DRILL_TOOL_NAME,,tool from toolbar,,,Cordless screwdriver
+UI_SCREWDRIVER,,tool from toolbar,,,Screwdriver
+UI_CROWBAR,,tool from toolbar,,,Crowbar
+UI_WRENCH,,tool from toolbar,,,Wrench
+TUTORIAL_BEGINNING_HEADER,,,,,Gold Prospecting for Beginners
+TUTORIAL_ENDING_HEADER,,,,,Go out and explore the world!
+OPTIONS_DIFFICULTY,,Difficulty,,,Difficulty
+OPTIONS_DIFFICULTY_NORMAL,,,,,Normal
+OPTIONS_DIFFICULTY_HARD,,,,,Hard
+DRILL_SHOP,,,,,Drill
+WINDOW_HARDMODE_HEADER,,,,,Hard Mode
+WINDOW_HARDMODE_BODY,,,,,"You're a veteran, huh? @Great! It'll be fun!@@In Hard Mode you will not use any help dedicated for new players. @There will be higher prices, less gold, and more malfunctions during the game.@@You will start with $0, so before you do anything else, go to the Old Glenn Bank and take a loan.  There won't be much, but it should be enough to start prospecting with a manual Hog Pan."
+TUTORIAL_TIER1_NAME,,,,,Gold Mining - Stage 1
+GUI_LAPTOP_BUY_WORKERS_TAB_UNAVIABLE_HARDMODE,,,,,Unavailable in Hard Mode
+BANK_GUI_LOAN_CONFIRMATION,,Confirmation of paying off the loan,,,Are you sure you want to pay off the loan?
+SHOP_ITEM_PARTS_DUPLEX_JIG_PUMP_NAME,,,,,Duplex Jig Pump
+SHOP_ITEM_PARTS_DUPLEX_JIG_PUMP_DESC,,,,,Without a properly working Duplex Jig Pump you will get much less gold in your last buckets. Take care of it and don't waste your time working on the broken one
+SHOP_ITEM_PARTS_ELECTRIC_ENGINE_NAME,,,,,Electric Engine
+SHOP_ITEM_PARTS_ELECTRIC_ENGINE_DESC,,,,,"Every electric machine works better with a power source. If your engine fails, you won't be able to use the machine."
+SHOP_ITEM_PARTS_TROMMEL_ROLLER_NAME,,,,,Trommel Roller
+SHOP_ITEM_PARTS_TROMMEL_ROLLER_DESC,,,,,It requires lots of energy to rotate the Trommel without proper Rollers. If you don't keep them repaired your engine will blow very fast!
+DONT_REPAIR_UNDER_POWER,,,,,Make sure all electrical cords are unplugged before repairing the machine! 
+RESTRUCTURIZATION_PLAN_WORKERS_FIRED,,"Player can have maximum of 10 workers per claim after patch, if he has more they are fired",,,Player can have a maximum of 10 workers at the claim. All above that have been fired
+SHOP_ITEM_PARTS_WASHPLANT_ENGINE_BELT_NAME,,,,,Wash Plant Engine Fan Belt
+SHOP_ITEM_PARTS_WASHPLANT_ENGINE_BELT_DESC,,,,,"Without the belt, the engine won't be able to work properly. Buy one now, and get back to work!"
+SHOP_ITEM_PARTS_CONVEYOR_BELT_BUCKET_NAME,,,,,Conveyor Belt's Bucket
+SHOP_ITEM_PARTS_CONVEYOR_BELT_BUCKET_DESC,,,,,"Make sure all buckets are working, or you won't transfer the maximum amount of soil per hour."
+SHOP_ITEM_PARTS_GLACIERCREEK_SPRING_NAME,,,,,Glacier Creek Spring
+SHOP_ITEM_PARTS_GLACIERCREEK_SPRING_DESC,,,,,"The Springs are one of the most important parts of the Glacier Creek. Without them it won't move, so it won't sift soil, so you won't get money!"
+SHOP_ITEM_PARTS_PLANTER_HOSE_NAME,,,,,Planter Hose
+SHOP_ITEM_PARTS_PLANTER_HOSE_DESC,,,,,"With a leaking hose, your sifting performance will be vastly decreased."
+SHOP_ITEM_PARTS_GLACIER_CREEK_ENGINE_NAME,,,,,Glacier Creek Engine
+SHOP_ITEM_PARTS_GLACIER_CREEK_ENGINE_DESC,,,,,"Take care of you Glacier Creek Engine. With proper treatment it will serve you well for a long, long time."
+WorkersHogPanContainerLevel1,,,,Spelling mistake to ’PerformaNce’?,25% to Hog Pan Performance
+WorkersHogPanContainerLevel2,,,,,Increased Worker Performance
+WorkersHogPanContainerLevel3,,,,,Increased Worker Performance
+WorkersHogPanSluiceboxLevel1,,,,,"Auto Swap Mats on Sluicebox, when they are full"
+WorkersHogPanSluiceboxLevel2,,,,,Four more slots for Hog Pan Mats
+WorkersHogPanSluiceboxLevel3,,,,,Two more slots for Hog Pan Mats
+WorkersMobileWashPlantLevel1,,,,,Auto Swap Buckets from Area Nearby
+WorkersMobileWashPlantLevel2,,,,,- 20% Malfunction Rate
+WorkersMobileWashPlantLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersShakerLevel1,,,,,20% to Wash Plant System Performance
+WorkersShakerLevel2,,,,,- 20% Malfunction Rate
+WorkersShakerLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersTrommelLevel1,,,,,10% to Wash Plant System Performance
+WorkersTrommelLevel2,,,,,- 20% Malfunction Rate
+WorkersTrommelLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersDuplexJigLevel1,,,,,Auto Swap Buckets from Area Nearby
+WorkersDuplexJigLevel2,,,,,- 20% Malfunction Rate
+WorkersDuplexJigLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersD-RockerLevel1,,,,,20% to Wash Plant System Performance
+WorkersD-RockerLevel2,,,,,- 20% Malfunction Rate
+WorkersD-RockerLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersOATrommelLevel1,,,,,10% to Wash Plant System Performance
+WorkersOATrommelLevel2,,,,,- 20% Malfunction Rate
+WorkersOATrommelLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersPlanterLevel1,,,,,Auto Swap Buckets from Area Nearby
+WorkersPlanterLevel2,,,,,- 20% Malfunction Rate
+WorkersPlanterLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersGlacierCreekLevel1,,,,,20% to Wash Plant System Performance
+WorkersGlacierCreekLevel2,,,,,- 20% Malfunction Rate
+WorkersGlacierCreekLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersReinforcedTrommelLevel1,,,,,10% to Wash Plant System Performance
+WorkersReinforcedTrommelLevel2,,,,,- 20% Malfunction Rate
+WorkersReinforcedTrommelLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersGravelPumpLevel1,,,,,Auto Swap Buckets from Area Nearby
+WorkersGravelPumpLevel2,,,,,- 20% Malfunction Rate
+WorkersGravelPumpLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersConveyorsBeltLevel1,,,,,7% to Wash Plant System Performance
+WorkersConveyorsBeltLevel2,,,,,- 20% Malfunction Rate
+WorkersConveyorsBeltLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersConveyorsContainerLevel1,,,,,7% to Wash Plant System Performance
+WorkersConveyorsContainerLevel2,,,,,Increased Worker Performance
+WorkersConveyorsContainerLevel3,,,,,Increased Worker Performance
+WorkersT-DJSluiceboxLevel1,,,,,Auto Swap Miner's Mosses from Area Nearby (6 slots)
+WorkersT-DJSluiceboxLevel2,,,,,2% to Wash Plant system Performance
+WorkersT-DJSluiceboxLevel3,,,,,Additional Slots for Miner's Mosses Swap
+WorkersS-TSluiceboxLevel1,,,,,Auto CleanUp Grates
+WorkersS-TSluiceboxLevel2,,,,,One More Bucket for Grate cleanup
+WorkersS-TSluiceboxLevel3,,,,,One More Bucket for Grate cleanup
+WorkersExcavatorsLevel1,,,,,Hydraulic Speed + 20%
+WorkersExcavatorsLevel2,,,,,- 20% Malfunction Rate
+WorkersExcavatorsLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersLoaderLevel1,,,,,Hydraulic Speed + 20%
+WorkersLoaderLevel2,,,,,- 20% Malfunction Rate
+WorkersLoaderLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersDozerLevel1,,,,,Hydraulic Speed + 20%
+WorkersDozerLevel2,,,,,- 20% Malfunction Rate
+WorkersDozerLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersDumpTruckLevel1,,,,,Movement Speed + 15%
+WorkersDumpTruckLevel2,,,,,- 20% Malfunction Rate
+WorkersDumpTruckLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersFrankensteinLevel1,,DLC1,,,Movement Speed + 15%
+WorkersFrankensteinLevel2,,DLC1,,,- 20% Malfunction Rate
+WorkersFrankensteinLevel3,,DLC1,,,50% chance to Auto Repair to 30% durability on failure
+WorkersDrillMachineLevel1,,,,,Automatically reveal one random square on Parcel
+WorkersDrillMachineLevel2,,,,,- 20% Malfunction Rate
+WorkersDrillMachineLevel3,,,,,50% chance to Auto Repair to 30% durability on failure
+WorkersMechanicLevel1,,,,,Slowly repairs your most destroyed equipment at the high cost of maintenance
+WorkersMechanicLevel2,,,,,Mechanic repair equipment faster
+WorkersMechanicLevel3,,,,,Mechanic repair equipment faster
+SHOP_ITEM_PARTS_MAGNETITETRAILER_LEVER_DESC,,,,,"Levers often break. No one knows why, but they do. Keep one nearby the magnetite trailer or you won't be able to empty it at the factory."
+SHOP_ITEM_PARTS_MAGNETITETRAILER_LEVER_NAME,,,,,Magnetite Trailer Lever
+LAPTOP_MENU_WORKERS_UPGRADE,,Upgrade,,,Upgrade
+LAPTOP_GUI_WORKERS_REJECT,,Reject,,,Reject
+HogPanContainer,,worker spec,,,Hog Pan Container
+HogPanSluiceBox,,worker spec,,,Hog Pan Sluicebox
+MobileWashPlant,,worker spec,,,Mobile Wash Plant
+Shaker,,worker spec,,,Shaker
+Trommel,,worker spec,,,Trommel
+DuplexJig,,worker spec,,,Duplex Jig
+ConveyorsBelt,,worker spec,,,Conveyor Belt
+ConveyorsContainer,,worker spec,,,Conveyor Belt's Hopper
+TDJ_Sluicebox,,worker spec,,,T-DJ Sluicebox
+ST_SluiceBox,,worker spec,,,S-T Sluicebox
+Excavators,,worker spec,,,Excavator
+Loader,,worker spec,,,Front-End Loader
+Dozer,,worker spec,,,Bulldozer
+DumpTruck,,worker spec,,,Dump Truck
+Frankenstein,,worker spec / DLC1,,,Frankenstein
+DrillMachine,,worker spec,,,Drilling Machine
+Mechanic,,worker spec,,,Mechanic
+LAPTOP_UI_WORKERS_BONUS_WASHPLANT,,Workers in  all Vehicles,,,Workers in Wash Plant System Components
+LAPTOP_UI_WORKERS_BONUS_WASHPLANT_DESC,,to washplant fuel processing speed,,,to Wash Plant Performance
+LAPTOP_UI_WORKERS_BONUS_VEHICLES,,Workers in all vehicles,,,Worker in Vehicles
+LAPTOP_UI_WORKERS_BONUS_VEHICLES_DESC,,to vehicle  fuel usage,,,to Vehicle Fuel Usage
+EPILEPSY_WARNING,,,,,Photosensitivity Warning:
+EPILEPSY_WARNING_DESC,,,,,"A small percentage of people may experience seizures when exposed to certain lights, patterns or images, even with no history of epilepsy or seizures. Please review safety information in product manual, also available at codehorizon.pl/safetywarning"
+SHOP_ITEM_PARTS_PLANTER_WATERPUMPFILTER_NAME,,,,,Water Pump Filter
+SHOP_ITEM_PARTS_PLANTER_WATERPUMPFILTER_DESC,,,,,Without a properly working filter your water pump will stop working. Don't try to start the pump with broken filter or more malfunctions may appear.
+SHOP_ITEM_PARTS_PLANTER_WATERPUMPFUSE_NAME,,,,,Water Pump Fuse
+SHOP_ITEM_PARTS_PLANTER_WATERPUMPFUSE_DESC,,,,,"From time to time you should swap your old Fuse Box for a new one. With so much dirt and dust on the claims, water pumps are having hard time pumping water all day long!"
+TUTORIAL_PICK_SHOVEL,,,,,Pick the Shovel from your Toolbox
+TUTORIAL_FILL_HOGPAN,,,,,Fill Hog Pan with pay dirt
+TUTORIAL_PICK_BUCKET,,,,,Pick up the Bucket
+TUTORIAL_FILL_BUCKET_INRIVER,,,,,Fill the Bucket with water from the river
+TUTORIAL_POUR_WATER_TO_HOGPAN,,,,,Pour Water into the Hog Pan to start washing the soil
+TUTORIAL_FILL_MATS,,,,,Repeat the digging/washing process to fill Mats to 30%
+TUTORIAL_FILL_BUCKET,,,,,Fill a Bucket with Water
+TUTORIAL_PICK_MAT_FIRST,,,,,Take the first Hog Pan Mat
+TUTORIAL_WASH_MAT_FIRST,,,,,Wash the first Hog Pan Mat in the Bucket
+TUTORIAL_PICK_MAT_SECOND,,,,,Take the second Hog Pan Mat
+TUTORIAL_WASH_MAT_SECOND,,,,,Wash the second Hog Pan Mat in the Bucket
+TUTORIAL_PICKBUCKET_GO_TOTENT,,,,,Take the Bucket and go to the Tent
+TUTORIAL_FILL_BIGBOWL_WATER,,,,,Fill the Big Bowl with water from the river
+TUTORIAL_GO_TOTENT,,,,,Go back to the Tent
+TUTORIAL_PICK_BUCKET_USE_ONGOLDPAN,,,,,Take the Bucket and use it on Gold Pan
+TUTORIAL_START_PANNING,,,,,Start Panning in the Big Bowl
+TUTORIAL_MOVE_PAN_INWATER,,,,,Slowly move the Pan in the water
+TUTORIAL_PICK_GOLD,,,,,Switch to Pick Mode and pick the gold one by one
+TUTORIAL_PAN_REST,,,,,Pan the rest of the pay dirt until the Bucket is empty
+TUTORIAL_DRIVE_TOBLACKSMITH,,,,,Drive to the Blacksmith
+TUTORIAL_KNOCK_ONBLACKSMITHDOOR,,,,,Knock on the Blacksmith's door and smelt the gold ore into a shiny gold bar.
+LAPTOP_GUI_WORKERS_REJECT_PROMPT,,,,,Are you sure you want to reject this CV?@@You won't be able to hire this person anymore!
+LAPTOP_GUI_WORKERS_ASSIGN_WARNING,,,,,There is a worker already assigned to this machine!@@Are you sure you want to unassign him and assign current worker?
+LAPTOP_GUI_WORKERS_ASSIGN_WARNING_HEADER,,,,,Worker is already assigned!
+LAPTOP_GUI_WORKERS_MECHANIC_EXPLANATION,,,,,"Mechanic will slowly repair your most damaged parts on parcel he is assigned to.@For each repaired percent he will take extra money equal to the part cost.@@Mechanic is working 24/7, even if you sleep."
+LAPTOP_GUI_WORKERS_MECHANIC_EXPLANATION_HEADER,,,,,Mechanic Info
+LAPTOP_GUI_WORKERS_RETRAINING,,,,,Are you sure you want to retrain your worker and change his specialization? @@Your Performance statistic and upgrade level will remain the same@Specialization will be changed randomly so it may be hard to find the original one again.
+LAPTOP_GUI_WORKERS_RETRAINING_HEADER,,,,,Worker Retraining
+LAPTOP_GUI_WORKERS_RETRAINING_TITLE,,Retraining,,,Worker Retraining
+LAPTOP_MENU_WORKERS_RETRAIN,,,,,Retrain
+WORKER_CARD_ASSIGNED,,,,,Assigned
+SHOP_ITEM_PARTS_WaterPumpBigDieselPipe_NAME,,,,,Big Water Pump Pipe
+SHOP_ITEM_PARTS_WaterPumpBigDieselPipe_DESC,,,,,Pipe in Water pumps tends to leak... more often than it should. Especially when in so difficult conditions as on a Gold Mining Claim
+SHOP_ITEM_PARTS_WaterPumpBigCoil_NAME,,,,,Big Water Pump Coil
+SHOP_ITEM_PARTS_WaterPumpBigCoil_DESC,,,,,You can't run the electric water pump without electricity. Keep at least one Coil around or your whole operation could be stopped!
+SHOP_ITEM_PARTS_MOBILE_WASPLANT_ENGINE_NAME,,,,,Mobile Wash Plant Engine
+SHOP_ITEM_PARTS_MOBILE_WASPLANT_JETS_NAME,,,,,Mobile Wash Plant Jet
+SHOP_ITEM_PARTS_MOBILE_WASPLANT_ENGINE_DESC,,,,,Engine of Mobile Wash Plant is the key to your Tier 2 Sifting. Keep it working on your way to Bigger Wash Plants
+SHOP_ITEM_PARTS_MOBILE_WASPLANT_JETS_DESC,,,,,"As you should know right now, you can't use any Wash Plants without the water. Mobile Wash Plants is the same. Make sure your jets are not clogged or broken during the washing process."
+TUTORIAL_T2_HEADER,,,,,How to get rich without a shovel?
+TUTORIAL_T3_HEADER,,,,,100 Hours Work-Week - Life of Gold Prospector
+TUTORIAL_GETINTO_PICKUP,,,,,Jump into the Pickup Truck
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_JET_NAME,,,,,Gold Nuggetator Jet
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_JET_DESC,,,,,Make sure your jets gives you enough water pressure and are not clogged. If you don't check it you may lose lots of gold!
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_BELT_NAME,,,,,Gold Nuggetator Belt
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_BELT_DESC,,,,,You need Gold Nuggetator Belt to keep the Miner's Mosses moving. Buy some more and keep them close to be able to wash the gold anytime
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_PIPE_NAME,,,,,Gold Nuggetator Pipe
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_PIPE_DESC,,,,,Gold Nuggetator is a handy yet very fragile machine. Pipes are another part that can be broken. 
+SHOP_ITEM_PARTS_POWERGENERATOR_BUTTON_NAME,,,,,Big Power Generator Button
+SHOP_ITEM_PARTS_POWERGENERATOR_BUTTON_DESC,,,,,"Each Button in Big Generator has limited amount of use before it breaks. The repair doesn't take long, but it may be needed"
+SHOP_ITEM_PARTS_DROCKER_CABLE_NAME,,,,,Derocker Hose
+SHOP_ITEM_PARTS_DROCKER_CABLE_DESC,,,,,The Derocker is almost the perfect machine but even that has some flaws. Make sure you check the machine hoses. This is the technical problem that is common among the Derockers.
+SHOP_ITEM_PARTS_DROCKER_JET_NAME,,,,,Derocker Jet
+SHOP_ITEM_PARTS_DROCKER_JET_DESC,,,,,Jets are almost as important in the Derocker as the moving Tracks. You can't simply wash gold without the water!
+SHOP_ITEM_PARTS_MAGNETITESEPARATOR_HOSE_NAME,,,,,Magnetite Separator Hose
+SHOP_ITEM_PARTS_MAGNETITESEPARATOR_HOSE_DESC,,,,,Keep the pressure! Buy the new hose for the magnetite separator and don't let the magnetite be left in the dirt
+SHOP_ITEM_PARTS_WORKINGLAMP_LAMP_NAME,,,,,Worklight Lamp
+SHOP_ITEM_PARTS_WORKINGLAMP_LAMP_DESC,,,,,"You know, you can't work at night without the Worklights. It's important to see where to drive and where to dig. Don't waste your time for sleep, replace the lamp and go back to work!"
+SHOP_ITEM_PARTS_FUEL_NOZZLE_NAME,,,,,Fuel Nozzle
+SHOP_ITEM_PARTS_FUEL_NOZZLE_DESC,,,,,"You broke it, you buy it. If you broke the fuel nozzle on your fuel tank, buy this one and repair it. Without it you won't be able to fuel your machines!"
+BANKRUPTCY_WARNING,,,,,Bankruptcy Warning
+BANKRUPTCY_WARNING_DESC,,,,,"Be careful! When you go below:@-$100k on Normal Mode@-$25k on Hard Mode@you will lose the game. @@When you take the loan on negative account balance, the interest rate is doubled, so don't take too much."
+STORIES_NEW_FOUND,,,,,You've found a new part of the story! Check at the end of your Journal to read more!
+JOURNAL_STORY_TITLE,,,,,Stories
+STORY_FIRST_FOUND_HEADER,,,,,You've found your first part of the story!
+STORY_FIRST_FOUND_DESC,,,,,Good job! You've found part of the story!@@For each completed story you will get a 1% discount at the Gas Station and a 1% discount at Equipment Store when buying spare parts.@@For those who find all stories there is a special painting waiting at the Machine Store.
+STORY_ICON_SHOWN_HEADER,,,,,Stories notification
+STORY_ICON_SHOWN_DESC,,,,,"A Story Notification is blinking on your screen. It means, that the part of the story is nearby. @@The closer you are to the story page, the faster an icon is blinking.@@You can disable it at any time in the game settings."
+STORY_1_HEADER,,,,,Factory - Magnetite Area
+STORY_2_HEADER,,,,,Old Arnold Parcel
+STORY_3_HEADER,,,,,Radiostation
+STORY_4_HEADER,,,,,Blacksmith
+STORY_5_HEADER,,,,,Native Village
+STORY_6_HEADER,,,,,Collapsed Road
+STORY_7_HEADER,,,,,River Town
+STORY_8_HEADER,,,,,Hotel
+STORY_9_HEADER,,,,,Junkyard
+STORY_10_HEADER,,,,,Railroad
+STORY_11_HEADER,,,,,Henneberg Old Mine
+STORY_12_HEADER,,,,,Boat Center Nearby Fort Ripley
+STORY_13_HEADER,,,,,Bear Paw Lake
+STORY_14_HEADER,,,,,Pine Valley
+STORY_15_HEADER,,,,,Sawmill
+STORY_16_HEADER,,,,,Factory
+STORY_17_HEADER,,,,,Nighthawk Parcel
+BLACKSMITH_UPGRADE_PROMPT_TITLE,,Upgrade,,,Are you sure you want to buy this upgrade?
+BLACKSMITH_UPGRADE_DESC_TIME_1,,,,,Buy a Small Burner Kit
+BLACKSMITH_UPGRADE_DESC_TIME_2,,,,,Buy a Medium Burner Kit
+BLACKSMITH_UPGRADE_DESC_TIME_3,,,,,Buy a Large Burner Kit
+BLACKSMITH_UPGRADE_DESC_MAX_1,,,,,Buy a Small Furnace
+BLACKSMITH_UPGRADE_DESC_MAX_2,,,,,Buy a Medium Furnace
+BLACKSMITH_UPGRADE_DESC_MAX_3,,,,,Buy a Large Furnace
+BLACKSMITH_UPGRADE_DESC_LOSS_1,,,,,Buy the Low-End Pyrometer
+BLACKSMITH_UPGRADE_DESC_LOSS_2,,,,,Buy the Average Pyrometer
+BLACKSMITH_UPGRADE_DESC_LOSS_3,,,,,Buy the High-End Pyrometer
+BLACKSMITH_UPGRADE_DESC_COST_1,,,,,Buy Small Shares
+BLACKSMITH_UPGRADE_DESC_COST_2,,,,,Buy Medium Shares
+BLACKSMITH_UPGRADE_DESC_COST_3,,,,,Buy Large Shares
+BLACKSMITH_UPGRADE_SUBDESC_COST_PART_1,,,,,Cost upgrade
+BLACKSMITH_UPGRADE_SUBDESC_COST_PART_2,,,,,Smelting cost reduced
+BLACKSMITH_UPGRADE_SUBDESC_TIME_PART_1,,,,,Time upgrade
+BLACKSMITH_UPGRADE_SUBDESC_TIME_PART_2,,,,,Smelting time reduced
+BLACKSMITH_UPGRADE_SUBDESC_MAX_PART_1,,,,,Amount upgrade
+BLACKSMITH_UPGRADE_SUBDESC_MAX_PART_2,,,,,Smelting amount increased
+BLACKSMITH_UPGRADE_SUBDESC_LOSS_PART_1,,,,,Loss upgrade
+BLACKSMITH_UPGRADE_SUBDESC_LOSS_PART_2,,,,,Gold loss reduced
+BLACKSMITH_GUI_MAGNETITE,,Magnetyt,,,Magnetite
+NOTIFICATION_TITLE_SECONDARY,,,,,"Information, Equipment Breakdowns & Repairs"
+ONLINE_SHOP_TITLE_SECONDARY,,,,,"Online shopping site Haines, Alaska"
+BANK_GOLDBARS,,,,,Your Gold Bars:
+BANK_GOLDBARS_MASS,,,,,Weight:
+BANK_GOLDBARS_VALUE,,,,,Value:
+WORKER_GUI_QUALIFICATIONS,,,,,Qualifications
+ALL_NOTIFICATION_HEADER,,header for laptop,,,All
+WORKERS_GUI_MAINSKILL,,,,,Main Skill
+WORKERS_GUI_LEVEL1,,,,,Level 1
+WORKERS_GUI_LEVEL2,,,,,Level 2
+WORKERS_GUI_LEVEL3,,,,,Level 3
+INFORMATION_NOTIFICATION_HEADER,,,,,Info
+MAP_LEGEND_MACHINES,,,,,Machines
+MAP_LEGEND_MAP,,,,,Map
+ITEM_DESTROYED_NOTIFICATION,,,,,Item destroyed!
+HAS_BEEN_DESTROYED_NOTIFICATION,,,,,has been destroyed!
+GUI_BLACKSMITH_PROMPT_NO_MAGNETITE_UP,,No magnetite,,,Not enough magnetite
+GUI_BLACKSMITH_PROMPT_NO_MAGNETITE_DOWN,,,,,You don't have enough magnetite to buy this upgrade
+PAINT_COW_PRINT,,,,,Cow
+PAINT_GAMEPAD_PRINT,,,,,Gamepads
+HUD_MAGNETITE,,,,,Mag.
+STORIES_COLLECTED_ALL_TITLE,,,,,All Stories Found!
+STORIES_COLLECTED_ALL_DESC,,,,,"Congratulations!@@You've found all the stories!@@After all that searching you'd definitely like some reward, huh? Go to the Machine Store and check the paintshop! There is something waiting for you!"
+BLACKSMITH_END_OF_REMELT_HINT_TITLE,,,,,Your Gold Bar is Ready!
+BLACKSMITH_END_OF_REMELT_HINT_DESC,,,,,Go to the Blacksmith and take your shiny Gold Bar! It will appear in your hands after you close the Blacksmith window.
+WORKERS_GUI_WRONGSPEC_HEADER,,,,,Wrong Specialization
+WORKERS_GUI_WRONGSPEC_DESC,,,,,You can't assign a worker without proper specialization to the Machine.
+BANK_GUI_PARTIAL_PAY_DESCRIPTION,,,,,How much of your loan you'd like to pay back?
+INSTALL_MEDIA_FOUNDATION,,,,,You need to install Microsoft Media Foundation
+SHOP_ITEM_PARTS_PLANTER_MOBILE_GENERATOR_COOLER_NAME,,,,,Mobile Generator Cooler
+SHOP_ITEM_PARTS_PLANTER_MOBILE_GENERATOR_COOLER_DESC,,,,,Don't let your Mobile Generator overheat! Keep the Cooler fully working especially in the warmer days.
+MAP_FAST_TRAVEL_POINT,,,,,Fast Travel Signpost
+SHOP_ITEM_PARTS_VALVE_NAME,,Magnetite trailer valve,,,Magnetite Trailer Valve
+SHOP_ITEM_PARTS_VALVE_DESC,,,,,Why did you pull it so hard? Does it look durable for you? You're lucky the swap is pretty easy.
+PAINT_DRAGON_PRINT,,,,,Dragon Scale
+STORY_FOUND_HEADER,,,,,Story Found!
+GUI_FAST_TRAVEL_BUTTON_TRAVEL,,Travel,,,Travel
+FAST_TRAVEL_PROMPT_BUY_TITLE,,Do you want to unlock this travel point?,,,Do you want to unlock this travel point?
+FAST_TRAVEL_UNLOCK_PROMPT_ALREADY_UNLOCKED_DESC,,This fast travel point is already unlocked,,,The Fast Travel is already unlocked
+FAST_TRAVEL_UNLOCK_PROMPT_ALREADY_UNLOCKED_TITLE,,Unlock fast travel point,,,Fast Travel
+FAST_TRAVEL_UNLOCK_PROMPT_UNLOCK_DESC,,You have successfully unlocked the point of fast travel,,,You have successfully unlocked the fast travel! Now you have to find another fast travel points if you'd like to use them.
+FAST_TRAVEL_UNLOCK_PROMPT_UNLOCK_TITLE,,Unlock fast travel point,,,Fast Travel
+RANKING_GUI_RANKINGS_NAME,,Rankings,,,Name
+RANKING_GUI_RANKINGS_FRIENDS_LIST,,Friends list,,,Friends List
+RANKING_GUI_RANKINGS_FRIENDS_NORMAL,,Normal,,,Normal
+RANKING_GUI_RANKINGS_FRIENDS_NORMAL_DLC,,Normal+DLC,,,Normal+DLC
+RANKINGS_MENU_GAME_TIME,,Game time,,,Game Time
+BLACKSMITH_ORE_MAGNETITE_SALE_BUTTON,,Sprzedaj rud? magnetytu,,,Sell Magnetite
+BLACKSMITH_ORE_MAGNETITE_SELL,,Sprzeda? rudy magnetytu,,,Magnetite Selling
+FAST_TRAVEL_PROMPT_TRAVEL_POINT_NOT_EMPTY_DESC,,There is something in travel point.,,,Your Travel point is not empty so you cannot fast travel there. Remove any obstacles from this travel point before you try again
+FAST_TRAVEL_PROMPT_TRAVEL_POINT_NOT_EMPTY,,Fast travel problem,,,Fast Travel Problem
+BLACKSMITH_BARS_PRICE_MAGNETITE,,Magnetite bars price,,,Magnetite price
+TUTORIAL_T3_START,,,,,"Welcome to Gold Mining Simulator!@@This is your personal empire of Gold Mining.@@Use every available machine to maximize the amount of gold dug from the ground in a day or you may go bankrupt.@@Remember, dreams come true..."
+TUTORIAL_TURNON_BIGGENERATOR,,,,,"Turn on the Big Generator, by pushing all the Start Buttons inside"
+TUTORIAL_TURNON_BIGWATERPUMP,,,,,Turn on the Big Water Pump
+TUTORIAL_JUMPINTO_EXCAVATOR,,,,,Jump into the Excavator
+TUTORIAL_DIG_SOIL,,,,,Dig some soil
+TUTORIAL_FILL_DUMPTRUCK,,,,,Fill the Dump Truck with dug soil
+TUTORIAL_DRIVE_CONVEYORBELT,,,,,Drive the Dump Truck to the Conveyor Belt
+TUTORIAL_DUMPSOIL_TO_CONVEYORBELT,,,,,Dump soil from Dump Truck into Conveyor Belt's Hopper
+TUTORIAL_TURNOFF_BIGWATERPUMP,,,,,Turn off the Big Water Pump
+TUTORIAL_TAKEOFF_GRILLES,,,,,Take off the Miner's Grilles
+TUTORIAL_TAKEOFF_MOSSES,,,,,Take off Miner's Mosses
+TUTORIAL_PUT_MOSSES_INTO_NUGGETATOR,,,,,Put Miner's Mosses into Gold Nuggetator
+TUTORIAL_CLEAN_GRATES,,,,,Clean all remaining Grates
+TUTORIAL_TAKE_BUCKET_SB4,,,,,Take the Bucket from the Sluicebox
+TUTORIAL_TAKEBUCKET_NUGGETATOR,,,,,Take the Bucket from the Gold Nuggetator
+TUTORIAL_PROCESSBUCKET_MAGSEP,,,,,Pour soil from Bucket into the Magnetite Separator
+TUTORIAL_TAKEBUCKET1_DJ1,,,,,Take the first Bucket from the Duplex Jig
+TUTORIAL_TAKEBUCKET1_DJ2,,,,,Take the first Bucket from the second Duplex Jig
+TUTORIAL_TAKEBUCKET2_DJ1,,,,,Take the second Bucket from Duplex Jig
+TUTORIAL_TAKEBUCKET2_DJ2,,,,,Take the second Bucket from second Duplex Jig
+TUTORIAL_TAKEBUCKET_MAGSEP,,,,,Take the Bucket from the Magnetite Separator
+TUTORIAL_POURSOIL_TO_WAVETABLE,,,,,Pour processed soil onto the Wave Table
+TUTORIAL_PROCESSGROUND_MAGNETITE,,,,,Turn on the Magnetite Separator and wait while it finishes processing the soil
+TUTORIAL_PROCESSGROUND_WAVETABLE,,,,,Turn the Wave Table on and wait while it finishes processing the soil
+TUTORIAL_GOSLEEP_CARAVAN,,,,,Go to the Caravan and sleep until dawn
+TUTORIAL_T3_INVERT_END,,,,,"Dreams come true... That's it, let's get into business, but... where to start?"
+TUTORIAL_TURNON_GOLDNUGGETATOR,,,,,Turn on the Gold Nuggetator
+TUTORIAL_CHOOSE_SMALLSHOVEL,,,,,Pick the Small Shovel from your Toolbox
+TUTORIAL_USE_SHOVEL_ONGRATES,,,,,Use Small Shovel on Grates
+TUTORIAL_POURPAYDIRT__FROMSMALLSHOVEL_TOBUCKET,,,,,Pour pay dirt from Small Shovel into the Bucket
+TUTORIAL_WAIT_CONVEYOR_FINISHES,,,,,Wait while Conveyor Belt finishes loading the Shaker
+HINT_MAGNETITE_SEPARATOR_DONE_MAGNEITE_ADDED,,,,,Added {0} of magnetite to Bucket
+HINT_WAVE_TABLE_DONE_MAGNEITE_ADDED,,,,,Added {0} of gold to your account
+THUNDER_POWERGENERATOR_HIT,,,,,Power Generator has been struck by lightning!
+ROPE_BROKE_FROM_FREEZE,,,,,Water hose has been broken by freeze!
+BEAR_ATTACKED_WORKER,,,,,has been attacked by a bear!
+WORKER_WINTER_COLDSICK,,,,,is sick because of all that cold!
+WORKER_SUMMER_FAINTED,,,,,has fainted because of the heat!
+CABLE_BROKE_FROM_BEAR_ATTACK,,,,,Bear attacked the claim and broke the cable!
+STORM_CANT_USE_LAPTOP,,,,,There is no signal in the tablet. You have to wait until the thunderstorm stops.
+NEWGAME_MODE_EASY,,,,,Easy
+NEWGAME_MODE_NORMAL,,,,,Normal
+NEWGAME_MODE_HARD,,,,,Hard
+NEWGAME_MODE_LEADERBOARD,,,,,Leaderboard
+TUTORIAL_TURNOFF_NUGGETATOR,,,,,Turn off the Gold Nuggetator
+TUTORIAL_TAKEOFF_MOSSES_FROM_NUGGETATOR,,,,,Take off the washed Miner's Mosses from the Gold Nuggetator
+TUTORIAL_PUT_MOSSES_SECOND_INTO_NUGGETATOR,,,,,Put rest of gold-rich Miner's Mosses into the Gold Nuggetator
+TUTORIAL_TURNON_NUGGETATOR,,,,,Turn on the Gold Nuggetator and wait while it finishes washing the Miner's Mosses
+TUTORIAL_PROMPT_HEADER,,,,,Tutorial
+TUTORIAL_PROMPT_CONTENT,,,,,Would you like to play the tutorial and learn how to play Gold Mining Simulator?
+MENU_EXTERNAL_LINK_TITLE,,External link,,,You're going out of the game
+MENU_EXTERNAL_LINK_DESC,,are u sure u want to go to external ble ble ble,,,This button leads to an external site/folder. Your game will be minimized. Are you sure you want to proceed?
+TUTORIAL_RESTORE,,,,,"Open Backpack, choose Map, select the Pickup and then select Restore."
+BLACKSMITH_PROMPT_ONSMELT_TITLE,,,,,Blacksmith is working
+BLACKSMITH_PROMPT_ONSMELT_DESC,,,,,"It'll take some time before Blacksmith will smelt you a gold bar. You will be notified when that happens, so come back to him later."
+PAINT_GUI_TO_BASE_COLOR,,,,,To base color
+BLACKSMITH_PROMPT_TUTORIAL_REMELT_TITLE,,,,,First Gold Bar
+BLACKSMITH_PROMPT_TUTORIAL_REMELT_DESC,,,,,"The first tutorial gold bar is completely free and will be smelt instanly, but next ones will take money and time to be completed.@@Be patient, while Blacksmith is doing his hard work.@@If you want it to be faster you can gather magnetite and upgrade Blacksmith's equipment. This way you can lower the gold loss, smelting time or other important statistics."
+BLACKSMITH_GOLD_ORE_SALE_MARKET_PRICE_ORE_PRICE,,,,,Ore Price
+BLACKSMITH_GOLD_ORE_SALE_PER_OZ_SALE_DESCRIPTION,,,,,(40% of Gold Price)
+PAINT_GERMANY,,,,,Germany
+PAINT_USA,,,,,United States
+PAINT_UK,,,,,United Kingdom
+PAINT_CANADA,,,,,Canada
+PAINT_FRANCE,,,,,France
+PAINT_NETHERLANDS,,,,,Netherlands
+PAINT_AUSTRALIA,,,,,Australia
+PAINT_AUSTRIA,,,,,Austria
+PAINT_NORWAY,,,,,Norway
+PAINT_SWEDEN,,,,,Sweden
+PAINT_BELGIUM,,,,,Belgium
+PAINT_DENMARK,,,,,Denmark
+PAINT_FINLAND,,,,,Finland
+PAINT_RUSSIAN,,,,,Russia
+PAINT_SPAIN,,,,,Spain
+PAINT_SWITZERLAND,,,,,Switzerland
+UI_SUMMARY,,,,,Summary
+UI_THEME,,,,,Statistic
+UI_AMOUNT,,,,,Amount
+UI_UNIT,,,,,Unit
+DAYS_TO_WINTER,,,,,{0} Days to Winter
+DAYS_TO_SUMMER,,,,,{0} Days to Summer
+DAYS_TO_AUTUMN,,,,,{0} Days to Autumn
+DAYS_TO_SPRING,,,,,{0} Days to Spring
+WINTER,,,,,Winter
+SEASON_STATS_HEADER,,,,,Seasonal Statistics
+SEASON_GATHERED_GOLD,,,,,Gathered Gold
+SEASON_PROCESSED_PAYDIRT,,,,,Processed pay dirt
+SEASON_GATHERED_MAGNETITE,,,,,Gathered Magnetite
+SEASON_GATHERED_GOLD_TO_DIRT,,,,,Gathered Gold to Dirt Ratio
+SEASON_GATHERED_GOLD_TO_REALTIME,,,,,Gathered Gold to Realtime Ratio
+SEASON_WORKERS_SALARY,,,,,Workers Salary
+SEASON_EARNED_MONEY,,,,,Earned Money
+SEASON_USED_FUEL,,,,,Used Fuel
+SEASON_DISTANCE_DRIVEN,,,,,Driven Distance
+MENU_COLLECTORS_EDITION,,Tytuł w help menu Collectors edition,,,DLC: Collector's Edition Upgrade
+MENU_COLLECTORS_EDITION_SUB_BUY,,Ask user to go to steam page to buy dlc,,,"Buy to get the Digital Artbook, Papercraft and more..."
+MENU_COLLECTORS_EDITION_SUB_BROWSE,,Open the collector's editor folder,,,Browse your goods
+OPTIONS_ON,,,,,On
+OPTIONS_BLOCKED,,,,,Blocked
+MENU_GAMESETTINGS,,Needed for game difficulty help menu,,,Game Settings
+HINT_TURN_ENGINE,,,,,Turn on the engine to start the vehicle!
+TOGGLE_WINDOW_SEASONS_HEADER,,,,,Season!
+TOGGLE_WINDOW_SEASONS_BODY,,,,,"Hello, Gold Miners!@@Welcome to the new era of Gold Mining Simulator!@@The seasons are here! There is much more obstacles on your way to being rich. With changing atmospheric conditions that will usually work against you, be cautious! Don't let it ruin your dreams! Gather as much gold as you can before the season ends.@@Don't forget!@@Winter is coming!"
+NEWGAME_MODE_NORMAL_DESC,,,,,Born in Alaska
+NEWGAME_MODE_EASY_DESC,,,,,New Miners Only
+NEWGAME_MODE_HARD_DESC,,,,,For Veterans
+NEWGAME_MODE_RANKED_DESC,,,,,Compete with others
+WORKER_CARD_RESTING,,,,,Resting
+DIFFICULTY_LEVEL_PROMPT_OLD_SAVE_INFORMATION,,,,,"You've created your game save before the difficulties levels have been added. Choose your difficulty level now, to adjust the gameplay."
+WINTER_PLAYER_FROZE_STORY_HEADER,,,,,Deep Winter
+WINTER_PLAYER_FROZE_STORY_BODY,,,,,"You've almost froze! @@Why didn't you come to the Hotel earlier? With so much cold your body can't survive for a very long time. You were lucky, that some Inuit were hunting nearby and saw you. They brought you here as fast as possible.@@It's already spring, so you can go out, but be careful next time!"
+MENU_OVERWRITE_TEXT,,,,,Are you sure you want to overwrite your save?
+MENU_OVERWRITE_HEADER,,,,,Save Overwrite
+WINTER_TO_COLD_GO_TO_HOTEL,,,,,Winter is coming! Hide your equipment into Shed or Storage Space and go to the Hotel!
+HOTEL_NEW_SEASON_NOT_AVAILABLE_HEADER,,,,,Hotel Closed
+HOTEL_NEW_SEASON_NOT_AVAILABLE_BODY,,,,,"We're sorry, but the hotel is closed at the moment. @Come back, when the winter comes. @We'll be more than happy to have you here."
+HOTEL_NEW_SEASON_HEADER,,,,,Welcome to the Hotel
+HOTEL_NEW_SEASON_BODY,,,,,"Hello!@@Welcome to the Haines Hotel! You can spend the whole winter here, and get back to work at the beginning of the spring.@@You won't be able to dig for gold anyway.@@Cheers"
+HOTEL_NEW_SEASON_BUTTON,,,,,End Season
+ONE_DOLAR_DIFFICULTY_DESC,,,,,$1 Mode
+NUGGET_DIFFICULTY_DESC,,,,,Gold Nugget
+PROMPTS_DIFFICULTY_DESC,,,,,Prompts
+DIGGING_HELPER_DIFFICULTY_DESC,,,,,Digging Helper
+REPAIRS_DIFFICULTY_DESC,,,,,Machine Failures
+PRESSURE_SYSTEM_DIFFICULTY_DESC,,,,,Pressure System
+PAD_PREV_BOOKMARK,,,,,Previous bookmark
+PAD_NEXT_BOOKMARK,,,,,Next bookmark
+CABLE_RESTORED,,,,,Broken cable was restored to depot shelf
+SETTINGS_UNIT_TYPE_CELSIUS,,,,,Celsius
+SETTINGS_UNIT_TYPE_FAHRENHEIT,,,,,Fahrenheit
+SETTINGS_UNIT_TYPE_TEMPERATURE,,,,,Temperature unit
+SHOVEL_IS_EMPTY,,,,,Shovel is empty
+OPTIONS_SOUND_UI,,Gło?no?? UI,,,UI Volume
+JOURNAL_PAD_NEXT_PAGE,,Next page,,,Next Page
+JOURNAL_PAD_PREVIOUS_PAGE,,,,,Previous Page
+JOURNAL_PAD_NEXT_BOOKMARK,,,,,Next Bookmark
+JOURNAL_PAD_PREVIOUS_BOOKMARK,,,,,Previous Bookmark
+DAYS_TO_PERMAFROST,,,,,{0} Days to Permafrost
+HINT_TURN_ENGINE_HEADER,,,,,Engine Turned Off
+PAINT_HALLOWEEN,,,,,Halloween
+UNLOCK_PUMPKIN_SKIN_HEADER,,,,,Halloween Reward
+UNLOCK_PUMPKIN_SKIN,,,,,"So we meet again, prospector...@@Oh, you've found my little treasure already? That was fast. I hope you'd like it, mwahaha! Just don't be scared, it won't bite you. Rush to the paintshop and check what's waiting there for you. Good luck, and scary...oh I meant happy Halloween from GR Team :)"
+CANT_CONNECT_HOSE_IS_BROKEN,,,,,You can't connect the broken cable
+TUTORIAL_EARLY_WRONGMACHINE_HEADER,,,,,Wrong Machine
+TUTORIAL_EARLY_WRONGMACHINE_DESC,,,,,You have to pour the dirt into the other machine
+BANK_GUI_LOAN_TAKE_CONFIRMATION,,"u siur, wanna put yourself in depression and suicide thoughts becouse debt?",,,Are you sure you want to take out a loan?
+BLACKSMITH_SELL_ORE_PROMT,,Are u sure u want to sell ore?,,,Are you sure you want to sell that ore?
+BLACKSMITH_REMELT_PROMPT,,are u sure u want to remelt?,,,Are you sure you want to smelt that ore?
+PAINT_POLAND,,,,,Poland
+TUTORIAL_GOTO_HEAVYEQUIPMENTSTORE,,,,,Go to the Machine Store
+TUTORIAL_BUY_SMALLEXCAVATOR,,,,,Buy a Small Excavator
+TUTORIAL_FINALIZE_CHECKOUT,,,,,Finalize your purchase at checkout
+TUTORIAL_MOVE_EXCAVATOR_ONTO_PARCEL,,,,,Use Transport Window to move your Machinery to the Parcel
+TUTORIAL_GOTO_EQUIPMENTSTORE,,,,,Go to Equipment Store
+TUTORIAL_BUY_MOBILEWASHPLANT,,,,,Buy a Mobile Wash Plant
+TUTORIAL_BUY_FATHOSECONNECTOR,,,,,Buy Fat Water Hose Connector
+TUTORIAL_BUY_WATERHOSEFAT,,,,,Buy 3 Fat Water Hoses
+TUTORIAL_BUY_MOBILEGENERATOR,,,,,Buy a Mobile Generator
+TUTORIAL_BUY_POWERCABLE,,,,,Buy a High Voltage Power Cable
+TUTORIAL_BUY_JERRYCAN,,,,,Buy a Jerrycan
+TUTORIAL_BUY_SMALLWATERPUMP,,,,,Buy a Small Diesel Water Pump
+TUTORIAL_BUY_WATERHOSETHIN,,,,,Buy a Thin Water Hose
+TUTORIAL_BUY_CHECKOUT,,,,,Finalize your purchase at checkout
+TUTORIAL_PACKSTUFF,,,,,Pack the smaller things onto the Pickup bed
+TUTORIAL_ATTACH__MOBILEWASHPLANT,,,,,Attach Mobile Wash Plant to your Pickup
+TUTORIAL_GOTO_GASSTATION,,,,,Go to the Gas Station
+TUTORIAL_TAKE_FUELNOZZLE,,,,,Take Fuel Nozzle
+TUTORIAL_REFILL_JERRYCAN,,,,,Refill the Jerrycan
+TUTORIAL_DRIVE_OAPARCEL,,,,,Drive to the Old Arnold Parcel
+TUTORIAL_DETACH_MOBILEWASHPLANT,,,,,Detach Mobile Wash Plant from your Pickup
+TUTORIAL_TAKE_WATERHOSETHIN,,,,,Take the Thin Water Hose
+TUTORIAL_ATTACH_WATERHOSETHIN_TOMOBILEWASHPLANT,,,,,Attach Water Hose to Mobile Wash Plant
+TUTORIAL_ATTACH_WATERHOSETHIN_TOSMALLWATERPUMP,,,,,Attach Water Hose to Small Water Pump
+TUTORIAL_TAKE_CABLE,,,,,Take the High Voltage Power Cable
+TUTORIAL_ATTACH_POWERCABLE_TOMOBILEWASHPLANT,,,,,Attach Power Cable to Mobile Wash Plant
+TUTORIAL_ATTACH_POWERCABLE_TOMOBILEGENERATOR,,,,,Connect Mobile Generator and Mobile Wash Plant with High Voltage Cable
+TUTORIAL_TURNON_EXCAVATOR,,,,,Turn on the Excavator
+TUTORIAL_POURDIRT_INTO_MOBILEWASHPLANT,,,,,Pour some dirt into the Mobile Wash Plant
+TUTORIAL_FILLBUCKET_100,,,,,Keep pouring dirt into the Mobile Wash Plant until it reaches 100%
+TUTORIAL_TURNOFF_EXCAVATOR,,,,,Turn off the Excavator
+TUTORIAL_TAKE_BUCKET_FROM_MOBILEWASHPLANT,,,,,"Wait for Mobile Wash Plant to process dirt, then take the Bucket from underneath the MWP"
+TUTORIAL_USE_GOLDPAN,,,,,Use Gold Pan to gather your gold
+TUTORIAL_GATHER_120K,,,,,Gather $160k
+TUTORIAL_BUY_SHAKER,,,,,Buy the Shaker
+TUTORIAL_BUY_TROMMEL,,,,,Buy a Trommel
+TUTORIAL_BUY_DUPLEXJIG,,,,,Buy a Duplex Jig
+TUTORIAL_BUY_STSLUICEBOX,,,,,Buy an S-T Sluicebox
+TUTORIAL_BUY_TDJSLUICEBOX,,,,,Buy a T-DJ Sluicebox
+TUTORIAL_BUY_NUGGETTRAP_4,,,,,Buy 4 Sluicebox Grates
+TUTORIAL_BUY_BUCKET_3,,,,,Buy 3 Buckets
+TUTORIAL_BUY_MINERGRILL_3,,,,,Buy 3 Miner's Grilles
+TUTORIAL_BUY_MINERMOSS_6,,,,,Buy 6 Miner's Mosses
+TUTORIAL_TRANSPORT_MACHINES_ONTO_CLAIM,,,,,Transport machines to your Claim
+TUTORIAL_BUY_STEELROPE_4,,,,,Buy 4 5m Steel Cables
+TUTORIAL_BUY_NECESSARY_CABLES,,,,,Buy the Necessary Cables
+TUTORIAL_ATTACH_SHAKER_TO_EXCAVATOR,,,,,Attach Shaker to the Excavator with Steel Cables
+TUTORIAL_LIFT_SHAKER,,,,,Lift the Shaker with Excavator
+TUTORIAL_PUT_SHAKER_ONPLACE,,,,,Put the Shaker at the highlighted place.
+TUTORIAL_DETACH_SHAKER_FROM_EXCAVATOR,,,,,Detach Shaker from Excavator
+TUTORIAL_ATTACH_TROMMEL_TO_EXCAVATOR,,,,,Attach Trommel to the Excavator with Steel Cables
+TUTORIAL_LIFT_TROMMEL,,,,,Lift the Trommel with Excavator
+TUTORIAL_PUT_TROMMEL_ONPLACE,,,,,Put the Trommel at the highlighted place.
+TUTORIAL_DETACH_TROMMEL_FROM_EXCAVATOR,,,,,Detach Trommel from Excavator
+TUTORIAL_ATTACH_DUPLEXJIG_TO_EXCAVATOR,,,,,Attach Duplex Jig to the Excavator with Steel Cables
+TUTORIAL_LIFT_DUPLEXJIG,,,,,Lift the Duplex Jig with Excavator
+TUTORIAL_PUT_DUPLEXJIG_ONPLACE,,,,,Put the Duplex Jig at the highlighted place.
+TUTORIAL_DETACH_DUPLEXJIG_FROM_EXCAVATOR,,,,,Detach Duplex Jig from Excavator
+TUTORIAL_ATTACH_STSLUICEBOX_TO_EXCAVATOR,,,,,Attach S-T Sluicebox to the Excavator with Steel Cables
+TUTORIAL_LIFT_STSLUICEBOX,,,,,Lift the S-T Sluicebox with Excavator
+TUTORIAL_PUT_STSLUICEBOX_ONPLACE,,,,,Put the S-T Sluicebox at the highlighted place
+TUTORIAL_DETACH_STSLUICEBOX_FROM_EXCAVATOR,,,,,Detach S-T Sluicebox from Excavator
+TUTORIAL_ATTACH_TDJSLUICEBOX_TO_EXCAVATOR,,,,,Attach T-DJ Sluicebox to the Excavator with Steel Cables
+TUTORIAL_LIFT_TDJSLUICEBOX,,,,,Lift the T-DJ Sluicebox with Excavator
+TUTORIAL_PUT_TDJSLUICEBOX_ONPLACE,,,,,Put the T-DJ Sluicebox at the highlighted place
+TUTORIAL_DETACH_TDJSLUICEBOX_FROM_EXCAVATOR,,,,,Detach T-DJ Sluicebox from Excavator
+TUTORIAL_BUY_SROCKSSLUICEBOX,,,,,Buy the S-Rocks Sluicebox
+TUTORIAL_ATTACH_SROCKSSLUICEBOX_TO_EXCAVATOR,,,,,Attach S-Rocks Sluicebox to the Excavator with Steel Cables
+TUTORIAL_LIFT_SROCKSSLUICEBOX,,,,,Lift the S-Rocks Sluicebox with Excavator
+TUTORIAL_PUT_SROCKSSLUICEBOX_ONPLACE,,,,,Put the S-Rocks Sluicebox at the highlighted place
+TUTORIAL_DETACH_SROCKSSLUICEBOX_FROM_EXCAVATOR,,,,,Detach S-Rocks Sluicebox from Excavator
+TUTORIAL_PUT_MINERSMOSSES_ONPLACE,,,,,Place the Miner's Mosses on the marked spots
+TUTORIAL_PUT_MINERSGRILLES_ONPLACE,,,,,Put the Miner's Grilles on top of the Miner's Moss
+TUTORIAL_PUT_NUGGETTRAPS_ONPLACE,,,,,Put Sluicebox Grates on Place
+TUTORIAL_PUTBUCKET_UNDERMOBILEWASHPLANT,,,,,Put the Bucket underneath the Mobile Wash Plant
+TUTORIAL_TURON_MOBILEGENERATOR,,,,,Turn on the Mobile Generator
+TUTORIAL_TURON_SMALLWATERPUMP,,,,,Turn on the Small Diesel Water Pump
+TUTORIAL_TURON_MOBILEWASHPLANT,,,,,Turn on the Mobile Wash Plant
+CABLE_BROKE_FROM_STRETCH,,,,,Water Hose broke from Stretch - it was way too long!
+TUTORIAL_FUEL_MOBILEGENERATOR,,,,,Fuel up the Mobile Generator with a Jerrycan
+TUTORIAL_CONNECT_FATHOSE_PUMP,,,,,"Connect the Fat Water Hose to the ""IN"" hole of the Small Pump"
+TUTORIAL_THROW_FATHOSE_RIVER,,,,,Throw Fat Water Hose End to the river
+TUTORIAL_FUEL_DIESELPUMP,,,,,Fuel up the Small Diesel Pump
+WORKERS_GUI_LEVEL,,level,,,level
+WORKERS_GUI_WORKERS,,Workers,,,Workers
+LAPTOP_NOTIFICATIONS_LOCATION,,Location,,,Location
+LAPTOP_GUI_MAX,,max,,,max
+BANK_GUI_PARTIAL_PAY_HEADER,,,,,Partial PayOff
+TUTORIAL_BUY_BIG_GENERATOR,,,,,Buy a Big Power Generator
+TUTORIAL_BUY_FRONTENDLOADER,,,,,Buy a Front-End Loader
+TUTORIAL_UNLOCK_ONLINESHOP,,,,,Unlock Equipment Store in the Tablet
+TUTORIAL_ATTACH_POWERGENERATOR,,,,,Attach Power Generator to the Excavator with Steel Cables
+TUTORIAL_LIFT_POWERGENERATOR,,,,,Lift the Power Generator with Excavator
+TUTORIAL_PUT_POWERGENERATOR,,,,,Put the Power Generator at the highlighted place.
+TUTORIAL_DETTACH_POWERGENERATOR,,,,,Detach Power Generator from Excavator
+TUTORIAL_PUT_BUCKETS_UNDER_DUPLEX,,,,,Put two Buckets under the Duplex Jig
+TUTORIAL_PUT_BUCKET_ON_STSLUICE,,,,,Put a Bucket on the S-T Sluicebox
+TUTORIAL_BUY_2HIGHTVOLTCABLES_ONLINESHOP,,,,,Buy 2 High Voltage Power Cables in the Online Shop
+TUTORIAL_BUY_LOWVOLTAGEEXTENDER_ONLINESHOP,,,,,Buy a Low Voltage Power Cable Extension Cord in the Online Shop
+TUTORIAL_BUY_LOWVOLTAGECABLES_ONLINESHOP,,,,,Buy 2 Low Voltage Power Cable in the Online Shop
+TUTORIAL_CONNECT_SHAKER_TO_BIG_GENERATOR,,,,,Connect Shaker to the Power Generator with High Voltage Power Cable
+TUTORIAL_CONNECT_TROMMEL_TO_BIG_GENERATOR,,,,,Connect Trommel to the Power Generator with High Voltage Power Cable
+TUTORIAL_CONNECT_DUPLEXJIG_TO_BIG_GENERATOR,,,,,Connect Duplex Jig to the Big Power Generator with Low Voltage Cable (use Extension Cord if necessary)
+TUTORIAL_BUY_BIG_DIESEL_PUMP_ONLINE,,,,,Buy a Big Diesel Water Pump in the Online Shop
+TUTORIAL_ATTACH_BIG_DIESEL_PUMP_TO_CAR,,,,,Attach the Big Diesel Water Pump to the Pickup
+TUTORIAL_PARK_BIG_DIESEL_PUMP,,,,,Park the Big Diesel Water Pump at the highlighted place
+TUTORIAL_DETTACH_BIG_DIESEL_PUMP,,,,,Detach the Big Diesel Water Pump from the Pickup
+TUTORIAL_BUY_HUGEHOSES_ONLINE,,,,,Buy 2 Huge Water Hoses in Online Shop
+TUTORIAL_BUY_HUGESPLITER_ONLINE,,,,,Buy a Huge Water Splitter in Online Shop
+TUTORIAL_BUY_FATHOSE_ONLINE,,,,,Buy 1 Fat Water Hose in Online Shop
+TUTORIAL_CONNECT_WATERSOURCE_TO_WATERPUMP_ONLINE,,,,,Connect Big the Diesel Water Pump to the Water Source with the Huge Water Hose
+TUTORIAL_CONNECT_WATERSPLITER_TO_WATERPUMP_ONLINE,,,,,Connect the Huge Water Splitter to the Big Diesel Water Pump with the Huge Water Hose
+TUTORIAL_CONNECT_WATERSPLITER_TO_SHAKER_ONLINE,,,,,Connect Huge Water Splitter to the Shaker with Fat Water Hose
+TUTORIAL_JUMP_TOLOADER_POUR_SOME_DIRT_TO_SHAKER,,,,,Jump into Front-End Loader and pour some dirt to the Shaker
+TUTORIAL_UPGRADE_PARCEL,,,,,Upgrade Parcel in Old Glenn Bank. You can use Tablet or drive back to the town.
+TUTORIAL_DRIVE_TO_BANK,,,,,Drive to the Old Glenn Bank
+TUTORIAL_UNPACK_MOBILE_GENERATOR,,,,,Take the Mobile Generator and put it on the ground
+TUTORIAL_GATHER_45K,,,,,Gather $25k to proceed to the next chapter of tutorial
+SHOP_ITEM_EQUIPMENT_WATER_CISTERN_NAME,,,,,Mobile Water Tank
+TUTORIAL_END_PROMPT_HEADER,,,,,Keep Digging!
+TUTORIAL_END_PROMPT_CONTENT,,,,,"This is the end!@@Now the only thing you can do is keep digging and upgrading your equipment. We've taught you the basics of gold mining. Now you should go and discover new equipments that will help you to maximize the efficiency. At the beginning, I can recommend you to check the Drilling Machine, it will provide you information about amount of gold in the exact spot.@@Stop digging blindly! It's not good for your business!@@From now on, all gameplay systems will be set accordingly to your chosen difficulty level. They will vastly change your gameplay, so make sure to learn a bit about them."
+SHOP_ITEM_EQUIPMENT_WATER_TOWER_NAME,,,,,Water Tower
+TUTORIAL_TAKE_SMALLDIESELPUMP,,,,,Take the Small Diesel Water Pump
+TUTORIAL_PUT_SMALLDIESELPUMP_GROUND,,,,,Put the Small Diesel Water Pump in the Highlighted Place
+TUTORIAL_TAKE_WATERHOSEFAT,,,,,Take a Fat Water Hose
+TUTORIAL_ATTACH_WATERHOSEFAT_SMALLDIESELPUMP,,,,,Attach Side of Fat Water Hose to Small Diesel Pump
+TUTORIAL_ATTACH_WATERHOSEFAT_RIVER,,,,,Throw End of Fat Water Hose into the river
+TUTORIAL_TAKE_WATERHOSEFAT_CONNECTOR,,,,,Take the Fat Water Hose Connector
+TUTORIAL_PUT_WATERHOSEFAT_CONNECTOR_GROUND,,,,,Put Fat Water Hose Connector in Highlighted Place
+TUTORIAL_ATTACH_WATERHOSEFAT_WATERHOSEFAT_CONNECTOR,,,,,Connect Fat Water Hose Connector and Small Diesel Pump with Fat Water Hose
+TUTORIAL_ATTACH_WATERHOSEFAT_WATERSPLITTER,,,,,Connect Water Splitter and Fat Water Hose Connector with Fat Water Hose
+TUTORIAL_TAKE_MOBILEGENERATOR,,,,,Take the Mobile Generator
+TUTORIAL_PUT_MOBILEGENERATOR_GROUND,,,,,Put Mobile Generator in Highlighted Place
+TUTORIAL_TAKE_HIGHVOLTAGE_CABLE,,,,,Take the High Voltage Power Cable
+TUTORIAL_BUY_WATERSPLITTER,,,,,Buy a Water Splitter
+TUTORIAL_TAKE_WATERSPLITTER,,,,,Take the Water Splitter
+TUTORIAL_PUT_WATERSPLITTER_GROUND,,,,,Put Water Splitter in Highlighted Place
+TUTORIAL_ATTACH_WATERHOSETHIN_MOBILEWASHPLANT,,,,,Connect Water Splitter and Mobile Wash Plant with Thin Water Hose
+TUTORIAL_ATTACH_WATERHOSETHIN_WATERSPLITTER,,,,,Attach Side of Fat Water Hose to the Water Splitter
+CONTROLS_PLAYER_ITEM_ROTATION,,,,,Rotate Object
+TUTORIAL_USE_GOLDPAN2,,,,,Use Gold Pan or Wave Table to gather your gold
+LOADING_TIP_CHANGE,,,,,Use Left/Right to Change Tip
+WATER_CISTERN_EMPTY_PROMPT_TITLE,,,,,No Water in Water Tank
+WATER_TOWER_EMPTY_PROMPT_TITLE,,,,,No Water in Water Tower
+WATER_CISTERN_EMPTY_PROMPT_DESC,,,,,Mobile Water Tank is empty!
+WATER_TOWER_EMPTY_PROMPT_DESC,,,,,Water Tower is empty!
+TUTORIAL_PARK_NEAR_EQ_SHOP,,,,,Park the Pickup at the highlighted place!
+HUD_STORIES,,,,,Story
+TUTORIAL_DRIVETO_OUTERTOWN,,,,,Drive out of the town
+TUTORIAL_DRIVETO_FACTORY,,,,,Drive to the Factory
+TUTORIAL_DRIVETO_TOWNENTRANCE,,,,,Drive to the Town Entrance
+TUTORIAL_DRIVETO_TOWNCENTER,,,,,Drive to the Town Center
+TUTORIAL_STAGE_PROLOG,,,,,Gold Mining Tutorial - Prologue
+TUTORIAL_STAGE_TIER1,,,,,Gold Mining Tutorial - Stage 1
+TUTORIAL_STAGE_TIER2,,,,,Gold Mining Tutorial - Stage 2
+TUTORIAL_STAGE_TIER3,,,,,Gold Mining Tutorial - Stage 3
+BUTTON_END_TUTORIAL,,,,,End Tutorial
+BUTTON_END_TUTORIAL_HEADER,,,,,End Tutorial?
+BUTTON_END_TUTORIAL_DESC,,,,,Are you sure you want to finish tutorial early?@The only way of turning it on is to start a new game.
+STOCK_5_DAYS,,,,,5 Days
+STOCK_10_DAYS,,,,,10 Days
+BROCHURE_HEADER,,,,,Gold Mining Basics Brochure
+BROCHURE_HEADER_SMALL,,,,,"Haines, Alaska"
+BROCHURE_TIER1,,,,,Tier 1
+BROCHURE_TIER1_1,,,,,Go to the Bank
+BROCHURE_TIER1_2,,,,,Rent Old Arnold Parcel
+BROCHURE_TIER1_3,,,,,Go to the Equipment Store
+BROCHURE_TIER1_4,,,,,Buy basic set
+BROCHURE_TIER1_4_HOGPANNOPUMP,,,,,Hog Pan No Pump
+BROCHURE_TIER1_4_HOGPANSLUICEBOXCORE,,,,,Hog Pan Sluicebox Core
+BROCHURE_TIER1_4_2HOGPANMATS,,,,,2 Hog Pan Mats
+BROCHURE_TIER1_4_BUCKET,,,,,Bucket
+BROCHURE_TIER1_4_GOTOCASHREGISTER,,,,,Go to Cash Register
+BROCHURE_TIER1_5,,,,,Load on the Pickup Truck
+BROCHURE_TIER1_6,,,,,Go to the Claim
+BROCHURE_TIER1_7,,,,,Find Hog Pan Area
+BROCHURE_TIER1_7_WATERSOURCE,,,,,Water source
+BROCHURE_TIER1_7_HOGPANAREA,,,,,Hog Pan Area
+BROCHURE_TIER1_8,,,,,Setup Hog Pan
+BROCHURE_TIER1_9,,,,,Use Shovel to fill the Hog Pan with dirt
+BROCHURE_TIER1_9_SHOVELICON,,,,,Shovel icon
+BROCHURE_TIER1_9_DEFAULT,,,,,"(default ""2"")"
+BROCHURE_TIER1_9_HOGPANINDICATOR,,,,,Hog Pan indicator
+BROCHURE_TIER1_9_EMPTY-FULL,,,,,(empty-full)
+BROCHURE_TIER1_10,,,,,Wash the dirt in the Hog Pan
+BROCHURE_TIER1_11,,,,,Wash the Mats in bucket
+BROCHURE_TIER1_12,,,,,Preparation
+BROCHURE_TIER1_12_GOLDPAN,,,,,Gold Pan
+BROCHURE_TIER1_12_BIGBOWL,,,,,Big Bowl
+BROCHURE_TIER1_13,,,,,Panning System
+BROCHURE_TIER1_14,,,,,Panning System
+BROCHURE_TIER1_14_PRESSSHIFT,,,,,Press GOLD PICKING MODE button to pick gold
+BROCHURE_TIER1_15,,,,,Tier 1 Extensions
+BROCHURE_TIER1_15_SMALLWATERPUMP,,,,,Small Water Pump
+BROCHURE_TIER1_15_FATWATERHOSE,,,,,Fat Water Hose
+BROCHURE_TIER1_15_THINWATERHOSE,,,,,Thin Water Hose
+BROCHURE_TIER1_15_WATERFILTER,,,,,Water Filter
+BROCHURE_TIER1_15_TWOHOGPANMATS,,,,,Two Hog Pan Mats
+BROCHURE_TIER1_15_HOGPANPUMP,,,,,Hog Pan Pump
+BROCHURE_TIER1_15_HOGPANSLUICEBOXEXTENSION,,,,,Hog Pan Sluicebox Extension
+BROCHURE_TIER1_16,,,,,Tier 1 Upgrades Installation Process
+BROCHURE_TIER1_16_HOGPANLSLUICEBOXEXTENSION,,,,,Hog Pan Sluicebox Extension
+BROCHURE_TIER1_16_SMALLWATERPUMPEXTENSION,,,,,Small Water Pump Extension
+BROCHURE_TIER1_16_REMEMBERTOREFUELTHEWATERPUMP,,,,,Remember to refuel the Water Pump
+BROCHURE_TIER2,,,,,Tier 2
+BROCHURE_TIER2_1,,,,,Go to the Equipment Store
+BROCHURE_TIER2_2,,,,,Buy:
+BROCHURE_TIER2_2_MOBILEWASHPLANT,,,,,Mobile Wash Plant
+BROCHURE_TIER2_2_WATERPUMPSMALL,,,,,Water Pump Small
+BROCHURE_TIER2_2_MOBILEGENERATOR,,,,,Mobile Generator
+BROCHURE_TIER2_2_CABLES,,,,,Cables/Hoses
+BROCHURE_TIER2_2_3BUCKETS,,,,,3 Buckets
+BROCHURE_TIER2_2_MAGNETITESEPARATOR,,,,,Magnetite Separator
+BROCHURE_TIER2_3,,,,,Go to the Machine Store
+BROCHURE_TIER2_4,,,,,Buy Small Excavator
+BROCHURE_TIER2_5,,,,,Hook up Mobile Wash Plant to the Pickup
+BROCHURE_TIER2_6,,,,,Set up the Mobile Wash Plant
+BROCHURE_TIER2_7,,,,,Use the Excavator to dig the dirt
+BROCHURE_TIER2_8,,,,,Take the full Bucket
+BROCHURE_TIER2_8_MOBILEWASHPLANTINDICATOR,,,,,Mobile Wash Plant Indicator (full)
+BROCHURE_TIER2_9,,,,,Set up the Magnetite Separator
+BROCHURE_TIER2_10,,,,,Pour pay dirt into the Magnetite Separator
+BROCHURE_TIER2_10_FULLBUCKET,,,,,Full bucket
+BROCHURE_TIER2_11,,,,,Set up the Wave Table
+BROCHURE_TIER2_12,,,,,Pour pay dirt onto the Wave Table
+BROCHURE_TIER3_1,,,,,Go to the Machine Store
+BROCHURE_TIER3_2,,,,,Buy:
+BROCHURE_TIER3_2_SHAKER,,,,,Shaker
+BROCHURE_TIER3_2_TROMMEL,,,,,Trommel
+BROCHURE_TIER3_2_DUPLEXJIG,,,,,Duplex Jig
+BROCHURE_TIER3_2_SLUICEBOXES,,,,,Sluiceboxes
+BROCHURE_TIER3_2_BPG,,,,,Big Power Generator
+BROCHURE_TIER3_2_CABLES,,,,,Cables (Equipment Store)
+BROCHURE_TIER3_3,,,,,Transport the machines to your Claim
+BROCHURE_TIER3_3_TRANSPORTBUTTON,,,,,Transport Button
+BROCHURE_TIER3_4,,,,,Load on the Pickup and go to the Claim
+BROCHURE_TIER3_5,,,,,Set up the Wash Plant - Shaker
+BROCHURE_TIER3_5_USECABLES,,,,,Use cables and excavactor to move heavy equipment
+BROCHURE_TIER3_6,,,,,Set up the Wash Plant
+BROCHURE_TIER3_6_SHAKER,,,,,Shaker
+BROCHURE_TIER3_6_TROMMEL,,,,,Trommel
+BROCHURE_TIER3_6_SLUICEBOX,,,,,Sluicebox
+BROCHURE_TIER3_6_DUPLEXJIG,,,,,Duplex Jig
+BROCHURE_TIER4,,,,,Tier 4
+BROCHURE_TIER_4_1,,,,,Go to the Machine Store
+BROCHURE_TIER4_2,,,,,Buy:
+BROCHURE_TIER4_2_D-ROCKER,,,,,Derocker
+BROCHURE_TIER4_2_OAT,,,,,Old Arnold's Trommel
+BROCHURE_TIER4_2_2PLANTER,,,,,2 Planters
+BROCHURE_TIER4_2_SLUICEBOXES,,,,,Sluiceboxes
+BROCHURE_TIER4_2_BPG,,,,,Big Power Generator
+BROCHURE_TIER4_2_CABLES,,,,,Cables (Equipment Store)
+BROCHURE_TIER4_2_4NT,,,,,4 Sluicebox Grates
+BROCHURE_TIER4_2_5BUCKET,,,,,5 Buckets
+BROCHURE_TIER4_2_6MG,,,,,6 Miner's Grilles
+BROCHURE_TIER4_2_12MM,,,,,12 Miner's Mosses
+BROCHURE_TIER4_3,,,,,Transport the machines to your Claim
+BROCHURE_TIER4_3_TRANSPORTBUTTON,,,,,Transport Button
+BROCHURE_TIER4_4,,,,,Load on the Pickup and go to the Claim
+BROCHURE_TIER4_5,,,,,Disassembly and improvement
+BROCHURE_TIER4_5_A,,,,,Transport
+BROCHURE_TIER4_5_A_DESC,,,,,Transport to other claim or Storage Space. Use Tablet in Tent
+BROCHURE_TIER4_5_B,,,,,Sell
+BROCHURE_TIER4_5_B_DESC,,,,,Use cables and excavator to move old equipment to Sell Zone
+BROCHURE_TIER4_6,,,,,Set up the Derocker
+BROCHURE_TIER4_6_DEROCKER,,,,,Derocker
+BROCHURE_TIER4_6_OAT,,,,,Old Arnold's Trommel
+BROCHURE_TIER4_6_2SLUICEBOX,,,,,2 Sluiceboxes
+BROCHURE_TIER4_6_2PLANTER,,,,,2 Planters
+BROCHURE_TIER4_7,,,,,Wash Plant system extension
+BROCHURE_TIER4_7_CABLES,,,,,Use cables and excavator to move heavy equipment!
+BROCHURE_TIER4_7_PLANTER,,,,,Planter
+BROCHURE_TIER4_7_HOG PAN,,,,,Hog Pan
+BROCHURE_TIER4_7_DESC,,,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extensions at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER5,,,,,Tier 5
+BROCHURE_TIER5_1,,,,,Go to the Machine Store
+BROCHURE_TIER5_2,,,,,Buy:
+BROCHURE_TIER5_2_GC,,,,,Glacier Creek
+BROCHURE_TIER5_2_RT,,,,,Reinforced Trommel
+BROCHURE_TIER5_2_SLUICEBOXES,,,,,Sluiceboxes
+BROCHURE_TIER5_2_BPG,,,,,Big Power Generator
+BROCHURE_TIER5_2_CABLES,,,,,Cables (Equipment Store)
+BROCHURE_TIER5_2_4NT,,,,,4 Sluicebox Grates
+BROCHURE_TIER5_2_3BUCKET,,,,,3 Buckets
+BROCHURE_TIER5_2_6MG,,,,,6 Miner's Grilles
+BROCHURE_TIER5_2_12MM,,,,,12 Miner's Mosses
+BROCHURE_TIER5_3,,,,,Transport the machines to your Claim
+BROCHURE_TIER5_3_TB,,,,,Transport button
+BROCHURE_TIER5_4,,,,,Load on the Pickup and go to the Claim
+BROCHURE_TIER5_5,,,,,Disassembly and improvement
+BROCHURE_TIER5_5_A,,,,,Transport
+BROCHURE_TIER5_5_A_DESC,,,,,Transport to other claim or Storage Space. Use Tablet in Tent.
+BROCHURE_TIER5_5_B,,,,,Sell
+BROCHURE_TIER5_5_B_DESC,,,,,Use cables and excavator to move old equipment to Sell Zone.
+BROCHURE_TIER5_6,,,,,Set up the Glacier Creek
+BROCHURE_TIER5_6_GC,,,,,Glacier Creek
+BROCHURE_TIER5_6_RT,,,,,Reinforced Trommel
+BROCHURE_TIER5_6_2SLUICEBOX,,,,,2 Sluiceboxes
+BROCHURE_TIER5_6_2GP,,,,,2 Gravel Pumps
+BROCHURE_TIER5_7,,,,,Wash Plant system extension
+BROCHURE_TIER5_7_CABLES,,,,,Use cables and excavator to move heavy equipment!
+BROCHURE_TIER5_7_GP,,,,,Gravel Pump
+BROCHURE_TIER5_7_HP,,,,,Hog Pan
+BROCHURE_TIER5_7_HP_DESC,,,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER3_7,,,,,Wash Plant system extension
+BROCHURE_TIER3_7_CABLES,,,,,Use cables and excavator to move heavy equipment!
+BROCHURE_TIER3_7_DUPLEXJIG,,,,,Duplex Jig
+BROCHURE_TIER3_7_HOGPAN,,,,,Hog Pan
+BROCHURE_TIER3_7_DESC,,,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER5_2_2GP,,,,,2 Gravel Pumps
+BROCHURE_TIER3,,,,,Tier 3
+STORY_1_PART_1,,,,,"- Ben, watch out!@- Wha...?@Endless streams of magnetite was falling through the ceiling.@- Shivd! Turn on the machine! Now! There is too much material.@- I’m trying, but it won’t start.@Shivd was struggling with the levers, but each of them were stuck."
+STORY_1_PART_2,,,,,"- Do something, it won’t hold much longer. Mike, go outside and tell them to stop pouring more of it. @- I can’t turn it on! It’s clogged! We have to get out of here! If they don’t stop right now, it’s all gonna break.@- You heard him, folks! Move out, now! Frank, turn on the alarm, let the others know we’re evacuating.@The repetitive sound of sirens could be heard from miles away."
+STORY_1_PART_3,,,,,"Mike broke the door on his way out@- STOP IT!! STOP!! I SAID STOP!!!@People nearby were confused, but they stopped pouring the material. @- What is wrong with you, man? Why are you yelling?@- The machine… clogged… collapse… You have to stop or the mine will collapse."
+STORY_2_PART_1,,,,,"“I’ve just arrived, the neighborhood seems quiet and peaceful. I’m heading to the Old Arnold’s Parcel to start my gold miner journey. I hope we’ll get well.@@I’ve never realized how hard that job can be. Using machinery is the easy part, but all this cleaning and maintenance is driving me crazy."
+STORY_2_PART_2,,,,,This was the biggest mistake of my life. I should’ve never come to Alaska. I should’ve stayed in Florida. I hate Old Arnold. @@I broke the shaker today. I haven’t thought that there is a limit of how much soil can it process. The springs have broken and one of it flew right next to my head. I’m lucky I’m alive. Today will be a long day.”@@~Clifford aka Miku
+STORY_3_PART_1,,,,,"Colin ‘Skindogg’ Skinner was drinking soda on the porch, just like every other night. Loud rumbling came from the western entrance to the town. He noticed a lot of lights turning on in adjacent houses. This noise was definitely heard in the entire city. Minutes later, the armoured convoy drove through the town and headed to the hills on the east side of the town.@@Few local boys went after the convoy to check what’s going on, but as fast as they climbed the hill they ran away. They said it was a protected military research station. There was a fence all around that facility with military guards equipped with guns."
+STORY_3_PART_2,,,,,"Colin went to sleep. He would waste no more time for things that had nothing to do with him. Days passed, and night transports kept repeating. Workers never showed up in the facility during the day. All work was planned for nights. People say there is nothing to watch on this station. Except for night, everything was hidden under the cover.@@He knew he would come back here at night. He was too curious now to give up. He waited until midnight and headed for the hill. Full moon shined brightly. He didn’t need to use his flashlight. He quietly came close to the fence and stayed there for a while. The facility looked like a scene from an old science-fiction movie. A lot of antennas, people in hazmat suits, decontamination station. All of it shot Colin’s imagination."
+STORY_3_PART_3,,,,,"He wanted to go inside. But how to do it? All the gates were closed. He ran back home and took the shears to cut through the fence. The moment he came close to the station, the guards ran out through the gate and took him captive. They held him for two days to check if he wasn’t irradiated. Everything was OK, so they let him go. He had to write an agreement that he will tell no classified data to other people. They came up with the idea that he literally remembered nothing from the moment he went through the gate.@@When people found out about his memory loss, no one wanted to go near the station ever again."
+STORY_4_PART_1,,,,,"- Daeheru! Grab the hammer and come over here! @- Coming!@- Could you hurry? This iron is very hot.@Daeheru was the first and only blacksmith’s apprentice in the last 10 years. There were many reasons for that. One of them was the fact that blacksmith was crazy. Secondly, it’s not the most profitable business in the area. It’s true that you won’t ever get out of the job, because of all those gold miners around, but there is a limit on how much you can charge them for your job.@- There is no hammer here... where did you put it, Stephen?@- It has to be on the forge… don’t mind it… Come over here and put on your gloves… I need your help"
+STORY_4_PART_2,,,,,"- Calm down, Batty, we can reheat it later. - said young apprentice@- We don’t have time for that, the customer will be here tonight. We need to do it now, Daeheru! Take this mold and put it inside the crucible. We’ll make it fast.@- It’s so messy in here. What did you do yesterday with all that stuff?@- Don’t mind… just focus on work.@Daeheru grabbed the mold and the crucible and took a position next to Stephen Batty. That day had been long, too long for all of them, but at the end the customer was satisfied, and that’s what matters."
+STORY_5_PART_1,,,,,"- Please everyone, sit down, we’re just about a mile from the Saxman Native American Village. Don’t forget about the rules. We’re the guests there, so don’t shout, argue with them or touch anything that looks like an antique, especially the sacred totems.@- So is there anything we can do, sir?@- You can stay and listen, Meli. That should be enough for you. I don’t want any problems with local authorities.@The bus stopped next to the native village and the students went outside.@- It’s freezing out here. I have to go back and put on some more clothes.@- Ok, Meli, but hurry up. When the representative will come to see us we have to be ready to go. Otherwise, you’ll have to find us inside.@- I’ll be right back, sir."
+STORY_5_PART_2,,,,,"Few minutes later Meli came back, but no one was there. They must have went inside already.@- Who are you, boy?@- I’m… @- Don’t be scared, I’m harmless.@- I’m not scared, it’s just… that mask. I’m not used to seeing things like that.@The man was one of the Saxman tribe, but he was wearing a big animal-like ceremonial mask.@- Ahh, I see, so you’re part of the school trip? Locals don’t react like that. @- Ye… yes.@- What’s your name and where are the others?"
+STORY_5_PART_3,,,,,"- My name is Daytona Meli. The others? They went inside. I should follow them, so if you’ll excuse me.@- Wait a second. There is nothing interesting inside. If you want to see the real tribe, follow me.@- I shouldn’t.@- Then go and join your group.@Saxman walked away to the forest road. Daytona stood there and struggled with his thoughts. One of them was to join the group, but there was something interesting in this man. The other option seemed a lot better.@- Wait! What’s your name?! - Meli shouted to the Saxman@- I’m Malik."
+STORY_6_PART_1,,,,,"“Yesterday at 2 A.M. an accident happened on Western Haines Road. The pipeline with water has been destroyed and caused massive collapse of the road and earth nearby. Local authorities arrived on site immediately helping all trapped people. Fortunately, everyone is ok. Jessie Henderson and his family were one of the trapped ones.@@We’ve spoken with him already…”"
+STORY_6_PART_2,,,,,"- Jessie, how are you? Are you feeling OK?@- Yes, thank you. I’m good now. It’s much better to be outside.@- And how is your family?@- My wife has some bruises but overall we’re fine. We were lucky to just enter the collapsed ground, so we’ve ended up at the top of the collapse@- How many cars have been on that part of the road when the tragedy - happened?@- Police asked the same question, but I don’t know. I think 4 to 5 tops. @- Do you remember anything from the accident?@- Only a rumble that stayed in my ears for hours.@- Thank you Jessie, go back to your house and get well@- Thank you. Goodbye"
+STORY_7_PART_1,,,,,"- Hey, Kent, where are you? We’re waiting for over an hour here. Boys want to start digging.@- I’m stuck in the traffic. There are so many people on the road to River Town.@- That’s why we came here yesterday, man.@- You know, I couldn’t. I’ll be there ASAP so just wait a bit longer.@- Ok, see you later."
+STORY_7_PART_2,,,,,"Kent parked his car in the middle of the forest. There were cars everywhere. Hundreds of people on their way to the claim, carrying equipment from the most amateur one to the professional sets. Families carrying big Hog Pan’s and looking for a place near the river to set it up. All of them had the same goal. To find gold. River Town was called one of the biggest gold deposit in the area with the gold on the whole spectrum of altitude. If you were lucky, you would’ve find gold even with one dig of the shovel."
+STORY_8_PART_1,,,,,"- Mommy, mommy, can I go to the river?@- It’s not safe, stay here with us. We’re going to go there later.@- But mommyyy!@- Matthew, tell her something. You’re her father.@- Come here, baby. Look, we have to set up our blanket here and take out all the food. But as soon as we do it, we’re going to have a long walk to the river, OK? So why don’t you help mommy prepare the food, while I’m - preparing everything else.@- Ok, daddy. Mommy, what can I do?@- Matthew, you amaze me more and more everyday since we’re married.@- I love you too, honey."
+STORY_8_PART_2,,,,,"Matthew took out blanket from the basket and spread it on the valley. He took some glasses and plates and set them up for his whole family. Girls soon prepared the food and they all sit there and had a meal.@- Honey, that was delicious. Isn’t that right, baby?@- Yummy!!@- Ok, so who’s ready for a walk?@- Go without me. Mommy needs to rest and sunbathe for a while.@- Ok, we’ll be back soon@- Be safe!"
+STORY_8_PART_3,,,,,"The river was a hour walk further. They played few games, so the walk wasn’t a boring part. Soon, they’ve arrived at their destination. As soon, as the kid has seen the river, she ran closer. Matthew haven’t realized that in time. When he figured that his baby isn’t around him anymore, he panicked. Matthew ran from one bush to another trying to find his baby girl. When he began to lose faith, the girl ran from the river with the flowers.@- It’s for mommy!@- Baby, don’t you ever do that again. I’ve been worried@- Why?@- Because I didn’t know where you were. I thought I had lost you here."
+STORY_9_PART_1,,,,,"“Antique chopper devastated by vandals.@@Last night the local antique - First Fire-fighting Chopper that helped extinguish countless numbers of fires was destroyed beyond repair by the group of vandals. Police has already tracked the criminals, but the damages can’t be undone. Local authorities decided, the antique has to be removed. In few days, transport crew will take the chopper and move it to the local scrapyard, where it’ll stay forever."
+STORY_9_PART_2,,,,,"It’s sad, that there are people who don’t think about the consequences of their actions. The chopper was an important reminder for a lot of people in the area. Let’s just hope, that they’ll still remember about it, even after the removal.” - Mr. Lackey, City Planning Department"
+STORY_10_PART_1,,,,,"- Hey, man! What are you doing here?@- I’m looking for my son. He loves to hang out here.@- What’s his name? @- His name is Frank. I’m Olli, by the way. Olli Fabio. And you are?@- I’m Mike. I’m maintaining this railroad, so the cargo can be brought everyday to our factory."
+STORY_10_PART_2,,,,,"- So, have you seen my son or no?@- There was a kid, like 7 or 8 years old here a few hours ago, but I have no idea if he’s yours.@- It has to be him! Where did he go? @- I don’t know, but I’ve seen some kids playing near the old railroads.@@Olli rushed to the city, where the stranger had seen his child. The area was empty, like never before. It was always full of children, but not today. Today there were no living soul."
+STORY_11_PART_1,,,,,"“For the last two weeks there has been no coal mined in the Henneberg Old Mine. Workers have organized a mutiny to force authorities to change their way of management. Workers want to force Management to modernize the equipment so it’ll be healthier for workers and the ecosystem . Philip Breguet, the leader of the workers had just made his statement:"
+STORY_11_PART_2,,,,,"“The workers have been working in harsh conditions for many months now. Some of them have already been hospitalized. The amount of dust and harmful compounds from old machines exceeds the limits a few times. You need to modernize our equipment and give us a healthier workplace. We won’t work any longer, until our work conditions get better. We won’t mine a single lump of coal, until we can be sure, that our health will be safe.”"
+STORY_11_PART_3,,,,,"We’re looking forward to authorities’ answer to see how it all turns out. Let’s hope that the agreement will be set soon, because every day the mine isn’t gathering coal it's a massive loss for Haines. If that situation lasts for a long time, there may be no coal for people to warm their houses throughout the whole winter.”"
+STORY_12_PART_1,,,,,"Have you ever heard the story of Moby Dick? Of course you have, but did you know It’s based on the barely known Slvtre adventure? The man was sailing and fishing across the Bering sea for over twenty years. One of the journeys though, wasn’t like the others.@@Slvtre was born in to a poor family, but with hard work and sacrifice he had become one of the richest men in Haines. How did he do that? That’s our story today."
+STORY_12_PART_2,,,,,"Since his early childhood, Slvtre seemed to be a lot smarter than his peers. It didn’t help him to be the most likeable person in the whole town. He was often pointing the flaws of someone’s doing. He never meant anything wrong. He only wanted to help others, but they treated him like a know-it-all kind of kid. @@His parents died when he was 13 years old and he was adopted by his grandfather, who lived nearby on his own. It was very tough time for both the kid and his caretaker. Months were passing, but they were still stuck in the same place, sitting all day in the house."
+STORY_12_PART_3,,,,,"One day, there was a breakthrough. Slvtre decided, he won’t spend his days like that. He went to the Fishing Center and persuaded the owner to rent him one of the oldest boats, and that’s how his journey has begun."
+STORY_13_PART_1,,,,,"“Mayday, mayday… This is TylerCanadian, no. 512476. I’ve lost all sorts of communication with the tower. I need immediate help. My chopper is falling down. The engine stopped working. I’m at twelve hundred meters right now and keep falling down. I repeat, I’m falling down. I’ll land on the nearest lake. It should be big enough to put the machine safely on the ground.”"
+STORY_13_PART_2,,,,,"The Radio crackled when TylerCanadian was landing in the middle of the lake.@“This is TylerCanadian, no. 512476. I’ve succesfully landed the chopper, but it’s severely destroyed. I need an immediate evac. I repeat, I need an immediate evac. If anyone can hear me, please send any sort of transport. I’m in the middle of nowhere.”"
+STORY_14_PART_1,,,,,"Taku was storming through, ramming people along the way. She had to break away from her current life. Yet, she wasn’t sure where to find a shelter. Taku decided to run up the mountains and then consider what to do next."
+STORY_14_PART_2,,,,,"Gusty wind proved an obstacle during the climb. Luckily, she found a cave where she could stay overnight. Waking up she realized that it wasn’t any cave but in fact a part of God of Northern Gale - Kinak. The Deity listened to the woman’s story and felt pity for her. Kinak allowed her to live in the cave, providing her food and clothes."
+STORY_14_PART_3,,,,,"Years have passed rapidly until Kinak was willing to turn to the other side. At that point Taku had to go back home. The God granted her with a supply of furs that ensured her family with wealth. For a while they lived happily and eventually got a son. However, Taku’s husband fell again into his former behavior."
+STORY_14_PART_4,,,,,"Enraged Kinak summoned a gale that had taken the husband away and nobody has seen him since. Years later Taku’s son has become a great hunter but he inherited his father’s temperament. One day, when the God couldn’t look at the son’s attitude anymore, Kinak got rid of him as well."
+STORY_15_PART_1,,,,,"Sedna came back to her father’s house. She’d hoped that her next marriage would be better. One day, Seagull King under the human form arrived at Agnut’s house. Sedna immediately lost her head over him. Seagull King charmed her with beautiful words about the future. Sedna naively believed the man and without the approval of her father she went on a long journey."
+STORY_15_PART_2,,,,,"When Sedna arrived at the destination it turned out that she had been deceived. Since then, distraught girl awaited her father’s help. Sedna’s perturbation was increasing with each passing month."
+STORY_15_PART_3,,,,,One year later Agnut set off to search for his daughter. The girl was extremely grateful to her father for releasing her from the fraud. Agnut trapped Seagull King when he found out what had happened to his daughter.
+STORY_16_PART_1,,,,,"I spend too much time in the factory. I start to freak out. I heard something today or at least I think I did. I heard a silent weep coming from the vent. Nobody seemed to have heard it, perhaps it was easier for them to ignore it."
+STORY_16_PART_2,,,,,"Here we go again. Apart from sobbing, now I heard some words. I’m sure it were words but somehow different, incomprehensible. I went to staff so they would check the vents. As always they didn’t find anything. Now they look at me like I’m nuts."
+STORY_16_PART_3,,,,,"Something strange is happening here. Yesterday, every single chair has disappeared from canteen. Manager is looking for the culprit but it can’t be any of us. We’ve all been working here for years. What is going on?"
+STORY_16_PART_4,,,,,"I’m not alone anymore but I don’t know whether it’s good or bad. Now everyone hears that voice - child’s voice. Couple times a day a shrill scream penetrates the factory followed by a sudden silence.@Management decided to temporarily close the factory and scour it, floor by floor. We’re gonna look as long as possible until we find the source of the screams."
+STORY_16_PART_5,,,,,"We found something. We found a missing child. They lived in the factory for a few months. Parents are on their way now, so I hope it’ll be calm in the factory now.@@~Vasa’s Journal"
+STORY_17_PART_1,,,,,"Aeons ago when there were no people yet, Nunam was walking among trees, turning ground into gold with every step. Gold shattered more and more with time until it practically ceased to be noticeable. And yet there is a place where one can find it."
+STORY_17_PART_2,,,,,"The earth Goddess particularly admired the beautiful Alaskan forests. She had her grove there, where she spent most of her time. For centuries people have tried to find it, believing in the unimaginable amount of gold that could be found there, but with no effect."
+STORY_17_PART_3,,,,,"The story is passed down through generations by the Inuit people. Most of them don’t believe it anymore. Me neither. However, if there is even the slightest chance that a place like that exists, perhaps it's worth a shot?"
+SHOP_MACHINES_VEHICLE_QUAD_NAME,,,,,
+SHOP_MACHINES_VEHICLE_QUAD_DESC,,,,,
+PROMPT_END_OF_SEZON_BUCKETS_CLEAN_HEADER,,,,,
+PROMPT_END_OF_SEZON_BUCKETS_CLEAN_BODY,,,,,
+SHOP_MACHINES_VEHICLE_BOBCAT_DRILL_NAME,,,,,
+SHOP_MACHINES_VEHICLE_BOBCAT_DRILL_DESC,,,,,
+SHOP_MACHINES_VEHICLE_BOBCAT_LOADER_NAME,,,,,
+SHOP_MACHINES_VEHICLE_BOBCAT_LOADER_DESC,,,,,
+SHOP_ITEM_TRAILER_MINI_WASHPLANT_NAME,,,,,
+SHOP_ITEM_TRAILER_MINI_WASHPLANT_DESC,,,,,
+SHOP_MACHINES_VEHICLE_EX303_NAME,,,,,
+SHOP_MACHINES_VEHICLE_EX303_DESC,,,,,
