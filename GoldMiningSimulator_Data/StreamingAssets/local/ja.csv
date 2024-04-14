@@ -585,7 +585,7 @@ ALLOTMENT_4_OWNER,알래스카 주,,,,State of Alaska
 ALLOTMENT_4_NAME,파인 밸리,,,,Pine Valley
 BANK_GUI_SELL_GOLD_BAR,금괴 판매,,,,Sell Gold Bars
 BANK_GUI_SELL_GOLD_BAR_MY_BARS,당신의 금괴,,,,Your Bars
-BANK_GUI_SELL_GOLD_BAR_SELL,판ㅁ내,,,,Sell
+BANK_GUI_SELL_GOLD_BAR_SELL,판매,,,,Sell
 HUD_REFUELING,연료 재충전,,,,Refueling
 GUI_ITEM_SHOP_PROMPT_TRAILER_HAS_OBJECT,트레일러 슬롯에서 물건을 제거하세요!,,,,Remove objects from the trailer slot!
 GUI_ITEM_SHOP_PROMPT_NO_MONEY,돈이 충분하지 않습니다!,,,,You don't have enough money!
@@ -1005,7 +1005,7 @@ TUTORIAL_LEASE_CLAIM,아놀드 할아버지의 채굴장을 임대,,,,Drive to t
 TUTORIALS_ENABLED,튜토리얼,,,,Tutorial Prompts
 TUTORIAL_BUY_HOGPAN_NO PUMP,펌프 없는 호그 팬 구입,,,,Buy Hog Pan No Pump
 TUTORIAL_BUY_HOGPAN_SLUICEBOX_CORE,스루스 박스 코어 구매,,,,Buy Hog Pan Sluicebox Core
-TUTORIAL_BUY_TWO_HOGPAN_MATS,호그빵용 매트 2개 구입,,,,Buy two Hog Pan Mats
+TUTORIAL_BUY_TWO_HOGPAN_MATS,호그 팬용 매트 2개 구입,,,,Buy two Hog Pan Mats
 TUTORIAL_BUY_BUCKET,버킷 구매,,,,Buy a Bucket
 TUTORIAL_GOTO_CHECKOUT_FINALIZE,금전 등록기로 가서 물자 구입,,,,Go to Checkout and buy your stuff
 TUTORIAL_PACK_TIER1STUFF_ON_PICKUP,픽업 트럭 화물칸에 1단계 물품을 적재,,,,Pack your purchased Tier 1 equipment onto the Pickup bed
@@ -1019,7 +1019,7 @@ TUTORIAL_END,"가르치는 것은 더 이상 없을 것이다. @@너는 기본�
 UI_HAND,손,tool from toolbar,,,Free Hand
 UI_SHOVEL,삽,tool from toolbar,,,Shovel
 UI_FLASHLIGHT,플래시 라이트,tool from toolbar,,,Flashlight
-UI_BLADE,소형 국자,tool from toolbar,,,Small Shovel
+UI_BLADE,소형 삽,tool from toolbar,,,Small Shovel
 UI_DRILL_TOOL_NAME,전동 드라이버,tool from toolbar,,,Cordless screwdriver
 UI_SCREWDRIVER,운전자,tool from toolbar,,,Screwdriver
 UI_CROWBAR,바르,tool from toolbar,,,Crowbar
@@ -1031,7 +1031,7 @@ OPTIONS_DIFFICULTY_NORMAL,일반,,,,Normal
 OPTIONS_DIFFICULTY_HARD,힘든,,,,Hard
 DRILL_SHOP,드릴,,,,Drill
 WINDOW_HARDMODE_HEADER,하드 모드,,,,Hard Mode
-WINDOW_HARDMODE_BODY,"완전히 베테랑이라고? @ 위대한이 작품을 즐기는 것 같아! @@하드 모드에서는 신인을 위한 도움말은 존재하지 않는다. @ 가격은 상승하고 골드의 가치는 떨어지고 게임 중에는 다양한 장애 @에 휩쓸릴 것이다. @@소지금은 0$부터 시작하기 때문에 무언가를 시작하기 전에 대출을 짜야 할 것이다. 그래도 충분하다고는 말할 수 없지만, 우선은 호그빵을 사용해 수작업으로 채굴하기에는 충분할 것이다.",,,,"You're a veteran, huh? @Great! It'll be fun!@@In Hard Mode you will not use any help dedicated for new players. @There will be higher prices, less gold, and more malfunctions during the game.@@You will start with $0, so before you do anything else, go to the Old Glenn Bank and take a loan.  There won't be much, but it should be enough to start prospecting with a manual Hog Pan."
+WINDOW_HARDMODE_BODY,"완전히 베테랑이라고? @ 위대한이 작품을 즐기는 것 같아! @@하드 모드에서는 신인을 위한 도움말은 존재하지 않는다. @ 가격은 상승하고 골드의 가치는 떨어지고 게임 중에는 다양한 장애 @에 휩쓸릴 것이다. @@소지금은 0$부터 시작하기 때문에 무언가를 시작하기 전에 대출을 짜야 할 것이다. 그래도 충분하다고는 말할 수 없지만, 우선은 호그 팬을 사용해 수작업으로 채굴하기에는 충분할 것이다.",,,,"You're a veteran, huh? @Great! It'll be fun!@@In Hard Mode you will not use any help dedicated for new players. @There will be higher prices, less gold, and more malfunctions during the game.@@You will start with $0, so before you do anything else, go to the Old Glenn Bank and take a loan.  There won't be much, but it should be enough to start prospecting with a manual Hog Pan."
 TUTORIAL_TIER1_NAME,Gold Mining - Tier 1,,,,Gold Mining - Stage 1
 GUI_LAPTOP_BUY_WORKERS_TAB_UNAVIABLE_HARDMODE,하드 모드에서는 사용할 수 없음,,,,Unavailable in Hard Mode
 BANK_GUI_LOAN_CONFIRMATION,대출을 상환하시겠습니까?,Confirmation of paying off the loan,,,Are you sure you want to pay off the loan?
@@ -1157,7 +1157,7 @@ TUTORIAL_PICK_SHOVEL,도구 상자에서 삽을 선택,,,,Pick the Shovel from y
 TUTORIAL_FILL_HOGPAN,호그 팬을 페이더로 채우기,,,,Fill Hog Pan with pay dirt
 TUTORIAL_PICK_BUCKET,양동이를 잡다,,,,Pick up the Bucket
 TUTORIAL_FILL_BUCKET_INRIVER,강에서 물통에 물을 펌핑,,,,Fill the Bucket with water from the river
-TUTORIAL_POUR_WATER_TO_HOGPAN,호그빵에 물을 여러 번 붓고 토양을 체로 나눕니다.,,,,Pour Water into the Hog Pan to start washing the soil
+TUTORIAL_POUR_WATER_TO_HOGPAN,호그 팬에 물을 여러 번 붓고 토양을 체로 나눕니다.,,,,Pour Water into the Hog Pan to start washing the soil
 TUTORIAL_FILL_MATS,매트가 30% 채워질 때까지 파기와 체로 나누기 작업 반복,,,,Repeat the digging/washing process to fill Mats to 30%
 TUTORIAL_FILL_BUCKET,양동이에 물을 펌핑,,,,Fill a Bucket with Water
 TUTORIAL_PICK_MAT_FIRST,첫번째 매트를 가져가라.,,,,Take the first Hog Pan Mat
@@ -1214,7 +1214,7 @@ SHOP_ITEM_PARTS_WORKINGLAMP_LAMP_DESC,작업등이 없으면 밤에 일하는 �
 SHOP_ITEM_PARTS_FUEL_NOZZLE_NAME,급유 노즐,,,,Fuel Nozzle
 SHOP_ITEM_PARTS_FUEL_NOZZLE_DESC,망가지면 사는 것입니다. 연료 탱크의 노즐을 파괴하면 새로운 @를 구입하고 수리하십시오. 노즐이 없으면 기계에 연료를 공급할 수 있습니다 @,,,,"You broke it, you buy it. If you broke the fuel nozzle on your fuel tank, buy this one and repair it. Without it you won't be able to fuel your machines!"
 BANKRUPTCY_WARNING,파산 경고,,,,Bankruptcy Warning
-BANKRUPTCY_WARNING_DESC,"주의! 소지금의 나머지가:@노멀 모드로 -100$@하드 모드로 -25$@가 되면 게임 오버가 됩니다. @@예금액이 마이너스 상태로 대출을 짜면 금리가 2배가 되므로, 너무 많은 돈을 빌리지 않도록 합시다.",,,,"Be careful! When you go below:@-$100k on Normal Mode@-$25k on Hard Mode@you will lose the game. @@When you take the loan on negative account balance, the interest rate is doubled, so don't take too much."
+BANKRUPTCY_WARNING_DESC,"주의! 소지금의 나머지가:@노멀 모드로 -100$@하드 모드로 -25$@가 되면 게임 오버가 됩니다. @@예금액이 광부 상태로 대출을 짜면 금리가 2배가 되므로, 너무 많은 돈을 빌리지 않도록 합시다.",,,,"Be careful! When you go below:@-$100k on Normal Mode@-$25k on Hard Mode@you will lose the game. @@When you take the loan on negative account balance, the interest rate is doubled, so don't take too much."
 STORIES_NEW_FOUND,스토리의 새로운 조각을 발견! 자세한 내용은 저널의 마지막 페이지를 확인하세요!,,,,You've found a new part of the story! Check at the end of your Journal to read more!
 JOURNAL_STORY_TITLE,스토리,,,,Stories
 STORY_FIRST_FOUND_HEADER,이야기의 첫 번째 조각을 발견!,,,,You've found your first part of the story!
@@ -1315,17 +1315,17 @@ BLACKSMITH_BARS_PRICE_MAGNETITE,자철석 가격,Magnetite bars price,,,Magnetit
 TUTORIAL_T3_START,환영합니다 Gold Mining Simulator! @@금광산의 개인적인 제국을 구축하자. @@하루에 파는 금의 양을 최대화하기 위해서는 @사용할 수 있는 머신을 모두 사용하거나 파산할까. @@꿈의 실현을 포기하지 않고 ...,,,,"Welcome to Gold Mining Simulator!@@This is your personal empire of Gold Mining.@@Use every available machine to maximize the amount of gold dug from the ground in a day or you may go bankrupt.@@Remember, dreams come true..."
 TUTORIAL_TURNON_BIGGENERATOR,대형 발전기 내부의 시작 버튼을 모두 눌러 전원을 켭니다.,,,,"Turn on the Big Generator, by pushing all the Start Buttons inside"
 TUTORIAL_TURNON_BIGWATERPUMP,대형 워터 펌프 시작,,,,Turn on the Big Water Pump
-TUTORIAL_JUMPINTO_EXCAVATOR,유압 굴삭기로 뛰어다니다,,,,Jump into the Excavator
+TUTORIAL_JUMPINTO_EXCAVATOR,유압 굴삭기로 가세요.,,,,Jump into the Excavator
 TUTORIAL_DIG_SOIL,토양을 다소 파내다,,,,Dig some soil
 TUTORIAL_FILL_DUMPTRUCK,파는 토양을 덤프 트럭에 적재,,,,Fill the Dump Truck with dug soil
 TUTORIAL_DRIVE_CONVEYORBELT,덤프 트럭을 벨트 컨베이어까지 운전,,,,Drive the Dump Truck to the Conveyor Belt
 TUTORIAL_DUMPSOIL_TO_CONVEYORBELT,덤프 트럭에서 벨트 컨베이어로 토양을 채우십시오.,,,,Dump soil from Dump Truck into Conveyor Belt's Hopper
 TUTORIAL_TURNOFF_BIGWATERPUMP,대형 워터 펌프 정지,,,,Turn off the Big Water Pump
-TUTORIAL_TAKEOFF_GRILLES,마이너스 그릴 제거,,,,Take off the Miner's Grilles
-TUTORIAL_TAKEOFF_MOSSES,마이너스 모스 제거,,,,Take off Miner's Mosses
+TUTORIAL_TAKEOFF_GRILLES,광부 그릴 제거,,,,Take off the Miner's Grilles
+TUTORIAL_TAKEOFF_MOSSES,광부 모스 제거,,,,Take off Miner's Mosses
 TUTORIAL_PUT_MOSSES_INTO_NUGGETATOR,이끼를 골드 너게이터로 설정,,,,Put Miner's Mosses into Gold Nuggetator
 TUTORIAL_CLEAN_GRATES,나머지 그레이칭도 모두 깨끗하게 한다,,,,Clean all remaining Grates
-TUTORIAL_TAKE_BUCKET_SB4,스루스박스에서 양동이를,,,,Take the Bucket from the Sluicebox
+TUTORIAL_TAKE_BUCKET_SB4,스루스박스에서 양동이를 드세요.,,,,Take the Bucket from the Sluicebox
 TUTORIAL_TAKEBUCKET_NUGGETATOR,골드 너게이터에서 양동이를 가져옵니다.,,,,Take the Bucket from the Gold Nuggetator
 TUTORIAL_PROCESSBUCKET_MAGSEP,자철석 분리기에 양동이 토양을 부어,,,,Pour soil from Bucket into the Magnetite Separator
 TUTORIAL_TAKEBUCKET1_DJ1,듀플렉스 지그에서 첫 번째 양동이를 가져옵니다.,,,,Take the first Bucket from the Duplex Jig
@@ -1339,9 +1339,9 @@ TUTORIAL_PROCESSGROUND_WAVETABLE,웨이브 테이블을 켜고 토양 처리가 
 TUTORIAL_GOSLEEP_CARAVAN,캐러밴에 가서 새벽까지 자자.,,,,Go to the Caravan and sleep until dawn
 TUTORIAL_T3_INVERT_END,꿈은 이루어지는 것… 그대로. 그럼 당신은 사업을 시작하자? 그러나… 무엇부터 시작하자?,,,,"Dreams come true... That's it, let's get into business, but... where to start?"
 TUTORIAL_TURNON_GOLDNUGGETATOR,골드 너게이터 스위치 켜기,,,,Turn on the Gold Nuggetator
-TUTORIAL_CHOOSE_SMALLSHOVEL,도구 상자에서 소형 국자 선택,,,,Pick the Small Shovel from your Toolbox
-TUTORIAL_USE_SHOVEL_ONGRATES,격자로 소형 국자 사용,,,,Use Small Shovel on Grates
-TUTORIAL_POURPAYDIRT__FROMSMALLSHOVEL_TOBUCKET,양동이에 소형 국자로 페이더를 부어,,,,Pour pay dirt from Small Shovel into the Bucket
+TUTORIAL_CHOOSE_SMALLSHOVEL,도구 상자에서 소형 삽 선택,,,,Pick the Small Shovel from your Toolbox
+TUTORIAL_USE_SHOVEL_ONGRATES,격자로 소형 삽 사용,,,,Use Small Shovel on Grates
+TUTORIAL_POURPAYDIRT__FROMSMALLSHOVEL_TOBUCKET,양동이에 소형 삽으로 페이더를 부어,,,,Pour pay dirt from Small Shovel into the Bucket
 TUTORIAL_WAIT_CONVEYOR_FINISHES,벨트 컨베이어가 셰이커로 토양을 운반하기를 기다립니다.,,,,Wait while Conveyor Belt finishes loading the Shaker
 HINT_MAGNETITE_SEPARATOR_DONE_MAGNEITE_ADDED,버킷에 {0} 자철석이 추가되었습니다.,,,,Added {0} of magnetite to Bucket
 HINT_WAVE_TABLE_DONE_MAGNEITE_ADDED,계정에 {0} 골드가 추가되었습니다.,,,,Added {0} of gold to your account
@@ -1413,7 +1413,7 @@ MENU_COLLECTORS_EDITION_SUB_BROWSE,상품을 살펴보세요.,Open the collector
 OPTIONS_ON,ON,,,,On
 OPTIONS_BLOCKED,자물쇠,,,,Blocked
 MENU_GAMESETTINGS,게임 설정,Needed for game difficulty help menu,,,Game Settings
-HINT_TURN_ENGINE,차량을 발진시키려면 엔진을 곱하자!,,,,Turn on the engine to start the vehicle!
+HINT_TURN_ENGINE,차량을 움직이려면 엔진을 켜세요!,,,,Turn on the engine to start the vehicle!
 TOGGLE_WINDOW_SEASONS_HEADER,시즌!,,,,Season!
 TOGGLE_WINDOW_SEASONS_BODY,"안녕하세요, 골드 마이너들! @@Gold Mining Simulator의 새로운 시대에 오신 것을 환영합니다! @@시즌이 왔다! 벌기 위해서는 많은 장애가 기다립니다. @ 대기 상태가 변경됨에 따라 평소 작업에도주의가 필요합니다! @꿈을 포기하지 마십시오! 시즌이 끝나기 전에 @ 가능한 한 많은 골드를 버십시오. @@ 잊지 마세요! @@겨울이 온다!",,,,"Hello, Gold Miners!@@Welcome to the new era of Gold Mining Simulator!@@The seasons are here! There is much more obstacles on your way to being rich. With changing atmospheric conditions that will usually work against you, be cautious! Don't let it ruin your dreams! Gather as much gold as you can before the season ends.@@Don't forget!@@Winter is coming!"
 NEWGAME_MODE_NORMAL_DESC,알래스카 출신,,,,Born in Alaska
@@ -1503,8 +1503,8 @@ TUTORIAL_BUY_STSLUICEBOX,S-T 스루스 박스 구매,,,,Buy an S-T Sluicebox
 TUTORIAL_BUY_TDJSLUICEBOX,T-DJ 스루스 박스 구입,,,,Buy a T-DJ Sluicebox
 TUTORIAL_BUY_NUGGETTRAP_4,슬루스 박스용 그레이칭 4개 구입,,,,Buy 4 Sluicebox Grates
 TUTORIAL_BUY_BUCKET_3,양동이 3개 구입,,,,Buy 3 Buckets
-TUTORIAL_BUY_MINERGRILL_3,마이너스 그릴 3개 구입,,,,Buy 3 Miner's Grilles
-TUTORIAL_BUY_MINERMOSS_6,마이너스 모스 6개 구입,,,,Buy 6 Miner's Mosses
+TUTORIAL_BUY_MINERGRILL_3,광부 그릴 3개 구입,,,,Buy 3 Miner's Grilles
+TUTORIAL_BUY_MINERMOSS_6,광부 모스 6개 구입,,,,Buy 6 Miner's Mosses
 TUTORIAL_TRANSPORT_MACHINES_ONTO_CLAIM,장비를 채굴장으로 보내기,,,,Transport machines to your Claim
 TUTORIAL_BUY_STEELROPE_4,스틸 케이블(5m) 4개 구입,,,,Buy 4 5m Steel Cables
 TUTORIAL_BUY_NECESSARY_CABLES,필요한 케이블을 구입,,,,Buy the Necessary Cables
@@ -1533,8 +1533,8 @@ TUTORIAL_ATTACH_SROCKSSLUICEBOX_TO_EXCAVATOR,스틸 케이블로 S·록·스루�
 TUTORIAL_LIFT_SROCKSSLUICEBOX,"유압 굴삭기로 S, 록, 스루스 박스를 들어 올립니다.",,,,Lift the S-Rocks Sluicebox with Excavator
 TUTORIAL_PUT_SROCKSSLUICEBOX_ONPLACE,강조 표시된 위치에 S 록 스루스 박스를 놓습니다.,,,,Put the S-Rocks Sluicebox at the highlighted place
 TUTORIAL_DETACH_SROCKSSLUICEBOX_FROM_EXCAVATOR,"유압 굴삭기에서 S, 록, 스루스 박스 분리",,,,Detach S-Rocks Sluicebox from Excavator
-TUTORIAL_PUT_MINERSMOSSES_ONPLACE,마이너스 모스를 제자리에 놓습니다.,,,,Place the Miner's Mosses on the marked spots
-TUTORIAL_PUT_MINERSGRILLES_ONPLACE,마이너스 그릴을 제자리에 놓습니다.,,,,Put the Miner's Grilles on top of the Miner's Moss
+TUTORIAL_PUT_MINERSMOSSES_ONPLACE,광부 모스를 제자리에 놓습니다.,,,,Place the Miner's Mosses on the marked spots
+TUTORIAL_PUT_MINERSGRILLES_ONPLACE,광부 그릴을 제자리에 놓습니다.,,,,Put the Miner's Grilles on top of the Miner's Moss
 TUTORIAL_PUT_NUGGETTRAPS_ONPLACE,슬루스 박스용 그레이칭을 제자리에 놓는다,,,,Put Sluicebox Grates on Place
 TUTORIAL_PUTBUCKET_UNDERMOBILEWASHPLANT,견인식 워시 플랜트의 배에 양동이 세트,,,,Put the Bucket underneath the Mobile Wash Plant
 TUTORIAL_TURON_MOBILEGENERATOR,소형 발전기 스위치 켜기,,,,Turn on the Mobile Generator
@@ -1641,7 +1641,7 @@ BROCHURE_TIER1_7,호그 팬을 위한 장소 찾기,,,,Find Hog Pan Area
 BROCHURE_TIER1_7_WATERSOURCE,수원,,,,Water source
 BROCHURE_TIER1_7_HOGPANAREA,호그 팬 지역,,,,Hog Pan Area
 BROCHURE_TIER1_8,호그 팬 조립,,,,Setup Hog Pan
-BROCHURE_TIER1_9,삽으로 토양을 호그빵에 채우기,,,,Use Shovel to fill the Hog Pan with dirt
+BROCHURE_TIER1_9,삽으로 토양을 호그 팬에 채우기,,,,Use Shovel to fill the Hog Pan with dirt
 BROCHURE_TIER1_9_SHOVELICON,삽 아이콘,,,,Shovel icon
 BROCHURE_TIER1_9_DEFAULT,"(기본 ""2""키)",,,,"(default ""2"")"
 BROCHURE_TIER1_9_HOGPANINDICATOR,호그 팬 표시기,,,,Hog Pan indicator
@@ -1716,8 +1716,8 @@ BROCHURE_TIER4_2_BPG,· 대형 발전기,,,,Big Power Generator
 BROCHURE_TIER4_2_CABLES,?케이블류(창고에서 구입),,,,Cables (Equipment Store)
 BROCHURE_TIER4_2_4NT,?너겟트랩 4개,,,,4 Sluicebox Grates
 BROCHURE_TIER4_2_5BUCKET,?버킷 5개,,,,5 Buckets
-BROCHURE_TIER4_2_6MG,?마이너스 그릴 6개,,,,6 Miner's Grilles
-BROCHURE_TIER4_2_12MM,?마이너스 모스 12개,,,,12 Miner's Mosses
+BROCHURE_TIER4_2_6MG,?광부 그릴 6개,,,,6 Miner's Grilles
+BROCHURE_TIER4_2_12MM,?광부 모스 12개,,,,12 Miner's Mosses
 BROCHURE_TIER4_3,채굴장으로 기계 이송,,,,Transport the machines to your Claim
 BROCHURE_TIER4_3_TRANSPORTBUTTON,전송 버튼,,,,Transport Button
 BROCHURE_TIER4_4,픽업 트럭에 적재하고 채굴장으로 이동,,,,Load on the Pickup and go to the Claim
@@ -1734,8 +1734,8 @@ BROCHURE_TIER4_6_2PLANTER,화분 2개,,,,2 Planters
 BROCHURE_TIER4_7,워시 플랜트 시스템 확장,,,,Wash Plant system extension
 BROCHURE_TIER4_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER4_7_PLANTER,재배자,,,,Planter
-BROCHURE_TIER4_7_HOG PAN,호그빵,,,,Hog Pan
-BROCHURE_TIER4_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그빵의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extensions at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER4_7_HOG PAN,호그 팬,,,,Hog Pan
+BROCHURE_TIER4_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extensions at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER5,제5단계,,,,Tier 5
 BROCHURE_TIER5_1,중기점에 간다,,,,Go to the Machine Store
 BROCHURE_TIER5_2,구매:,,,,Buy:
@@ -1746,8 +1746,8 @@ BROCHURE_TIER5_2_BPG,· 대형 발전기,,,,Big Power Generator
 BROCHURE_TIER5_2_CABLES,?케이블류(창고에서 구입),,,,Cables (Equipment Store)
 BROCHURE_TIER5_2_4NT,?너겟트랩 4개,,,,4 Sluicebox Grates
 BROCHURE_TIER5_2_3BUCKET,?버킷 3개,,,,3 Buckets
-BROCHURE_TIER5_2_6MG,?마이너스 그릴 6개,,,,6 Miner's Grilles
-BROCHURE_TIER5_2_12MM,?마이너스 모스 12개,,,,12 Miner's Mosses
+BROCHURE_TIER5_2_6MG,?광부 그릴 6개,,,,6 Miner's Grilles
+BROCHURE_TIER5_2_12MM,?광부 모스 12개,,,,12 Miner's Mosses
 BROCHURE_TIER5_3,채굴장으로 기계 이송,,,,Transport the machines to your Claim
 BROCHURE_TIER5_3_TB,전송 버튼,,,,Transport button
 BROCHURE_TIER5_4,픽업 트럭에 적재하고 채굴장으로 이동,,,,Load on the Pickup and go to the Claim
@@ -1764,13 +1764,13 @@ BROCHURE_TIER5_6_2GP,그라벨 펌프 2개,,,,2 Gravel Pumps
 BROCHURE_TIER5_7,워시 플랜트 시스템 확장,,,,Wash Plant system extension
 BROCHURE_TIER5_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER5_7_GP,그라벨 펌프,,,,Gravel Pump
-BROCHURE_TIER5_7_HP,호그빵,,,,Hog Pan
-BROCHURE_TIER5_7_HP_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그빵의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER5_7_HP,호그 팬,,,,Hog Pan
+BROCHURE_TIER5_7_HP_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER3_7,워시 플랜트 시스템 확장,,,,Wash Plant system extension
 BROCHURE_TIER3_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER3_7_DUPLEXJIG,듀플렉스 지그,,,,Duplex Jig
-BROCHURE_TIER3_7_HOGPAN,호그빵,,,,Hog Pan
-BROCHURE_TIER3_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그빵의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER3_7_HOGPAN,호그 팬,,,,Hog Pan
+BROCHURE_TIER3_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER5_2_2GP,?그라벨 펌프 2개,,,,2 Gravel Pumps
 BROCHURE_TIER3,제3단계,,,,Tier 3
 STORY_1_PART_1,"「벤, 조심해!」@「에… @「시브트!기계의 스위치를 넣는거야, 빨리! 이 녀석은 너무 많다」@「안돼, 움직이지 않는다!」",,,,"- Ben, watch out!@- Wha...?@Endless streams of magnetite was falling through the ceiling.@- Shivd! Turn on the machine! Now! There is too much material.@- I’m trying, but it won’t start.@Shivd was struggling with the levers, but each of them were stuck."
@@ -1831,4 +1831,4 @@ SHOP_MACHINES_VEHICLE_BOBCAT_LOADER_DESC,적재물을 더 빠르고 효율적으
 SHOP_ITEM_TRAILER_MINI_WASHPLANT_NAME,미니 세탁기 설치,,,,
 SHOP_ITEM_TRAILER_MINI_WASHPLANT_DESC,"트레이는 불필요, 자동으로 재료를 체로 나눕니다",,,,
 SHOP_MACHINES_VEHICLE_EX303_NAME,미니 굴삭기,,,,
-SHOP_MACHINES_VEHICLE_EX303_DESC,삽은 피곤해? 미니 굴삭기에 뛰어들어 호그빵 지역에서 더 빨리 금을 파내세요!,,,,
+SHOP_MACHINES_VEHICLE_EX303_DESC,삽은 피곤해? 미니 굴삭기에 뛰어들어 호그 팬 지역에서 더 빨리 금을 파내세요!,,,,
