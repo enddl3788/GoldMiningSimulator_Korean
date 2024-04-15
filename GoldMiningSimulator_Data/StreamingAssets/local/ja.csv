@@ -394,15 +394,15 @@ UI_GOLD_BARS,금괴:,,,,Gold Bars:
 UI_OWNED,소유,,,,Owned
 UI_PICKUP_WHEEL_OLD,픽업 휠,,,,Pickup Wheel
 UI_RENT,렌트,,,,Lease
-WORKERS_GUI_AWATING_BUTTON,기다림,,,,Awaiting
+WORKERS_GUI_AWATING_BUTTON,기다리는 중,,,,Awaiting
 WORKERS_GUI_CARD_PRICE,가격,,,,Price
 WORKERS_GUI_CARD_TIME,티어,,,,Tier
 WORKERS_GUI_CARD_WORK,일,,,,Work
-WORKERS_GUI_HIRE_COST_OF_HIRED_WORKERS,고용 된 근로자 비용,,,,Cost of hired workers
+WORKERS_GUI_HIRE_COST_OF_HIRED_WORKERS,고용된 노동자들의 비용,,,,Cost of hired workers
 WORKERS_GUI_HIRE_HIRE_BUTTON,고용,,,,Hire
 WORKERS_GUI_HIRE_MONEY,돈,,,,Money
-WORKERS_GUI_HIRED,고용함,,,,Hired
-WORKERS_GUI_HIRED_BUTTON,고용함,,,,Hired
+WORKERS_GUI_HIRED,고용됨,,,,Hired
+WORKERS_GUI_HIRED_BUTTON,고용됨,,,,Hired
 WORKERS_GUI_MANAGE_ASSIGN,지정,,,,Assign
 WORKERS_GUI_NEW,새로운 근로자,,,,New
 WORKERS_GUI_PLACE_NAME,근로자,,,,Workers
@@ -427,7 +427,7 @@ ALLOTMENT_2_OWNER,코드호라이즌,,,,CodeHorizon
 ACTION_OPEN,열기,,,,Open
 Walking,걷기,,,,Walking
 MENU_CREDITS,제작자 크레딧,,,,Credits
-MENU_EXIT,게임 종료,,,,Exit
+MENU_EXIT,떠나기,,,,Exit
 MENU_NEW_GAME,새로운 게임,,,,New Game
 MENU_NEW_GAME_2,새로운 시즌,,,,New Season
 MENU_LOAD_GAME_2,계속하기,,,,Continue Your Journey
@@ -533,7 +533,7 @@ PLACE_TO_FILL_IS_FULL,이미 꽉 찼습니다! 금들을 잃었습니다!,,,,It'
 TOO_FAR,거리가 너무 멉니다!,,,,It's too far!
 UI_REPAIR_PICKUP_WHEEL_DETACH_NO_CAR_JACK,자동차 잭을 사용하세요! 바퀴를 돌리기 전에 트럭을 먼저 들어 올려야 합니다!,,,,Use a Car Jack! You have to lift the Truck before changing the Wheel!
 ROPE_REKT,스틸 케이블이 끊어졌습니다!,,,,The Steel Cable snapped!
-CANT_RINSE_MINERMOSS,광부들의 이끼를 씻으려면 깨끗한 물이 필요해요!,,,,You need clean water to rinse the Miner's Moss!
+CANT_RINSE_MINERMOSS,광부들의 먼지를 씻으려면 깨끗한 물이 필요해요!,,,,You need clean water to rinse the Miner's Moss!
 HINT_REMOVE_HOSE_BEFORE_DETACH,호스를 분리하기 전에 제거하세요!,,,,Remove the hose before detaching!
 HINT_MAGNETITE_SEPARATOR_DONE,자철석 선별기의 사금작업이 끝났습니다!,,,,The Magnetite Separator has finished processing the pay dirt!
 FUELTANK_PISTOL_CONNECT_TO_FILL_FUELTANK,왜 연료 탱크 피스톨을 연료 탱크에 연결하려고 하나요?,,,,Why do you even want to connect the fuel tank pistol to the fuel tank?
@@ -887,9 +887,9 @@ HOTEL_SEASON_GET_RID_OF_MONEY,0부터 시작,,,,Start fresh game
 HOTEL_SEASON_STAY_AT_SEASON_1,시즌 1에 머물다,,,,Stay at season 1
 GOLD_RECOVER_FROM_SEASON_1,"다시 확인! @@ 시즌 2가 시작될 때, 우리는 모든 소지금과 금을 0으로 되돌렸습니다. 당신은 그것을 되돌리기를 원한다고 슬퍼하지 않습니까? 그런 당신에게 다시 기회를 준다. @@ 시즌 1에서 벌어 들인 돈을 모두 되찾기 위해 골드로 시즌 2로 전송합니까?",,,,"One time request!@@When season 2 has started, we've taken all your money and gold. Some of you were mad about it and would like to get it back. We've got a one time request for you. @@Would you like to get all your season 1 money back as gold and transfer it to season 2?"
 GOLD_RECOVER_FROM_SEASON_1_HEADER,시즌1 골드 복구,,,,Season 1 gold recovery
-GOLD_NUGGET_INFO,럭키! 큰 너겟을 발견했다!,,,,Lucky you! You've just found a big nugget!
-GOLD_NUGGET_INFO_LONG,"당신은 행운이야! @@ 당신은 골드 너겟을 발견! @@ 이것이 있으면 게임 초기에 쉽게 진행할 것입니다. 어떤 도움도 사용하지 않으려면 (즉, 최고의 게임 플레이를 위해 권장하는 설정)이 금괴를 거부합니다. 다시 금괴를 찾을 수 없습니다. @@ 만약 당신이 마음을 바꾸면 언제든지 게임 설정에서 이것을 변경할 수 있습니다.",,,,"You're lucky! @@You've found the gold nugget! @@They exist so the beginning of the game would be easier and progress would be faster. If you don't want to use any help (that's the option we recommend for best gameplay), then reject this nugget. You'll never find one again. @@If you change your mind at any time you can change it in game settings."
-GOLD_NUGGET_INFO_MENU,골드 너겟,,,,Gold Nugget
+GOLD_NUGGET_INFO,럭키! 큰 덩어리을 발견했다!,,,,Lucky you! You've just found a big nugget!
+GOLD_NUGGET_INFO_LONG,"당신은 행운이야! @@ 당신은 금 덩어리를 발견! @@ 이것이 있으면 게임 초기에 쉽게 진행할 것입니다. 어떤 도움도 사용하지 않으려면 (즉, 최고의 게임 플레이를 위해 권장하는 설정)이 금괴를 거부합니다. 다시 금괴를 찾을 수 없습니다. @@ 만약 당신이 마음을 바꾸면 언제든지 게임 설정에서 이것을 변경할 수 있습니다.",,,,"You're lucky! @@You've found the gold nugget! @@They exist so the beginning of the game would be easier and progress would be faster. If you don't want to use any help (that's the option we recommend for best gameplay), then reject this nugget. You'll never find one again. @@If you change your mind at any time you can change it in game settings."
+GOLD_NUGGET_INFO_MENU,금 덩어리,,,,Gold Nugget
 GOLD_NUGGET_KEEP,고맙습니다.,,,,Keep it
 GOLD_NUGGET_REJECT,거부,,,,Reject
 SLOT_REWORK_INFO,우리는 슬롯 시스템을 개선했습니다. 우리는 당신의 돈을 환불했기 때문에 달러를 잃지 않고 새로운 규칙으로 다시 구입할 수 있습니다.,,,,"We've reworked slot systems. We gave you all your spent money back, so you will be able to buy it on new rules once again without losing any dollar."
@@ -981,7 +981,7 @@ PAINT_SHOP_CONFIRM_PAY,페인트,,,,Paint
 WORKERS_GUI_FIRE_WORKER_PROMPT_HEADER,종업원 해고,,,,Fire the employee
 SELL_PROMPT,매각 확인,,,,Confirm sell
 WORKERS_GUI_FIRE_WORKER_PROMPT_MAIN,이 직원을 해고하시겠습니까? @@ 당신은 그를 영원히 잃을 것입니다!,,,,Are you sure you want to fire this employee?@@You will lose him forever!
-BANK_GUI_SELL_GOLD_BAR_PROMPT,골드 봉을 매각하시겠습니까?,,,,Are you sure you want to sell these gold bars?
+BANK_GUI_SELL_GOLD_BAR_PROMPT,골드바를 매각하시겠습니까?,,,,Are you sure you want to sell these gold bars?
 DRILL_DESTROYED,드릴은 파괴되었다.,,,,Drill destroyed.
 CHANGE_DRILL,드릴을 교체합니다.,,,,Change the Drill.
 MAP_LEGEND_ROAD,도로,,,,Road
@@ -1021,7 +1021,7 @@ UI_SHOVEL,삽,tool from toolbar,,,Shovel
 UI_FLASHLIGHT,플래시 라이트,tool from toolbar,,,Flashlight
 UI_BLADE,소형 삽,tool from toolbar,,,Small Shovel
 UI_DRILL_TOOL_NAME,전동 드라이버,tool from toolbar,,,Cordless screwdriver
-UI_SCREWDRIVER,운전자,tool from toolbar,,,Screwdriver
+UI_SCREWDRIVER,드라이버,tool from toolbar,,,Screwdriver
 UI_CROWBAR,바르,tool from toolbar,,,Crowbar
 UI_WRENCH,렌치,tool from toolbar,,,Wrench
 TUTORIAL_BEGINNING_HEADER,초보자를 위한 금광상 탐사,,,,Gold Prospecting for Beginners
@@ -1095,9 +1095,9 @@ WorkersConveyorsBeltLevel3,고장 시 50% 확률로 @ 내구성 30% 자동 복�
 WorkersConveyorsContainerLevel1,워시 플랜트 시스템의 @ 성능 7 % 증가,,,,7% to Wash Plant System Performance
 WorkersConveyorsContainerLevel2,근로자 실적 향상,,,,Increased Worker Performance
 WorkersConveyorsContainerLevel3,근로자 실적 향상,,,,Increased Worker Performance
-WorkersT-DJSluiceboxLevel1,인근 지역에서 이끼를 @자동 교환(6슬롯),,,,Auto Swap Miner's Mosses from Area Nearby (6 slots)
+WorkersT-DJSluiceboxLevel1,인근 지역에서 먼지를 @자동 교환(6슬롯),,,,Auto Swap Miner's Mosses from Area Nearby (6 slots)
 WorkersT-DJSluiceboxLevel2,워시 플랜트 시스템의 @ 성능 2% 증가,,,,2% to Wash Plant system Performance
-WorkersT-DJSluiceboxLevel3,이끼 자동 교환 슬롯 추가,,,,Additional Slots for Miner's Mosses Swap
+WorkersT-DJSluiceboxLevel3,먼지 자동 교환 슬롯 추가,,,,Additional Slots for Miner's Mosses Swap
 WorkersS-TSluiceboxLevel1,격자 자동 세척,,,,Auto CleanUp Grates
 WorkersS-TSluiceboxLevel2,격자 세척 버킷 증가,,,,One More Bucket for Grate cleanup
 WorkersS-TSluiceboxLevel3,격자 세척 버킷 증가,,,,One More Bucket for Grate cleanup
@@ -1173,7 +1173,7 @@ TUTORIAL_MOVE_PAN_INWATER,물속에서 천천히 이동,,,,Slowly move the Pan i
 TUTORIAL_PICK_GOLD,Shift 키를 눌러 모드를 전환하고 선광 냄비에서 금을 뽑습니다,,,,Switch to Pick Mode and pick the gold one by one
 TUTORIAL_PAN_REST,양동이가 비워질 때까지 나머지 페이더를 패닝,,,,Pan the rest of the pay dirt until the Bucket is empty
 TUTORIAL_DRIVE_TOBLACKSMITH,대장장이까지 운전해 가다,,,,Drive to the Blacksmith
-TUTORIAL_KNOCK_ONBLACKSMITHDOOR,대장장이 문을 두드려 금연봉에 제련,,,,Knock on the Blacksmith's door and smelt the gold ore into a shiny gold bar.
+TUTORIAL_KNOCK_ONBLACKSMITHDOOR,대장장이집 문을 두드려 금 광석을 반짝이는 골드바로 용해하세요.,,,,Knock on the Blacksmith's door and smelt the gold ore into a shiny gold bar.
 LAPTOP_GUI_WORKERS_REJECT_PROMPT,이 신청자를 거부하시겠습니까? @@이번에는 다시 이 사람을 고용할 수 없습니다!,,,,Are you sure you want to reject this CV?@@You won't be able to hire this person anymore!
 LAPTOP_GUI_WORKERS_ASSIGN_WARNING,이 기계에는 이미 노동자를 할당했습니다! @@ 현재 근로자를 제거하고 이 근로자를 할당하시겠습니까?,,,,There is a worker already assigned to this machine!@@Are you sure you want to unassign him and assign current worker?
 LAPTOP_GUI_WORKERS_ASSIGN_WARNING_HEADER,근로자는 이미 할당되었습니다!,,,,Worker is already assigned!
@@ -1198,7 +1198,7 @@ TUTORIAL_GETINTO_PICKUP,픽업 트럭을 타고,,,,Jump into the Pickup Truck
 SHOP_ITEM_PARTS_GOLD_NUGGETATOR_JET_NAME,골드 너게이터 용 제트,,,,Gold Nuggetator Jet
 SHOP_ITEM_PARTS_GOLD_NUGGETATOR_JET_DESC,제트가 막히지 않았고 충분한 수압이 걸려 있는지 확인하십시오. 체크를 게을리하지 않으면 많은 골드를 잃는 @ 날개가됩니다.,,,,Make sure your jets gives you enough water pressure and are not clogged. If you don't check it you may lose lots of gold!
 SHOP_ITEM_PARTS_GOLD_NUGGETATOR_BELT_NAME,골드 너게이터용 벨트,,,,Gold Nuggetator Belt
-SHOP_ITEM_PARTS_GOLD_NUGGETATOR_BELT_DESC,골드 너게테이터에 세트한 이끼를 작동시키기 위해서는 벨트가 @필요합니다. 몇 개 사서 언제든지 골드를 씻을 수 있도록 @ 해 둡시다.,,,,You need Gold Nuggetator Belt to keep the Miner's Mosses moving. Buy some more and keep them close to be able to wash the gold anytime
+SHOP_ITEM_PARTS_GOLD_NUGGETATOR_BELT_DESC,골드 너게테이터에 세트한 먼지를 작동시키기 위해서는 벨트가 @필요합니다. 몇 개 사서 언제든지 골드를 씻을 수 있도록 @ 해 둡시다.,,,,You need Gold Nuggetator Belt to keep the Miner's Mosses moving. Buy some more and keep them close to be able to wash the gold anytime
 SHOP_ITEM_PARTS_GOLD_NUGGETATOR_PIPE_NAME,골드 너게이터 용 파이프,,,,Gold Nuggetator Pipe
 SHOP_ITEM_PARTS_GOLD_NUGGETATOR_PIPE_DESC,골드 너게이터는 편리하지만 매우 깨지기 쉬운 기계입니다. @ 파이프도 망가집니다.,,,,Gold Nuggetator is a handy yet very fragile machine. Pipes are another part that can be broken. 
 SHOP_ITEM_PARTS_POWERGENERATOR_BUTTON_NAME,대형 발전기용 버튼,,,,Big Power Generator Button
@@ -1284,7 +1284,7 @@ HUD_MAGNETITE,Mag.,,,,Mag.
 STORIES_COLLECTED_ALL_TITLE,모든 이야기를 모았다!,,,,All Stories Found!
 STORIES_COLLECTED_ALL_DESC,"축하해! @@모든 이야기를 찾을 수 있어요! @@이만큼 찾았기 때문에 보상도 분명 신경 쓰고 있다고 생각하지만, 어떨까? @ 중기 공원에 가서 페인트 숍을 확인합시다! @ 거기에 뭔가가 있어야합니다!",,,,"Congratulations!@@You've found all the stories!@@After all that searching you'd definitely like some reward, huh? Go to the Machine Store and check the paintshop! There is something waiting for you!"
 BLACKSMITH_END_OF_REMELT_HINT_TITLE,황금 막대가 완성되었습니다!,,,,Your Gold Bar is Ready!
-BLACKSMITH_END_OF_REMELT_HINT_DESC,대장장이로 돌아와 반짝이는 금 봉을 받으세요!,,,,Go to the Blacksmith and take your shiny Gold Bar! It will appear in your hands after you close the Blacksmith window.
+BLACKSMITH_END_OF_REMELT_HINT_DESC,대장장이로 돌아와 반짝이는 골드바를 받으세요!,,,,Go to the Blacksmith and take your shiny Gold Bar! It will appear in your hands after you close the Blacksmith window.
 WORKERS_GUI_WRONGSPEC_HEADER,밭 차이의 전문 분야,,,,Wrong Specialization
 WORKERS_GUI_WRONGSPEC_DESC,적절한 전문 지식이 없는 근로자를 기계에 할당할 수 없습니다.,,,,You can't assign a worker without proper specialization to the Machine.
 BANK_GUI_PARTIAL_PAY_DESCRIPTION,대출을 얼마 상환하시겠습니까?,,,,How much of your loan you'd like to pay back?
@@ -1323,7 +1323,7 @@ TUTORIAL_DUMPSOIL_TO_CONVEYORBELT,덤프 트럭에서 벨트 컨베이어로 토
 TUTORIAL_TURNOFF_BIGWATERPUMP,대형 워터 펌프 정지,,,,Turn off the Big Water Pump
 TUTORIAL_TAKEOFF_GRILLES,광부 그릴 제거,,,,Take off the Miner's Grilles
 TUTORIAL_TAKEOFF_MOSSES,광부 모스 제거,,,,Take off Miner's Mosses
-TUTORIAL_PUT_MOSSES_INTO_NUGGETATOR,이끼를 골드 너게이터로 설정,,,,Put Miner's Mosses into Gold Nuggetator
+TUTORIAL_PUT_MOSSES_INTO_NUGGETATOR,먼지를 골드 너게이터로 설정,,,,Put Miner's Mosses into Gold Nuggetator
 TUTORIAL_CLEAN_GRATES,나머지 그레이칭도 모두 깨끗하게 한다,,,,Clean all remaining Grates
 TUTORIAL_TAKE_BUCKET_SB4,스루스박스에서 양동이를 드세요.,,,,Take the Bucket from the Sluicebox
 TUTORIAL_TAKEBUCKET_NUGGETATOR,골드 너게이터에서 양동이를 가져옵니다.,,,,Take the Bucket from the Gold Nuggetator
@@ -1357,8 +1357,8 @@ NEWGAME_MODE_NORMAL,보통,,,,Normal
 NEWGAME_MODE_HARD,어려움,,,,Hard
 NEWGAME_MODE_LEADERBOARD,리더보드,,,,Leaderboard
 TUTORIAL_TURNOFF_NUGGETATOR,골드 너게이터를 끄십시오.,,,,Turn off the Gold Nuggetator
-TUTORIAL_TAKEOFF_MOSSES_FROM_NUGGETATOR,씻은 이끼를 골드 너게이터에서 가져옵니다.,,,,Take off the washed Miner's Mosses from the Gold Nuggetator
-TUTORIAL_PUT_MOSSES_SECOND_INTO_NUGGETATOR,금을 포함한 나머지 이끼를 골드 너게이터에 설정,,,,Put rest of gold-rich Miner's Mosses into the Gold Nuggetator
+TUTORIAL_TAKEOFF_MOSSES_FROM_NUGGETATOR,씻은 먼지를 골드 너게이터에서 가져옵니다.,,,,Take off the washed Miner's Mosses from the Gold Nuggetator
+TUTORIAL_PUT_MOSSES_SECOND_INTO_NUGGETATOR,금을 포함한 나머지 먼지를 골드 너게이터에 설정,,,,Put rest of gold-rich Miner's Mosses into the Gold Nuggetator
 TUTORIAL_TURNON_NUGGETATOR,골드 너게이터 스위치 켜기,,,,Turn on the Gold Nuggetator and wait while it finishes washing the Miner's Mosses
 TUTORIAL_PROMPT_HEADER,튜토리얼,,,,Tutorial
 TUTORIAL_PROMPT_CONTENT,튜토리얼을 플레이하고 @Gold Mining Simulator@에 대해 배우시겠습니까?,,,,Would you like to play the tutorial and learn how to play Gold Mining Simulator?
@@ -1366,10 +1366,10 @@ MENU_EXTERNAL_LINK_TITLE,게임에서 벗어나려고,External link,,,You're goi
 MENU_EXTERNAL_LINK_DESC,이 버튼으로 외부 사이트/폴더로 이동합니다. 게임 화면은 @ 최소화됩니다. 계속하시겠습니까?,are u sure u want to go to external ble ble ble,,,This button leads to an external site/folder. Your game will be minimized. Are you sure you want to proceed?
 TUTORIAL_RESTORE,"배낭을 열고(탭 키), 맵을 선택하고 픽업 트랙을 클릭한 후 복원을 클릭합니다.",,,,"Open Backpack, choose Map, select the Pickup and then select Restore."
 BLACKSMITH_PROMPT_ONSMELT_TITLE,대장장이의 일은 진행 중,,,,Blacksmith is working
-BLACKSMITH_PROMPT_ONSMELT_DESC,금을 제련하고 봉을 만들 때까지 약간의 시간이 필요합니다. 완성되면 알려지므로 나중에 돌아 갑시다.,,,,"It'll take some time before Blacksmith will smelt you a gold bar. You will be notified when that happens, so come back to him later."
+BLACKSMITH_PROMPT_ONSMELT_DESC,금을 제련하고 골드바를 만들 때까지 약간의 시간이 필요합니다. 완성되면 알려지므로 나중에 돌아 갑시다.,,,,"It'll take some time before Blacksmith will smelt you a gold bar. You will be notified when that happens, so come back to him later."
 PAINT_GUI_TO_BASE_COLOR,베이스 컬러,,,,To base color
-BLACKSMITH_PROMPT_TUTORIAL_REMELT_TITLE,첫번째 금연봉,,,,First Gold Bar
-BLACKSMITH_PROMPT_TUTORIAL_REMELT_DESC,"금연봉의 첫번째 튜토리얼에서는 완전 무료인 순간에 완성됩니다만, 다음 번부터는 돈과 완성까지 시간이 걸립니다. @@ 대장장이의 힘든 일이 끝날 때까지 기장에 기다리자. @@자철석을 모아 대장장이의 설비를 업그레이드함으로써 이 대기 시간을 줄일 수 있습니다. 이렇게하면 골드 손실, 제련 시간 또는 기타 중요한 자원 손실을 줄일 수 있습니다.",,,,"The first tutorial gold bar is completely free and will be smelt instanly, but next ones will take money and time to be completed.@@Be patient, while Blacksmith is doing his hard work.@@If you want it to be faster you can gather magnetite and upgrade Blacksmith's equipment. This way you can lower the gold loss, smelting time or other important statistics."
+BLACKSMITH_PROMPT_TUTORIAL_REMELT_TITLE,첫번째 골드바,,,,First Gold Bar
+BLACKSMITH_PROMPT_TUTORIAL_REMELT_DESC,"골드바의 첫번째 튜토리얼에서는 완전 무료인 순간에 완성됩니다만, 다음 번부터는 돈과 완성까지 시간이 걸립니다. @@ 대장장이의 힘든 일이 끝날 때까지 기장에 기다리자. @@자철석을 모아 대장장이의 설비를 업그레이드함으로써 이 대기 시간을 줄일 수 있습니다. 이렇게하면 골드 손실, 제련 시간 또는 기타 중요한 자원 손실을 줄일 수 있습니다.",,,,"The first tutorial gold bar is completely free and will be smelt instanly, but next ones will take money and time to be completed.@@Be patient, while Blacksmith is doing his hard work.@@If you want it to be faster you can gather magnetite and upgrade Blacksmith's equipment. This way you can lower the gold loss, smelting time or other important statistics."
 BLACKSMITH_GOLD_ORE_SALE_MARKET_PRICE_ORE_PRICE,광석 가격,,,,Ore Price
 BLACKSMITH_GOLD_ORE_SALE_PER_OZ_SALE_DESCRIPTION,(금 가격의 40%),,,,(40% of Gold Price)
 PAINT_GERMANY,독일,,,,Germany
@@ -1433,7 +1433,7 @@ HOTEL_NEW_SEASON_HEADER,호텔에 오신 것을 환영합니다,,,,Welcome to th
 HOTEL_NEW_SEASON_BODY,"안녕하세요! @@ 헤인즈 호텔에 오신 것을 환영합니다! 겨울에는 저희 호텔에서 보내시고 @봄이 오면 일로 돌아갈 수 있도록 부탁드립니다. @@골드를 파고 싶어도, 그것은 무리라는 것입니다. @@ 미안해.",,,,"Hello!@@Welcome to the Haines Hotel! You can spend the whole winter here, and get back to work at the beginning of the spring.@@You won't be able to dig for gold anyway.@@Cheers"
 HOTEL_NEW_SEASON_BUTTON,시즌 종료,,,,End Season
 ONE_DOLAR_DIFFICULTY_DESC,1$ 모드,,,,$1 Mode
-NUGGET_DIFFICULTY_DESC,골드 너겟,,,,Gold Nugget
+NUGGET_DIFFICULTY_DESC,금 덩어리,,,,Gold Nugget
 PROMPTS_DIFFICULTY_DESC,프롬프트,,,,Prompts
 DIGGING_HELPER_DIFFICULTY_DESC,발굴 도우미,,,,Digging Helper
 REPAIRS_DIFFICULTY_DESC,장비 고장,,,,Machine Failures
@@ -1735,7 +1735,7 @@ BROCHURE_TIER4_7,워시 플랜트 시스템 확장,,,,Wash Plant system extensio
 BROCHURE_TIER4_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER4_7_PLANTER,재배자,,,,Planter
 BROCHURE_TIER4_7_HOG PAN,호그 팬,,,,Hog Pan
-BROCHURE_TIER4_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extensions at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER4_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 먼지도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extensions at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER5,제5단계,,,,Tier 5
 BROCHURE_TIER5_1,중기점에 간다,,,,Go to the Machine Store
 BROCHURE_TIER5_2,구매:,,,,Buy:
@@ -1765,12 +1765,12 @@ BROCHURE_TIER5_7,워시 플랜트 시스템 확장,,,,Wash Plant system extensio
 BROCHURE_TIER5_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER5_7_GP,그라벨 펌프,,,,Gravel Pump
 BROCHURE_TIER5_7_HP,호그 팬,,,,Hog Pan
-BROCHURE_TIER5_7_HP_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER5_7_HP_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 먼지도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER3_7,워시 플랜트 시스템 확장,,,,Wash Plant system extension
 BROCHURE_TIER3_7_CABLES,· 대형 장비를 이동하려면 유압 굴삭기와 케이블을 사용하십시오,,,,Use cables and excavator to move heavy equipment!
 BROCHURE_TIER3_7_DUPLEXJIG,듀플렉스 지그,,,,Duplex Jig
 BROCHURE_TIER3_7_HOGPAN,호그 팬,,,,Hog Pan
-BROCHURE_TIER3_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 이끼도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
+BROCHURE_TIER3_7_DESC,"당신의 금 채굴 여행은 호그 팬으로 시작되었으며, 그 역할은 끝을 맞았습니다. 호그 팬과 그 확장 부품을 워시 플랜트 시스템에 넣으십시오. 호그 팬의 작은 먼지도 약간의 골드를 가져올 것이다.",,,,You've started your mining journey from Hog Pan and you'll end it with one. Attach the Hog Pan with extension at the end of the Wash Plant system. The additional gold will be gathered on the Hog Pan Mats.
 BROCHURE_TIER5_2_2GP,?그라벨 펌프 2개,,,,2 Gravel Pumps
 BROCHURE_TIER3,제3단계,,,,Tier 3
 STORY_1_PART_1,"「벤, 조심해!」@「에… @「시브트!기계의 스위치를 넣는거야, 빨리! 이 녀석은 너무 많다」@「안돼, 움직이지 않는다!」",,,,"- Ben, watch out!@- Wha...?@Endless streams of magnetite was falling through the ceiling.@- Shivd! Turn on the machine! Now! There is too much material.@- I’m trying, but it won’t start.@Shivd was struggling with the levers, but each of them were stuck."
